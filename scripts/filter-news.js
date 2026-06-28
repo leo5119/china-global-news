@@ -22,6 +22,12 @@ async function scoreArticle(article) {
 6. 中国科技公司的国际化动态（华为、小米、字节、腾讯、阿里、比亚迪等）
 7. 中国品牌在海外的口碑、销量、市场表现
 
+注意：以下类型的新闻不算出海相关，请标记为 relevant: false：
+- 军事、武器、防务、军工相关
+- 纯政治外交，没有商业内容
+- 制裁、贸易战等负面政治事件
+- 纯国内市场的新闻
+
 新闻标题：${article.title}
 新闻摘要：${article.summary.slice(0, 300)}
 
@@ -72,14 +78,12 @@ async function main() {
     results.push({ ...article, ...score });
   }
 
-  // 筛选出相关新闻，按分数排序
   const relevant = results
     .filter(a => a.relevant && a.score >= 6)
     .sort((a, b) => b.score - a.score);
 
   console.log(`\n筛选结果: ${relevant.length} 条出海相关新闻`);
 
-  // 保存筛选结果
   const outputDir = path.join('src', 'content', 'filtered');
   if (!fs.existsSync(outputDir)) fs.mkdirSync(outputDir, { recursive: true });
 
@@ -87,7 +91,6 @@ async function main() {
   fs.writeFileSync(outputPath, JSON.stringify(relevant, null, 2), 'utf-8');
   console.log(`已保存到 ${outputPath}`);
 
-  // 当天最高分的文章作为featured
   if (relevant.length > 0) {
     const featured = relevant[0];
     console.log(`\n今日精选: ${featured.title}`);

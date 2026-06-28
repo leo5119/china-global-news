@@ -5,14 +5,14 @@ import path from 'path';
 const parser = new Parser();
 
 const RSS_FEEDS = [
-  // 本地可访问
   { name: '36氪出海', url: 'https://36kr.com/feed', lang: 'zh' },
   { name: '钛媒体', url: 'https://www.tmtpost.com/feed', lang: 'zh' },
-  // GitHub Actions 抓（境外源）
-  // { name: 'Rest of World', url: 'https://restofworld.org/feed', lang: 'en' },
-  // { name: 'Tech in Asia', url: 'https://www.techinasia.com/feed', lang: 'en' },
-  // { name: 'SCMP Business', url: 'https://www.scmp.com/rss/91/feed', lang: 'en' },
-  // { name: 'Google News', url: 'https://news.google.com/rss/search?q=chinese+companies+global+expansion&hl=en', lang: 'en' },
+  { name: 'Rest of World', url: 'https://restofworld.org/feed', lang: 'en' },
+  { name: 'Tech in Asia', url: 'https://www.techinasia.com/feed', lang: 'en' },
+  { name: 'SCMP Business', url: 'https://www.scmp.com/rss/91/feed', lang: 'en' },
+  { name: 'Google News', url: 'https://news.google.com/rss/search?q=chinese+companies+global+expansion&hl=en&gl=US&ceid=US:en', lang: 'en' },
+  { name: 'Nikkei Asia', url: 'https://asia.nikkei.com/rss/feed/nar', lang: 'en' },
+  { name: 'Reuters Asia', url: 'https://feeds.reuters.com/reuters/businessNews', lang: 'en' },
 ];
 
 const HOURS_LIMIT = 48;

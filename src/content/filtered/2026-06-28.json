@@ -1,5 +1,16 @@
 [
   {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "How is China shaping up in the global competition to sell air defence weapons?",
+    "summary": "Chinese firms joined their global competitors at Eurosatory, the recently concluded arms fair, where the latest air defences were the centre of attention in a market made more important by the drone warfare seen in Ukraine and the Middle East.\nExperts said China could anticipate sales from the Global South thanks to its cost efficiency, but geopolitical constraints would continue to bar it from US-allied countries that were looking for combat-proven and interoperable systems.\nChina’s largest...",
+    "url": "https://www.scmp.com/news/china/military/article/3358646/how-china-shaping-global-competition-sell-air-defence-weapons?utm_source=rss_feed",
+    "publishedAt": "Sun, 28 Jun 2026 14:00:05 +0000",
+    "relevant": true,
+    "score": 9,
+    "reason": "该新闻涉及中国军工企业参加国际防务展并展示防空武器，属于中国企业在海外市场的业务拓展，符合主题1和主题5。"
+  },
+  {
     "source": "36氪出海",
     "lang": "zh",
     "title": "特锐德：入选沙特国家能源公司合格制造商名录",
@@ -7,18 +18,62 @@
     "url": "https://36kr.com/newsflashes/3872573871215621?f=rss",
     "publishedAt": "2026-06-28 17:07:39  +0800",
     "relevant": true,
-    "score": 10,
-    "reason": "新闻涉及中国电力设备企业特锐德进入沙特及中东电网核心供应链，属于中国企业在海外的业务拓展，且直接关联中东地区扩张和沙特国家能源项目。"
+    "score": 8,
+    "reason": "新闻涉及中国企业特锐德进入沙特核心供应链，符合中国企业在海外业务扩张及中东地区动态主题。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "For an Africa seeking growth, China is proving a reliable partner",
+    "summary": "On June 4, at a packing facility in Limuru near Nairobi, Kenya, avocados were being prepared for the Chinese market. The scene may seem mundane, but the politics behind it is significant.\nChina has removed tariffs on imports from 53 African countries. African exporters are beginning to think about Beijing less as a distant buyer than as a market that could reshape their margins.\nWhen the UN projected 4 per cent gross domestic product growth for Africa for 2026, the figure landed quietly. No...",
+    "url": "https://www.scmp.com/opinion/china-opinion/article/3358072/africa-seeking-growth-china-proving-reliable-partner?utm_source=rss_feed",
+    "publishedAt": "Sun, 28 Jun 2026 08:30:05 +0000",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻涉及中国对非洲国家取消关税，促进非洲商品出口到中国，体现了中国企业在非洲市场的合作与业务拓展，符合主题1和5。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Hong Kong can drive ‘China Opportunity 2.0’ push for global growth: Paul Chan",
+    "summary": "Hong Kong is uniquely positioned to add value to Beijing’s “China Opportunity 2.0” narrative, serving as a bridge and catalyst for the global expansion of mainland Chinese enterprises, the city’s finance chief has said.\nFinancial Secretary Paul Chan Mo-po also identified the Northern Metropolis megaproject in his weekly blog on Sunday as a destination that would empower mainland firms to commercialise their research outcomes and deepen technological development of both sides.\n“In the face of...",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358643/hong-kong-can-drive-china-opportunity-20-push-global-growth-paul-chan?utm_source=rss_feed",
+    "publishedAt": "Sun, 28 Jun 2026 08:16:50 +0000",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻聚焦香港作为桥梁推动内地企业全球扩张，直接涉及中国企业国际化动态和海外业务拓展。"
   },
   {
     "source": "36氪出海",
     "lang": "zh",
-    "title": "秋声 | 大秦储能冲港股IPO：锂价50万山顶囤货血泪史，亏本三年才清完",
-    "summary": "本文约2500字，建议阅读5分钟\n作者 | 彭孝秋\n编者按：AI 大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\n鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，观产业冷暖，辨公司成色，记录企业冲刺 IPO 途中那些被写下与被隐藏的真实。这是我们第三期，大秦数字能源。\n6月26日，储能公司大秦数字能源向港交所递交了上市申请。\n2025年，大秦数字能源收入25.25亿元，同比增长244.3%；毛利率从2024年的-19.9%反弹到23.2%；净利润由2024年的亏3.78亿元转为盈利1.25亿。一家刚从“亏损”爬出来的公司，转头就来敲港交所的门了。\n大秦数字能源的毛利率，怎么会在2024年做到-19.9%？硬氪从368页招股书里进行了一一拆解。\n\n锂价豪赌失败，最高位疯狂囤货导致爆亏\n故事的起点要回到2022年。当时碳酸锂价格在历史高位——按公开数据，2023年初电池级碳酸锂还在每吨50万元上。大秦在这个价位上大量采购电芯，并用这批高价电芯，于2022到2025年间生产了28.4万台户用ESS电池，招股书称之为“旧有存货”。\n\n赌注下完，市场却变了。一方面，欧洲分销商当初基于过度乐观预测给出的订单，实际兑现时远低于预期，导致整个欧洲户用储能供过于求；另一方面，2023年碳酸锂价格一路从50万元每吨暴跌至年末的10万元每吨，全年跌幅超过80%。2024年碳酸锂全年均价9.1万元每吨，较2023年再跌约65%。招股书也披露道：LFP电芯市场价2023、2024连续两年同比降幅约40%至50%。\n结果就是，大秦那批用山顶价造出来的电池，只能在欧洲市场进行低价大甩卖。2023年，低价甩卖11.37万台旧存货，对未售出的15.3万台计提存货撇减4700万元；2024年，再甩卖10.82万台，仅这部分就录得毛损1.3亿元。剩余6万台再撇减8140万元。叠加给分销商的价格优惠，最后造成全年毛利率-19.9%，其中高压电池毛利率甚至高达-80.6%；\n2025年，大秦清掉最后6万台旧存货，毛损3160万元；至2025年末，所有旧有存货已清零，自此这批存货不再计提减值。\n\n（图源/硬氪整理）\n到这里就能看出，大秦2023-2024年的“亏损黑洞”，本质上不是经营能力问题，而是一次对锂价周期的误判。原材料最高位时，疯狂囤货且极度乐观。大秦自己也承认“我们自身在预测、存货规划及定价方面应对不足”。\n那2025年的暴涨扭亏，又是咋回事呢？主要源于旧货清完、锂价企稳、欧洲需求回暖，三件事同时发生。毛利率最后才能反弹回23.2%。换句话说，2025年的亮眼，一半是经营恢复，一半是甩掉了拖后腿的历史包袱。\n\n整体业绩之外，硬氪从大秦的收入结构里，还看到了两次剧烈漂移。第一次是产品线。户用ESS始终是基本盘，但工商业ESS有快速崛起。户用ESS在2023年占收入99.3%，2025年降至75.7%。绝对额从7.18亿涨到19.11亿；工商业ESS在2023年占比仅仅0.2%，2025年暴涨至23.9%，即6.03亿元，毛利率33.2%，比户用ESS的20.1%还高。\n\n第二次是国内外占比。2023年，大秦还是一家中国内地占六成的公司。到2025年，95.1%的收入来自境外，光欧洲一个市场就占了61%。大秦自我定位是“首批专注海外ESS市场的中国企业之一”，按2025年出货量算，是全球第五大户用ESS提供商。这也意味着：大秦的命脉，牢牢和欧洲家庭的储能需求、欧洲电价、电网政策挂钩。\n\n除了地区依赖，大秦的渠道依赖也很强。其几乎完全靠分销商卖货，2023、2024、2025年分销商销售占比分别为86.4%、92.5%、98.2%。截至2025年末，大秦分销商总数503家，但流失高。2024、2025年分别解约了141家、278家。在前五大客户中收入占比中，已经从2023年的71.3%（最大单一客户曾占46.4%）回落到2025年的24.1%。\n\n（图源/硬氪整理）\n这个商业模式导致经营活动净现金流波动剧烈，2023年净流出2.13亿元、2024年加大流出3.77亿元、2025年净流入8130.5万元。\n融资活动所得现金净额中，最近三年分别为10.7亿元、1.65亿元、3167.5万元。\n\n四轮融资11亿元，有股东IPO前原价离场\n招股书称，2023年主要融资活动为附有优先股的投资者出资10.05亿、借款5.5亿元。\n\n从融资表看，大秦有过四次融资，具体来看：\n2022年仅半年时间，其A轮到A+轮估值就翻了近4倍；2023年B轮和C轮，估值再抬升到47.05亿。四轮外部股权融资合计约11.3亿元。\n2022年12月，大秦计划在A股上市，申报的是深交所创业板，还聘了海通做辅导。2023年7月开始上市辅导后，就再无消息，直到此次港股IPO。\n值得一提的是，C轮出现了中金系（中金上汽、中金智科）、路威凯腾（L Catterton），都是明星机构。但C轮发生在2023年6月，每股42元、对应47亿估值。而这年恰恰是大秦即将录得3.78亿年度亏损的2024年前夜。\n2025-2026年，也有一些C轮机构原价离场，只拿回了本金和利息。2025年7月，陕西财金把全部71.43万股转给江苏海四达，作价3493.8万元；2026年3月，路威凯腾把所持股份分三笔近7000万转给苏创智荟、苏创中荷、湖北优山，定价同样是注资+应计利息；递表前的2026年6月，天津华秦把全部71.43万股转给浏阳高创基金，作价3720.7万元，依据仍是注资+利息。\nIPO前，创始人柳扬直接持有41.1%，连同其控制的苏州溱湖畔、河漢江澤、楠樟梓椆三个平台，合计控制约59.04%。柳扬42岁，吉林大学机械工程及自动化学士。曾在比亚迪干了18年，2007-2019，最后职位是光伏事业部销售总监。董事会秘书柳金山，是柳扬堂兄弟。\n除了他来自比亚迪之外，高管几乎也全是比亚迪系。负责海外销售的总监童建成，曾在比亚迪汽车2006-2023年做了近20年销售；品牌及营销总监朱晓辉，曾任比亚迪汽车高级技术支持工程师；副总经理、工商业ESS总监李程，比亚迪汽车解决方案部副经理出身；财务总监赵然志，2006年起在比亚迪集团任职，直到2021年。\n除了比亚迪系，大秦团队里还有派能科技系，全球服务中心柳华勤曾在中兴派能做PACK工程师。和固德威系，户用ESS超级产品团队总经理刘滔，2026年4月刚从固德威ESS产品总监任上加盟。\n368页招股书揭示出的大秦故事是：按2025年出货量，全球第五大户用ESS提供商，仅次于特斯拉、华为、德业。另一家产品已铺到100多个国家，累计出货超100万台电池。但大秦98%的收入也压在分销商身上、95%押在海外，仅欧洲就61%。\n一支比亚迪系老兵班底，用一次代价惨重的库存豪赌，换来了对周期的敬畏。又靠2025年的爆发，把自己重新推到了港交所门口。上市之后表现如何，我们持续关注。",
-    "url": "https://36kr.com/p/3871109381035011?f=rss",
-    "publishedAt": "2026-06-27 15:37:59  +0800",
+    "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+    "summary": "文｜贺哲馨\n编辑｜乔芊\nJudy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。\n按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。\n“有点像抽签，也有点像开盲盒。”Judy笑着说，“明明我是才是买家，结果搞得像在申请什么私人会员俱乐部。越进不去，越想进去看看。”\nJudy试图进入的，是近年来正在中国一线城市兴起的一类新渠道——会员制奢侈品特卖平台。On The List是其中最具代表性的玩家之一。这家公司2016年成立于香港，以限时快闪的形式销售奢侈品、设计师品牌和生活方式产品。与传统奥莱不同，它既不拥有品牌，也不经营长期折扣门店，而是直接与品牌合作，在限定时间内销售库存商品。其官网上的一句标语颇具代表性：“The smartest shopping isn't public（最聪明的购物不公开）”。\n\n图片来源：On The List\n最近几年，类似这样的平台正在上海、北京、香港、新加坡等城市不断出现。它们的线下店大多开在核心商圈附近，采用会员邀请制、预约制或者限时快闪模式，与人们熟悉的郊区奥莱形成鲜明区别。\n这些平台更愿意把自己称作“特卖平台”而非“奥莱”，因为从商业逻辑上看，它们本质上确已属于另一种业态——传统奥莱更接近地产生意：依靠品牌入驻、租金和联营扣点获利。而城市特卖平台则更接近零售生意：面积更小、资产更轻，依赖买手能力、供应链管理和库存周转效率。\n它们出现的背景，与奢侈品行业近年来越来越沉重的库存压力有关。开云（Kering）在2025年把库存削减了8%，并计划2026年继续压降；在4月的资本市场日上，公司提出的\"ReconKering\"计划明确要在2026年底前净削减约10亿欧元库存，并把库存水平控制在销售额的20%以内。Gucci的业绩依然低迷，本季度销售额下降了8%。\n对于奢侈品牌而言，库存积压的成本远高于普通消费品行业。仓储、物流和资金占用只是表面问题，更重要的是，大量库存会拖累现金流，并对未来价格体系形成压力。\n一位长期服务奢侈品牌的供应链人士告诉36氪，过去品牌更愿意把货品留在仓库里等待下一轮销售机会，但如今多数企业对于库存周转天数的考核越来越严格，“与其放着贬值，不如尽快变现。只要渠道足够隐蔽，不影响正价体系，品牌愿意给出比过去更大的折扣。”\n奢侈品行业的高毛利率，也给这种模式提供了空间。业内普遍认为，奢侈品牌的定倍率通常在十倍以上，部分顶级品牌甚至可能达到数十倍。即便商品以原价的两到三折出售，品牌依然有机会覆盖成本并回收现金流。\n因此，对品牌而言，参与特卖的核心目标往往不是赚取更多利润，而是提高库存周转效率。\n一位开云集团内部人士告诉36氪，目前类似On The List的平台与品牌合作主要存在两种模式。一种是买断批发，由平台直接采购库存；另一种则是代理销售，由品牌掌握定价权，平台收取佣金，后者利润“更为可观”。相比批发模式，奢侈品牌通常更偏爱代理模式。这样既能控制价格体系，也能掌握库存流向。\n“渠道管理越严格的品牌，快闪活动表现通常越好。”一位长期参与特卖项目的人士告诉我们，一些热门品牌的快闪活动虽然持续时间只有四五天，但单日销售额就可能达到数百万元甚至更高。这一数字在整个行业进入放缓的背景之下，绝非小打小闹。\n当然，特卖也不是什么新鲜事。二十多年前，欧美时尚行业便存在被称作 Sample Sale（样品特卖）的销售形式。参与者通常是品牌员工、媒体编辑、买手和熟客群体。它更像一种行业内部福利，而非面向公众的零售活动。在那个时代，信息差本身就是门槛，知道活动在哪里举办、何时开始、如何获得资格，往往比购买能力更重要。\n随着奢侈品行业规模扩大、产量增长以及库存持续累积，这种原本封闭的小圈子活动逐渐演变成标准化的库存处理机制。疫情之后，这一趋势进一步加速。麦肯锡预测，奢侈品牌的折扣市场在2025至2030年间的增长速度预计将是正价市场的五倍。\n但更值得关注的是，进入这些平台的品牌构成正在发生变化。\n如果说十年前的特卖渠道主要承接的是上一季甚至数年前的库存，那么今天出现在快闪名单里的品牌，已经越来越接近消费者正在讨论的那批热门名字。从Miu Miu、The Row到Lemaire、Jil Sander，不少品牌的的产品仍处于市场热度高位。这意味着特卖渠道不再只是处理“卖不掉的商品”，而正在成为品牌库存管理体系中的常规环节。即便是仍然具备市场需求的产品，只要错过销售周期，也会被纳入更高效的周转体系。\n小红书网友@小象分享On The List香港太古里的线下门店购买的miu miu，从原价三万打完折8000的皮衣，到现价1000不到的格纹短裤，这些货品并非外界想象的那样过时，或者设计难看得惊人，相反，从实穿角度来看性价比颇高。\n但对于平台而言，快闪终究是一门高度依赖项目制的生意。每一次活动都意味着重新寻找货源、重新获客、重新搭建销售场景。当市场规模扩大后，仅依靠几天一次的特卖显然无法支撑持续增长。对于平台而言，最大的挑战并不是卖货，而是如何获得稳定、持续的库存来源。\n于是越来越多特卖平台开始从单纯的活动运营商转向零售商：开设常驻门店、引入更多品类、增加自营采购比例，以提高周转效率和经营确定性。\nOpenmaxx开时仓的创始人Dylan Wang曾就职于字节，在纽约读研期间为当地特卖零售商Prive代理过跨境电商业务。2022年回国之后，Dylan复制了Prive的模式，在上海成立了Openrack Flash Sales，一开始只做奢侈和轻奢品牌的快闪特卖，两年时间内扩张到了六座城市。\n2025年，Openrack Flash Sales改名为Openmaxx，开始将业务扩展至家居、宠物、美妆、运动休闲、香氛等品类，模式也从限时快闪转向常驻门店与快闪结合，同时主动缩减门店规模。如今，小红书上还能找到的常驻门店，仅剩重庆和上海。\n这种变化反映的并不仅仅是一家企业的发展路径，更折射出会员制特卖行业始终存在的一种张力：奢侈品牌需要这样的平台，但平台却很难仅靠奢侈品生存。\n从这一角度，奢侈品牌与特卖平台之间就像是城市与地下错综复杂的排水系统的关系。正价门店负责展示品牌价值，奥莱负责承接规模化折扣，而这些会员制特卖平台则负责消化那些既不能留在橱窗里、又不适合公开降价的库存。它们并不创造需求，却维持着整个系统的运转效率。\n对于消费者而言，这是一场寻找低价好货的游戏；对于品牌而言，这是库存管理与渠道控制的一环；而对于平台而言，则是一场关于品类扩张、会员留存和商业模型能否成立的长期考验。",
+    "url": "https://36kr.com/p/3867976058803459?f=rss",
+    "publishedAt": "2026-06-28 08:37:08  +0800",
     "relevant": true,
     "score": 6,
-    "reason": "新闻涉及中国储能企业大秦数字能源冲刺港股IPO，属于中国企业海外融资动态，但主要聚焦其国内经营历史，与海外市场扩张、品牌国际化等直接关联较弱。"
+    "reason": "新闻涉及中国消费者通过会员制特卖平台购买打折奢侈品（如Miu Miu），属于中国品牌/电商平台在消费领域的国际化相关动态，但主要聚焦国内市场模式，海外关联度中等。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "全球电商集体向\"退货党\"说不，免费无限退货的时代要结束了",
+    "summary": "电商平台曾经用免费退货换增长，2026 年，它们开始为这套增长机制补账。",
+    "url": "https://www.tmtpost.com/8044164.html",
+    "publishedAt": "Sun, 28 Jun 2026 09:57:00 +0800",
+    "relevant": true,
+    "score": 6,
+    "reason": "新闻涉及全球电商平台（含跨境电商）的退货政策变化，影响到中国跨境电商平台（如SHEIN、Temu、速卖通）的海外运营与市场策略，与主题3和7间接相关。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "The final insurance frontier: Hong Kong spots opportunity in mainland China’s space boom",
+    "summary": "Elon Musk’s recent record-breaking SpaceX IPO has thrust the space economy into the financial mainstream, but mainland China’s trillion-yuan commercial space sector remains strikingly underinsured – a gap industry insiders say presents a rare opportunity for Hong Kong.\nOn the mainland, only third-party liability insurance is mandatory for commercial space activities. Coverage for research and development, manufacturing, testing, launches and in-orbit operations remained largely optional,...",
+    "url": "https://www.scmp.com/tech/article/3358494/final-insurance-frontier-hong-kong-spots-opportunity-mainland-chinas-space-boom?utm_source=rss_feed",
+    "publishedAt": "Sun, 28 Jun 2026 13:00:10 +0000",
+    "relevant": true,
+    "score": 6,
+    "reason": "新闻涉及中国商业航天产业保险缺口及香港的机遇，关联中国企业在海外（香港）的业务机会和扩张，但核心更偏保险金融而非直接企业国际化动态。"
   }
 ]

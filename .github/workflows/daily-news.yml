@@ -31,6 +31,11 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
 
+      - name: Translate news
+        run: node scripts/translate-news.js
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"

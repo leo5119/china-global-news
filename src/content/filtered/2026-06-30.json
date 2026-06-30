@@ -1,0 +1,112 @@
+[
+  {
+    "source": "36氪出海",
+    "lang": "zh",
+    "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+    "summary": "大公司：\n蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。\n中国移动确认设立Token办公室\n6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从中国移动方面获悉，中国移动确实成立了Token办公室，但其余网传内容，如“Token 办公室级别更高，由集团核心领导直接挂帅”等则未获确认。（每日经济新闻）\n英伟达支持的Firmus与DayOne将在印尼建造AI数据中心园区\n由英伟达支持的数据中心运营商Firmus将在印尼建设一座AI数据中心园区。该公司表示，该项目将在前六年内带来价值高达300亿美元的协议。澳大利亚企业Firmus在一份声明中宣布，已与英伟达达成一项为期八年的合作协议，在印尼巴淡岛建设一座装机容量达360兆瓦的专属英伟达DSX AI工厂园区；该岛屿与新加坡隔海相望。Firmus表示，这一大型数据中心项目将与总部位于新加坡的DayOne联手开发。（新浪财经）\n百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶\n36氪获悉，近日，百度正式发布并开源端到端OCR模型Unlimited OCR。模型发布次日即登顶GitHub Daily Trending榜、Python榜，在HuggingFace全球模型总趋势榜和多模态模型趋势榜也均排名第一。Unlimited OCR面向长文档解析场景打造，总参数规模3B、推理时激活参数仅约570M。公开评测结果显示，Unlimited OCR在OmniDocBench v1.6基准测试中取得 93.92% 综合成绩，刷新端到端OCR最新纪录。\n马斯克：SpaceX计划今年每月发布一个全新的人工智能模型\n当地时间周日（28日），马斯克在其社交媒体平台X上发文称，旗下最新一代大语言模型Grok 4.5已正式在SpaceX和特斯拉内部开启Beta测试，之后才会进行更广泛的推广。马斯克还表示，SpaceX计划在今年剩余的时间里每月发布一个“完全从零开始训练”的全新人工智能模型。这番言论暗示，未来的版本可能并非对现有系统的简单改进，而是通过全新训练构建的全新基础模型。（财联社）\n投融资：\n“URTOPIA”完成B轮融资，融资总额超2亿元\n36氪获悉，全球智能电助力自行车品牌“URTOPIA”近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。\n今日观点：\nKimi B端负责人黄震昕：行业肯定有泡沫，但基本面很扎实\n“今年以来所有模型厂商都在涨价，核心原因是算力成本在全球范围内上涨，不管海外还是国内的卡，都跟不上token需求的增长。”月之暗面Kimi B端负责人黄震昕在近期一场媒体沟通会上坦言。下游企业AI应用需求爆发式增长，上游算力供给却因芯片产能限制持续紧张。他认为，供需两端的双重挤压下，API价格水涨船高已是必然。他同时回应了外界对行业泡沫的担忧。“现在肯定有泡沫，”他承认，但随即补充道，“Anthropic已经实现了季度盈利，收益是实实在在的。”泡沫存在，但基本面并不空洞，当生产力真实发生质变时，算得过账的企业会持续投入，这正是行业健康度的信号。（21财经）\n其他值得关注的新闻：\n国务院印发《教育发展“十五五”规划》\n国务院日前印发《教育发展“十五五”规划》，明确了“十五五”时期加快建设教育强国的目标任务、政策举措和重大项目。规划围绕适应学龄人口变化、支撑国家重大战略、服务现代化产业体系建设，对完善教育资源前瞻布局、强化教育区域布局、优化人才培养布局进行系统部署。规划提出，到2030年，教育强国建设取得显著成效，高质量教育体系基本建成。党对教育事业全面领导的制度体系和工作机制更加完善，德智体美劳全面培养体系更加健全，立德树人成效更加显著，人民群众教育获得感显著增强，教育对科技和人才的支撑更加有力，学习型社会基本形成，我国教育的国际影响力、竞争力和话语权显著提升。（新华社）\n2026深圳食博会、渔博会、茶博会即将同日启幕\n2026深圳食博会、深圳渔博会、深圳春季茶博会将于7月2日联袂亮相深圳会展中心（福田）。据了解，三大展会由华巨臣主办，立足粤港澳大湾区世界级消费市场与产业枢纽优势，汇聚全球优质食材、尖端科技企业、地方特色产业集群，打造食品、渔业、茶业一体化商贸平台。三展集结1500+家参展商，覆盖30+国家及地区，配套20余场行业专题论坛，全力推动产业资源高效落地。\n热浪侵袭欧洲多国，多地接连刷新6月高温历史纪录\n6月，刚刚熬过5月热浪的欧洲再次迎来闷热天气，多地出现破纪录高温。这并不是单独的天气事件，气候变化正让极端天气变得更常见，持续时间也更长。从联合国官员到气候领域科学家都发出警告，全球必须加快应对气候挑战的进程。世界天气归因联盟26日发布的一项最新研究显示，受气候变化影响，欧洲高温天气发生概率已是20年前的200倍。（新华社）\n李在明：韩国需要加快芯片生产基地建设以满足需求，西南地区将在新项目中投资5万亿至20万亿韩元\n韩国总统李在明称，芯片和人工智能领域竞争非常激烈，韩国需要加快芯片生产基地建设以满足需求；将通过投资西南地区扩大芯片供应能力，西南地区将在新项目中投资5万亿至20万亿韩元，光州、全罗可能在项目中投资520万亿韩元。（财联社）\n美国养老金即将被动调仓，300亿美元卖盘“已在路上”\n随着2026年上半年临近收官，美国大型养老金计划即将启动半年度资产再平衡操作，市场测算预计将有总计300亿美元的美股资产集中在本周一和周二两日强制抛售。美国公共养老金、企业固定收益养老计划和目标日期基金普遍执行60%股票+40%固收资产的硬性配置框架，该比例写入机构投资政策文件。美国大型养老金的股票仓位已经显著超配，而债券明显仓位不足。因此，在这最后两天的半年度结算窗口中，华尔街分析师预计，一场300亿美元规模的大型抛售冲击将不可避免。（新浪财经）",
+    "url": "https://36kr.com/p/3873626425332743?f=rss",
+    "publishedAt": "2026-06-29 19:00:26  +0800",
+    "relevant": true,
+    "score": 9,
+    "reason": "新闻摘要中蜜雪冰城在吉尔吉斯斯坦开店并已进入海外16个国家，符合中国品牌海外扩张和全球化动态主题。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Chinese companies secure 76% of global BESS market as industry leadership strengthens - Green Building Africa",
+    "summary": "Chinese companies secure 76% of global BESS market as industry leadership strengthens  Green Building Africa",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGZpX0tMVThVMDkzYkRRQ2tUZ25NYTBnUEU1UEZGNFd2VTlHQ0FHM0ZRa3dxNHRtaGxEUzNvMzJVUXR3Z0VuZzc0VnMzajlfYzlqblJkaW04SkhCLUpvLUhIcWxBUFNCcG9HeUVyVWkzS1REb2tfcUxKQkgwc0Q2eTlDMzVqRHk0VVgyWnVvcXFnN3p1aEJHLTRiSFdRZ0QweDREaVZfYUwxeENfMm1ISnZGQjVmelZBSUFVZ0hHSFQ?oc=5",
+    "publishedAt": "Tue, 30 Jun 2026 01:05:15 GMT",
+    "relevant": true,
+    "score": 9,
+    "reason": "该新闻显示中国企业在全球电池储能系统（BESS）市场占据主导地位，涉及中国企业的海外市场表现与份额，符合主题5和7。"
+  },
+  {
+    "source": "36氪出海",
+    "lang": "zh",
+    "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+    "summary": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。\n其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。\n2020年前，中国CGM市场几乎被外资品牌垄断。从2021年首款国产产品获批到如今，国产品牌在国内的市场份额不仅快速增长，甚至开始在欧洲等海外市场与国际巨头正面交锋。\n专注糖尿病管理类医疗器械产品研发的微泰医疗是CGM出海浪潮中的典型代表，也是CGM厂商中少数同时拥有胰岛素泵和CGM产品的企业。2025年，微泰医疗实现营收6.61亿元，同比增长91.20%，净利润4015万元，实现首次盈利。\n增长背后更值得关注的是微泰医疗海外业务的快速放量，2025年海外收入达到3.43亿元，同比大增227.20%，规模首次超过国内收入。\n1.从治疗到监测覆盖糖尿病管理品类\n以往糖尿病人使用的传统胰岛素泵主要为管路式，需要随身携带，并通过导管连接到贴扎在腹部的留置针上，不方便随身携带。\n而微泰医疗研发的贴敷式胰岛素泵，通过将马达、储药器、驱动系统和输注针等部件全部集成进一个重量仅有23克的微型装置，可以直接按需输注胰岛素，并做到精准控制注射量。\n\n微泰医疗研发的贴敷式胰岛素泵\n凭借这款产品，微泰医疗迅速打开糖尿病管理品类大门。2021年，微泰医疗的血糖监测产品AiDEX G7开始同时在国内和海外实现商业化销售，当年为微泰医疗带来近400万元营业收入。\n也是在2021年，微泰医疗成功在港交所上市，当年总营收达到1.51亿元。\n到2024年，CGM业务已成为微泰医疗的业务增长主力。据公司财报，2024年CGM收入占比52.2%，营收达到1.80亿元；2025年，CGM业务已经占比68.30%，实现营收4.52亿元。\n微泰医疗CGM业务增长的动力，很大程度上来自近年来“控糖”概念在大众中的普及。原本只有糖尿病患者才会使用的血糖监测仪器，变得像运动手表一样，成为养生人士的生活必备用品。魔镜洞察数据显示，2025年国内线上电商平台CGM销售额约15.4亿元，同比增速达45.8%。在海外成熟市场，主动血糖管理用户也已占到CGM用户的10%。\n为了让更多用户接触和使用CGM，微泰医疗这些年也在持续做营销推广，比如2025年赞助桐庐半程马拉松、成都马拉松等大型赛事，邀请参赛选手试戴CGM产品，在运动过程中实时观察血糖变化；与Tims咖啡合作，用“咖啡+血糖监测”组合向更多年轻群体渗透。\n目前，人工胰腺产品是微泰医疗正在积极布局的新方向，国内首款产品预计今年底之前上市。据微泰医疗执行董事兼高级副总裁、首席战略发展官施永辉介绍，这款产品将胰岛素泵与CGM结合，CGM实时监测血糖，自研AI算法计算所需胰岛素剂量，胰岛素泵自动注射精准输注。这款人工胰腺产品以院内渠道为主，首次使用需在医院完成。\n此外，微泰医疗今年还将继续推出新款CGM，与现有产品线相比价格更便宜。\n2.闯关CE、打通医保，海外增长227%\n微泰医疗的出海之路几乎与拓展国内市场同步发生。2017年和2020年，微泰医疗的胰岛素泵和CGM产品分别获得欧盟CE认证。“拿到欧盟CE认证后，再去中东、东南亚、拉美等地区时，后续的注册门槛会降低很多，能够加速获得准入。”施永辉解释道。\n自2021年，微泰医疗已经设立了欧洲、美洲和亚太等主要大区营销团队，搭建起全球化组织骨架。\n拿到CE认证只是入场券，进入当地医保市场才是大规模商业化的关键，而这需要补充当地的临床数据、收集医生专家问卷以及与国际品牌进行对比评估。微泰医疗先从意大利、波兰、罗马尼亚等东欧临床市场切入，和当地的CRO公司合作补充临床数据，并优先选择本地认可度高的医院的医生合作，为医保准入赢得更多信任，再逐步拓展至德国、荷兰、英国等西欧发达国家。\n\n微泰医疗的动态血糖仪\n在欧洲市场，微泰医疗采取灵活多品牌策略：在医保市场和医院渠道，可与当地大型经销商伙伴推出联合品牌；在C端零售市场则使用自有品牌，主要通过亚马逊等电商平台销售。\n对此施永辉解释：“不同于国内发达的电商零售市场，欧洲CGM产品销售仍然以院线和专业经销商为主，因此需要一国一策，根据不同国家的需求进行定制化适配。”\n面对中国企业的竞争，海外巨头企业凭借先发优势，利用“专利网”进行封堵。“专利诉讼是中国医疗器械国际化的必修课之一，在其他行业（如手机、扫地机器人、内窥镜）的中国公司早已经历过类似阶段，但最后都可以突破。”施永辉表示，面对巨头的专利狙击，微泰医疗持续对产品设计进行升级，从根源上避开海外巨头的专利封锁，同时持续布局自身的创新发明专利。\n2025年，微泰医疗营收达到6.61亿元人民币，同比增长91.20%；其中海外收入为3.43亿元，同比大增227.20%，占比首次超过国内。凭借持续提升的经营效率和费用率的下降，国内和海外业务高增长，推动微泰医疗首次实现盈利。\n从CGM全球市场格局来看，目前能够自主研发CGM及胰岛素泵的企业，基本集中在美国和中国，其他国家和地区则缺乏相关产业配套能力。\n欧洲一直是中美企业竞争激烈的主战场，而由于国外企业对非洲、拉美等新兴市场重视不足，对当地的市场教育和渠道建设投入相对有限，这给了中国企业更多的发展机会。",
+    "url": "https://36kr.com/p/3873902389794053?f=rss",
+    "publishedAt": "2026-06-29 15:02:23  +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻聚焦中国医疗器械公司微泰医疗的海外营收增长，属于中国企业在海外市场的业务扩张和表现。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "亚洲空调军团，在欧洲集体爆单",
+    "summary": "美的被抢完，三星、LG也卖疯了。",
+    "url": "https://www.tmtpost.com/8045160.html",
+    "publishedAt": "Tue, 30 Jun 2026 08:57:00 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻涉及美的、三星、LG等亚洲家电品牌（含中国企业）在欧洲市场的销售爆发，属于中国企业在海外市场的业务表现和扩张。"
+  },
+  {
+    "source": "Rest of World",
+    "lang": "en",
+    "title": "I went to the Maldives. Everyone wanted to talk about Temu",
+    "summary": "The Chinese shopping app has become so popular that even a government surcharge couldn't slow demand.",
+    "url": "https://restofworld.org/2026/china-consumer-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "publishedAt": "Mon, 29 Jun 2026 10:00:58 +0000",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻聚焦中国跨境电商平台Temu在马尔代夫受欢迎，提及需求旺盛，属于跨境电商平台国际化及市场表现主题。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Philippines courts Greater Bay Area investors as gateway to Southeast Asia",
+    "summary": "The Philippines is uniquely positioned to serve as a gateway for Greater Bay Area businesses into Southeast Asia, the country’s trade secretary said on Tuesday, as she outlined Manila’s push to promote a pro-investment environment.\nSpeaking at the South China Morning Post’s GBA-Asean Summit 2026, Cristina Aldeguer-Roque urged investors to view the Philippines as a springboard into the region and to tap into the country’s young, digitally fluent workforce.\n“We are a maritime, demographic and...",
+    "url": "https://www.scmp.com/week-asia/economics/article/3358861/philippines-courts-greater-bay-area-investors-gateway-southeast-asia?utm_source=rss_feed",
+    "publishedAt": "Tue, 30 Jun 2026 06:00:44 +0000",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻涉及菲律宾政府吸引中国大湾区投资者，属于中国企业在东南亚地区的海外投资与扩张主题。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻涉及中国科技公司小米、OPPO、vivo调整海外市场智能手机出货目标，属于中国企业在海外的业务与市场表现动态。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge",
+    "summary": "The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs.\nRoyalty financing gives drug developers an alternative way to raise capital even as US investment restrictions loom, according to an expert.\n“Chinese biotech firms would need royalty financing as an...",
+    "url": "https://www.scmp.com/business/china-business/article/3358830/funding-option-royalties-giant-opens-hong-kong-base-mainland-china-biotech-deals-surge?utm_source=rss_feed",
+    "publishedAt": "Tue, 30 Jun 2026 03:00:12 +0000",
+    "relevant": true,
+    "score": 7,
+    "reason": "新闻涉及跨国药企在香港设立亚太基地，背景是中国生物科技公司对外授权交易激增，属于中国企业在海外业务及国际合作相关的全球化动态。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Hong Kong Promotes Global Expansion for East China's Innovation and Tech Enterprises in Shanghai Seminar - 巴士的報",
+    "summary": "Hong Kong Promotes Global Expansion for East China's Innovation and Tech Enterprises in Shanghai Seminar  巴士的報",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV25yQUVXelR6UkMxSVp4VlNwclJSUUdFNzdqcUJLaDJYSkNCckVtcE9TUzZ6R3ZfUmVwcW5qMXFBOXY1OVk4ZW5BMXcyOHhhb2RvdGVIVEtJclBTSTBqVmJoQndrTzc1V0lva2ZjbnA4WkMzRGxCWl82aHNGTi1oN3JkNlphVHJZTDJNVUk0N3lhU1FOWkF1MlBwLWdnMkhEb2tLeVp6ek1rZ1dtcGZXOGd1OHNlMWlNYy15YWEzUUlhcWZicDhsaFc2Z3hyVjJXN2hQZUw0YTJ1d19EWDZwb2lhM3c0YjdrWURj?oc=5",
+    "publishedAt": "Mon, 29 Jun 2026 11:15:00 GMT",
+    "relevant": true,
+    "score": 7,
+    "reason": "新闻涉及香港推动华东创新科技企业全球扩张，属于中国企业国际化动态及海外业务拓展主题。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "Momenta招股书拆解：损益表里的两副面孔",
+    "summary": "数据在变好，但风险也在累积。",
+    "url": "https://www.tmtpost.com/8046741.html",
+    "publishedAt": "Tue, 30 Jun 2026 12:10:37 +0800",
+    "relevant": true,
+    "score": 6,
+    "reason": "Momenta是中国自动驾驶科技公司，其招股书涉及海外业务拓展或上市动态，属于中国科技公司国际化范畴。"
+  }
+]

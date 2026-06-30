@@ -1,0 +1,450 @@
+{
+  "zh": [
+    {
+      "source": "36氪出海",
+      "lang": "zh",
+      "title": "氪星晚报｜百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶；国务院印发《教育发展“十五五”规划》；美国养老金即将被动调仓，300亿美元卖盘“已在路上”",
+      "summary": "大公司：\n蜜雪冰城吉尔吉斯斯坦三店同开，已进入海外16个国家\n36氪获悉，近日，蜜雪冰城三家门店在吉尔吉斯斯坦首都比什凯克营业，正式进入吉尔吉斯斯坦市场。吉尔吉斯斯坦是蜜雪冰城在中亚的第二站。2025年4月，蜜雪冰城哈萨克斯坦首店落地阿拉木图。在这之后，又相继进入美国、巴西、墨西哥等新市场，持续推进全球化布局。截至目前，蜜雪冰城已进入海外16个国家。\n中国移动确认设立Token办公室\n6月28日晚间，有消息称，中国移动继设立数智事业部、算力办之后，又设立了Token办公室，旨在打通“创造Token、输送Token、应用Token”的全流程，打破多个二级部门“各管一摊”的局面。6月29日下午，从中国移动方面获悉，中国移动确实成立了Token办公室，但其余网传内容，如“Token 办公室级别更高，由集团核心领导直接挂帅”等则未获确认。（每日经济新闻）\n英伟达支持的Firmus与DayOne将在印尼建造AI数据中心园区\n由英伟达支持的数据中心运营商Firmus将在印尼建设一座AI数据中心园区。该公司表示，该项目将在前六年内带来价值高达300亿美元的协议。澳大利亚企业Firmus在一份声明中宣布，已与英伟达达成一项为期八年的合作协议，在印尼巴淡岛建设一座装机容量达360兆瓦的专属英伟达DSX AI工厂园区；该岛屿与新加坡隔海相望。Firmus表示，这一大型数据中心项目将与总部位于新加坡的DayOne联手开发。（新浪财经）\n百度OCR模型Unlimited OCR在HuggingFace、GitHub四榜登顶\n36氪获悉，近日，百度正式发布并开源端到端OCR模型Unlimited OCR。模型发布次日即登顶GitHub Daily Trending榜、Python榜，在HuggingFace全球模型总趋势榜和多模态模型趋势榜也均排名第一。Unlimited OCR面向长文档解析场景打造，总参数规模3B、推理时激活参数仅约570M。公开评测结果显示，Unlimited OCR在OmniDocBench v1.6基准测试中取得 93.92% 综合成绩，刷新端到端OCR最新纪录。\n马斯克：SpaceX计划今年每月发布一个全新的人工智能模型\n当地时间周日（28日），马斯克在其社交媒体平台X上发文称，旗下最新一代大语言模型Grok 4.5已正式在SpaceX和特斯拉内部开启Beta测试，之后才会进行更广泛的推广。马斯克还表示，SpaceX计划在今年剩余的时间里每月发布一个“完全从零开始训练”的全新人工智能模型。这番言论暗示，未来的版本可能并非对现有系统的简单改进，而是通过全新训练构建的全新基础模型。（财联社）\n投融资：\n“URTOPIA”完成B轮融资，融资总额超2亿元\n36氪获悉，全球智能电助力自行车品牌“URTOPIA”近日已完成B轮融资，融资总额超2亿元人民币。本轮融资由Brizan Ventures与桐乡市政府产业基金领投，高秉强、Kungho Fund、光远和声等机构持续加注。本轮融资完成后，URTOPIA将继续加大在核心技术研发、全球市场拓展、供应链建设和组织能力升级方面的投入，并推动公司从智能电助力自行车品牌，向以户外具身智能和人机耦合智能运动技术为核心的公司发展。\n今日观点：\nKimi B端负责人黄震昕：行业肯定有泡沫，但基本面很扎实\n“今年以来所有模型厂商都在涨价，核心原因是算力成本在全球范围内上涨，不管海外还是国内的卡，都跟不上token需求的增长。”月之暗面Kimi B端负责人黄震昕在近期一场媒体沟通会上坦言。下游企业AI应用需求爆发式增长，上游算力供给却因芯片产能限制持续紧张。他认为，供需两端的双重挤压下，API价格水涨船高已是必然。他同时回应了外界对行业泡沫的担忧。“现在肯定有泡沫，”他承认，但随即补充道，“Anthropic已经实现了季度盈利，收益是实实在在的。”泡沫存在，但基本面并不空洞，当生产力真实发生质变时，算得过账的企业会持续投入，这正是行业健康度的信号。（21财经）\n其他值得关注的新闻：\n国务院印发《教育发展“十五五”规划》\n国务院日前印发《教育发展“十五五”规划》，明确了“十五五”时期加快建设教育强国的目标任务、政策举措和重大项目。规划围绕适应学龄人口变化、支撑国家重大战略、服务现代化产业体系建设，对完善教育资源前瞻布局、强化教育区域布局、优化人才培养布局进行系统部署。规划提出，到2030年，教育强国建设取得显著成效，高质量教育体系基本建成。党对教育事业全面领导的制度体系和工作机制更加完善，德智体美劳全面培养体系更加健全，立德树人成效更加显著，人民群众教育获得感显著增强，教育对科技和人才的支撑更加有力，学习型社会基本形成，我国教育的国际影响力、竞争力和话语权显著提升。（新华社）\n2026深圳食博会、渔博会、茶博会即将同日启幕\n2026深圳食博会、深圳渔博会、深圳春季茶博会将于7月2日联袂亮相深圳会展中心（福田）。据了解，三大展会由华巨臣主办，立足粤港澳大湾区世界级消费市场与产业枢纽优势，汇聚全球优质食材、尖端科技企业、地方特色产业集群，打造食品、渔业、茶业一体化商贸平台。三展集结1500+家参展商，覆盖30+国家及地区，配套20余场行业专题论坛，全力推动产业资源高效落地。\n热浪侵袭欧洲多国，多地接连刷新6月高温历史纪录\n6月，刚刚熬过5月热浪的欧洲再次迎来闷热天气，多地出现破纪录高温。这并不是单独的天气事件，气候变化正让极端天气变得更常见，持续时间也更长。从联合国官员到气候领域科学家都发出警告，全球必须加快应对气候挑战的进程。世界天气归因联盟26日发布的一项最新研究显示，受气候变化影响，欧洲高温天气发生概率已是20年前的200倍。（新华社）\n李在明：韩国需要加快芯片生产基地建设以满足需求，西南地区将在新项目中投资5万亿至20万亿韩元\n韩国总统李在明称，芯片和人工智能领域竞争非常激烈，韩国需要加快芯片生产基地建设以满足需求；将通过投资西南地区扩大芯片供应能力，西南地区将在新项目中投资5万亿至20万亿韩元，光州、全罗可能在项目中投资520万亿韩元。（财联社）\n美国养老金即将被动调仓，300亿美元卖盘“已在路上”\n随着2026年上半年临近收官，美国大型养老金计划即将启动半年度资产再平衡操作，市场测算预计将有总计300亿美元的美股资产集中在本周一和周二两日强制抛售。美国公共养老金、企业固定收益养老计划和目标日期基金普遍执行60%股票+40%固收资产的硬性配置框架，该比例写入机构投资政策文件。美国大型养老金的股票仓位已经显著超配，而债券明显仓位不足。因此，在这最后两天的半年度结算窗口中，华尔街分析师预计，一场300亿美元规模的大型抛售冲击将不可避免。（新浪财经）",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "publishedAt": "2026-06-29 19:00:26  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻摘要中蜜雪冰城在吉尔吉斯斯坦开店并已进入海外16个国家，符合中国品牌海外扩张和全球化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Chinese companies secure 76% of global BESS market as industry leadership strengthens - Green Building Africa",
+      "summary": "Chinese companies secure 76% of global BESS market as industry leadership strengthens  Green Building Africa",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGZpX0tMVThVMDkzYkRRQ2tUZ25NYTBnUEU1UEZGNFd2VTlHQ0FHM0ZRa3dxNHRtaGxEUzNvMzJVUXR3Z0VuZzc0VnMzajlfYzlqblJkaW04SkhCLUpvLUhIcWxBUFNCcG9HeUVyVWkzS1REb2tfcUxKQkgwc0Q2eTlDMzVqRHk0VVgyWnVvcXFnN3p1aEJHLTRiSFdRZ0QweDREaVZfYUwxeENfMm1ISnZGQjVmelZBSUFVZ0hHSFQ?oc=5",
+      "publishedAt": "Tue, 30 Jun 2026 01:05:15 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻显示中国企业在全球电池储能系统（BESS）市场占据主导地位，涉及中国企业的海外市场表现与份额，符合主题5和7。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "zh",
+      "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
+      "summary": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。\n其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖变化，在“控糖”成为流行生活方式的当下，迅速走进普罗大众的生活。\n2020年前，中国CGM市场几乎被外资品牌垄断。从2021年首款国产产品获批到如今，国产品牌在国内的市场份额不仅快速增长，甚至开始在欧洲等海外市场与国际巨头正面交锋。\n专注糖尿病管理类医疗器械产品研发的微泰医疗是CGM出海浪潮中的典型代表，也是CGM厂商中少数同时拥有胰岛素泵和CGM产品的企业。2025年，微泰医疗实现营收6.61亿元，同比增长91.20%，净利润4015万元，实现首次盈利。\n增长背后更值得关注的是微泰医疗海外业务的快速放量，2025年海外收入达到3.43亿元，同比大增227.20%，规模首次超过国内收入。\n1.从治疗到监测覆盖糖尿病管理品类\n以往糖尿病人使用的传统胰岛素泵主要为管路式，需要随身携带，并通过导管连接到贴扎在腹部的留置针上，不方便随身携带。\n而微泰医疗研发的贴敷式胰岛素泵，通过将马达、储药器、驱动系统和输注针等部件全部集成进一个重量仅有23克的微型装置，可以直接按需输注胰岛素，并做到精准控制注射量。\n\n微泰医疗研发的贴敷式胰岛素泵\n凭借这款产品，微泰医疗迅速打开糖尿病管理品类大门。2021年，微泰医疗的血糖监测产品AiDEX G7开始同时在国内和海外实现商业化销售，当年为微泰医疗带来近400万元营业收入。\n也是在2021年，微泰医疗成功在港交所上市，当年总营收达到1.51亿元。\n到2024年，CGM业务已成为微泰医疗的业务增长主力。据公司财报，2024年CGM收入占比52.2%，营收达到1.80亿元；2025年，CGM业务已经占比68.30%，实现营收4.52亿元。\n微泰医疗CGM业务增长的动力，很大程度上来自近年来“控糖”概念在大众中的普及。原本只有糖尿病患者才会使用的血糖监测仪器，变得像运动手表一样，成为养生人士的生活必备用品。魔镜洞察数据显示，2025年国内线上电商平台CGM销售额约15.4亿元，同比增速达45.8%。在海外成熟市场，主动血糖管理用户也已占到CGM用户的10%。\n为了让更多用户接触和使用CGM，微泰医疗这些年也在持续做营销推广，比如2025年赞助桐庐半程马拉松、成都马拉松等大型赛事，邀请参赛选手试戴CGM产品，在运动过程中实时观察血糖变化；与Tims咖啡合作，用“咖啡+血糖监测”组合向更多年轻群体渗透。\n目前，人工胰腺产品是微泰医疗正在积极布局的新方向，国内首款产品预计今年底之前上市。据微泰医疗执行董事兼高级副总裁、首席战略发展官施永辉介绍，这款产品将胰岛素泵与CGM结合，CGM实时监测血糖，自研AI算法计算所需胰岛素剂量，胰岛素泵自动注射精准输注。这款人工胰腺产品以院内渠道为主，首次使用需在医院完成。\n此外，微泰医疗今年还将继续推出新款CGM，与现有产品线相比价格更便宜。\n2.闯关CE、打通医保，海外增长227%\n微泰医疗的出海之路几乎与拓展国内市场同步发生。2017年和2020年，微泰医疗的胰岛素泵和CGM产品分别获得欧盟CE认证。“拿到欧盟CE认证后，再去中东、东南亚、拉美等地区时，后续的注册门槛会降低很多，能够加速获得准入。”施永辉解释道。\n自2021年，微泰医疗已经设立了欧洲、美洲和亚太等主要大区营销团队，搭建起全球化组织骨架。\n拿到CE认证只是入场券，进入当地医保市场才是大规模商业化的关键，而这需要补充当地的临床数据、收集医生专家问卷以及与国际品牌进行对比评估。微泰医疗先从意大利、波兰、罗马尼亚等东欧临床市场切入，和当地的CRO公司合作补充临床数据，并优先选择本地认可度高的医院的医生合作，为医保准入赢得更多信任，再逐步拓展至德国、荷兰、英国等西欧发达国家。\n\n微泰医疗的动态血糖仪\n在欧洲市场，微泰医疗采取灵活多品牌策略：在医保市场和医院渠道，可与当地大型经销商伙伴推出联合品牌；在C端零售市场则使用自有品牌，主要通过亚马逊等电商平台销售。\n对此施永辉解释：“不同于国内发达的电商零售市场，欧洲CGM产品销售仍然以院线和专业经销商为主，因此需要一国一策，根据不同国家的需求进行定制化适配。”\n面对中国企业的竞争，海外巨头企业凭借先发优势，利用“专利网”进行封堵。“专利诉讼是中国医疗器械国际化的必修课之一，在其他行业（如手机、扫地机器人、内窥镜）的中国公司早已经历过类似阶段，但最后都可以突破。”施永辉表示，面对巨头的专利狙击，微泰医疗持续对产品设计进行升级，从根源上避开海外巨头的专利封锁，同时持续布局自身的创新发明专利。\n2025年，微泰医疗营收达到6.61亿元人民币，同比增长91.20%；其中海外收入为3.43亿元，同比大增227.20%，占比首次超过国内。凭借持续提升的经营效率和费用率的下降，国内和海外业务高增长，推动微泰医疗首次实现盈利。\n从CGM全球市场格局来看，目前能够自主研发CGM及胰岛素泵的企业，基本集中在美国和中国，其他国家和地区则缺乏相关产业配套能力。\n欧洲一直是中美企业竞争激烈的主战场，而由于国外企业对非洲、拉美等新兴市场重视不足，对当地的市场教育和渠道建设投入相对有限，这给了中国企业更多的发展机会。",
+      "url": "https://36kr.com/p/3873902389794053?f=rss",
+      "publishedAt": "2026-06-29 15:02:23  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国医疗器械公司微泰医疗的海外营收增长，属于中国企业在海外市场的业务扩张和表现。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "亚洲空调军团，在欧洲集体爆单",
+      "summary": "美的被抢完，三星、LG也卖疯了。",
+      "url": "https://www.tmtpost.com/8045160.html",
+      "publishedAt": "Tue, 30 Jun 2026 08:57:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及美的、三星、LG等亚洲家电品牌（含中国企业）在欧洲市场的销售爆发，属于中国企业在海外市场的业务表现和扩张。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "en",
+      "title": "I went to the Maldives. Everyone wanted to talk about Temu",
+      "summary": "The Chinese shopping app has become so popular that even a government surcharge couldn't slow demand.",
+      "url": "https://restofworld.org/2026/china-consumer-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 29 Jun 2026 10:00:58 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国跨境电商平台Temu在马尔代夫受欢迎，提及需求旺盛，属于跨境电商平台国际化及市场表现主题。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Philippines courts Greater Bay Area investors as gateway to Southeast Asia",
+      "summary": "The Philippines is uniquely positioned to serve as a gateway for Greater Bay Area businesses into Southeast Asia, the country’s trade secretary said on Tuesday, as she outlined Manila’s push to promote a pro-investment environment.\nSpeaking at the South China Morning Post’s GBA-Asean Summit 2026, Cristina Aldeguer-Roque urged investors to view the Philippines as a springboard into the region and to tap into the country’s young, digitally fluent workforce.\n“We are a maritime, demographic and...",
+      "url": "https://www.scmp.com/week-asia/economics/article/3358861/philippines-courts-greater-bay-area-investors-gateway-southeast-asia?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 06:00:44 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及菲律宾政府吸引中国大湾区投资者，属于中国企业在东南亚地区的海外投资与扩张主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国科技公司小米、OPPO、vivo调整海外市场智能手机出货目标，属于中国企业在海外的业务与市场表现动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge",
+      "summary": "The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs.\nRoyalty financing gives drug developers an alternative way to raise capital even as US investment restrictions loom, according to an expert.\n“Chinese biotech firms would need royalty financing as an...",
+      "url": "https://www.scmp.com/business/china-business/article/3358830/funding-option-royalties-giant-opens-hong-kong-base-mainland-china-biotech-deals-surge?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 03:00:12 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及跨国药企在香港设立亚太基地，背景是中国生物科技公司对外授权交易激增，属于中国企业在海外业务及国际合作相关的全球化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Hong Kong Promotes Global Expansion for East China's Innovation and Tech Enterprises in Shanghai Seminar - 巴士的報",
+      "summary": "Hong Kong Promotes Global Expansion for East China's Innovation and Tech Enterprises in Shanghai Seminar  巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV25yQUVXelR6UkMxSVp4VlNwclJSUUdFNzdqcUJLaDJYSkNCckVtcE9TUzZ6R3ZfUmVwcW5qMXFBOXY1OVk4ZW5BMXcyOHhhb2RvdGVIVEtJclBTSTBqVmJoQndrTzc1V0lva2ZjbnA4WkMzRGxCWl82aHNGTi1oN3JkNlphVHJZTDJNVUk0N3lhU1FOWkF1MlBwLWdnMkhEb2tLeVp6ek1rZ1dtcGZXOGd1OHNlMWlNYy15YWEzUUlhcWZicDhsaFc2Z3hyVjJXN2hQZUw0YTJ1d19EWDZwb2lhM3c0YjdrWURj?oc=5",
+      "publishedAt": "Mon, 29 Jun 2026 11:15:00 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港推动华东创新科技企业全球扩张，属于中国企业国际化动态及海外业务拓展主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "Momenta招股书拆解：损益表里的两副面孔",
+      "summary": "数据在变好，但风险也在累积。",
+      "url": "https://www.tmtpost.com/8046741.html",
+      "publishedAt": "Tue, 30 Jun 2026 12:10:37 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "Momenta是中国自动驾驶科技公司，其招股书涉及海外业务拓展或上市动态，属于中国科技公司国际化范畴。"
+    }
+  ],
+  "en": [
+    {
+      "source": "36氪出海",
+      "lang": "en",
+      "title": "Krypton Evening News | Baidu OCR model Unlimited OCR tops four leaderboards on HuggingFace and GitHub; State Council issues the \"Fifteenth Five-Year Plan for Education Development\"; U.S. pension funds are about to undergo passive rebalancing, with a $30 billion sell-off \"already on the way\"",
+      "summary": "Large Companies:  \nMixue Ice Cream & Tea opens three stores simultaneously in Kyrgyzstan, expanding to 16 overseas countries.  \nAs reported by 36Kr, Mixue Ice Cream & Tea recently opened three stores in Bishkek, the capital of Kyrgyzstan, officially entering the market of Kyrgyzstan. Kyrgyzstan is Mixue's second stop in Central Asia. In April 2025, Mixue's first store in Kazakhstan opened in Almaty. Since then, it has successively entered new markets such as the United States, Brazil, and Mexico, continuously advancing its global expansion. To date, Mixue Ice Cream & Tea has entered 16 overseas countries.  \n\nChina Mobile confirms the establishment of a Token Office.  \nOn the evening of June 28, it was reported that China Mobile, following the establishment of a Digital Intelligence Business Unit and a Computing Power Office, has also set up a Token Office aimed at streamlining the entire process of \"creating tokens, transmitting tokens, and applying tokens\" to break down the situation where multiple secondary departments \"manage their own affairs independently.\" On the afternoon of June 29, China Mobile confirmed that the Token Office has indeed been established. However, other online rumors, such as \"the Token Office is at a higher level and is directly led by core group leaders,\" have not been confirmed. (National Business Daily)  \n\nNvidia-backed Firmus and DayOne to build an AI data center campus in Indonesia.  \nFirmus, a data center operator supported by Nvidia, will build an AI data center campus in Indonesia. The company stated that the project will generate agreements worth up to $30 billion over the first six years. Australian firm Firmus announced in a statement...",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "publishedAt": "2026-06-29 19:00:26  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻摘要中蜜雪冰城在吉尔吉斯斯坦开店并已进入海外16个国家，符合中国品牌海外扩张和全球化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Chinese companies secure 76% of global BESS market as industry leadership strengthens - Green Building Africa",
+      "summary": "Chinese companies secure 76% of global BESS market as industry leadership strengthens  Green Building Africa",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGZpX0tMVThVMDkzYkRRQ2tUZ25NYTBnUEU1UEZGNFd2VTlHQ0FHM0ZRa3dxNHRtaGxEUzNvMzJVUXR3Z0VuZzc0VnMzajlfYzlqblJkaW04SkhCLUpvLUhIcWxBUFNCcG9HeUVyVWkzS1REb2tfcUxKQkgwc0Q2eTlDMzVqRHk0VVgyWnVvcXFnN3p1aEJHLTRiSFdRZ0QweDREaVZfYUwxeENfMm1ISnZGQjVmelZBSUFVZ0hHSFQ?oc=5",
+      "publishedAt": "Tue, 30 Jun 2026 01:05:15 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻显示中国企业在全球电池储能系统（BESS）市场占据主导地位，涉及中国企业的海外市场表现与份额，符合主题5和7。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "en",
+      "title": "Strong demand for smart blood glucose management has driven MicroTech Medical's overseas revenue to surge by 227.2%.",
+      "summary": "Following innovative drugs, the overseas expansion of medical devices is entering a phase of rapid growth. According to data from Zhiyan Consulting, from January to April 2026, China's export value of medical instruments and devices reached $7.09 billion, a year-on-year increase of 12.40%.  \n\nAmong them, the overseas expansion trend of Continuous Glucose Monitoring (CGM) systems can be seen as a typical industry sample of transitioning from \"import substitution\" to global breakout. CGM, formally known as the \"continuous glucose monitoring system,\" continuously tracks changes in blood glucose levels. As \"blood sugar control\" has become a popular lifestyle trend, it has quickly entered the daily lives of the general public.  \n\nBefore 2020, China's CGM market was almost entirely dominated by foreign brands. Since the first domestically produced product received approval in 2021, domestic brands have not only rapidly increased their market share in China but have also begun to directly compete with international giants in overseas markets such as Europe.  \n\nMicroTech Medical, which focuses on developing diabetes management medical devices, is a typical representative of the CGM overseas expansion wave. It is also one of the few CGM manufacturers that offers both insulin pumps and CGM products. In 2025, MicroTech Medical achieved revenue of 661 million yuan, a year-on-year increase of 91.20%, with a net profit of 40.15 million yuan—marking its first profitable year.  \n\nWhat is even more noteworthy behind this growth is the rapid expansion of MicroTech Medical's overseas business. In 2025, its overseas revenue reached 343 million yuan, a substantial year-on-year increase of 227.20%, surpassing domestic revenue for the first time in scale.  \n\n1. Covering Diabetes Management Categories from Treatment to Monitoring  \nTraditional insulin pumps used by diabetes patients in the past were mainly tube-based, requiring patients to carry them around and use catheters.",
+      "url": "https://36kr.com/p/3873902389794053?f=rss",
+      "publishedAt": "2026-06-29 15:02:23  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国医疗器械公司微泰医疗的海外营收增长，属于中国企业在海外市场的业务扩张和表现。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Asian air conditioning manufacturers are seeing a surge in orders across Europe.",
+      "summary": "Midea has been snapped up, and Samsung and LG are also selling like crazy.",
+      "url": "https://www.tmtpost.com/8045160.html",
+      "publishedAt": "Tue, 30 Jun 2026 08:57:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及美的、三星、LG等亚洲家电品牌（含中国企业）在欧洲市场的销售爆发，属于中国企业在海外市场的业务表现和扩张。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "en",
+      "title": "I went to the Maldives. Everyone wanted to talk about Temu.",
+      "summary": "The Chinese shopping app has become so popular that even a government surcharge couldn't slow demand.",
+      "url": "https://restofworld.org/2026/china-consumer-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 29 Jun 2026 10:00:58 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国跨境电商平台Temu在马尔代夫受欢迎，提及需求旺盛，属于跨境电商平台国际化及市场表现主题。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Philippines courts Greater Bay Area investors as gateway to Southeast Asia",
+      "summary": "The Philippines is uniquely positioned to serve as a gateway for Greater Bay Area businesses into Southeast Asia, the country’s trade secretary said on Tuesday, as she outlined Manila’s push to promote a pro-investment environment. Speaking at the South China Morning Post’s GBA-Asean Summit 2026, Cristina Aldeguer-Roque urged investors to view the Philippines as a springboard into the region and to tap into the country’s young, digitally fluent workforce. “We are a maritime, demographic and...",
+      "url": "https://www.scmp.com/week-asia/economics/article/3358861/philippines-courts-greater-bay-area-investors-gateway-southeast-asia?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 06:00:44 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及菲律宾政府吸引中国大湾区投资者，属于中国企业在东南亚地区的海外投资与扩张主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's Xiaomi, Oppo, Vivo cut 2026 smartphone targets again: sources",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国科技公司小米、OPPO、vivo调整海外市场智能手机出货目标，属于中国企业在海外的业务与市场表现动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Funding option: royalties giant opens Hong Kong base as mainland China biotech deals surge",
+      "summary": "The world’s largest buyer of biopharmaceutical royalties has set up its first Asia-Pacific base in Hong Kong, joining a string of multinational corporations in the pharmaceutical sector establishing offices in the city as out-licensing deals by mainland Chinese biotechnology firms hit record highs.  \nRoyalty financing gives drug developers an alternative way to raise capital even as US investment restrictions loom, according to an expert.  \n“Chinese biotech firms would need royalty financing as an..",
+      "url": "https://www.scmp.com/business/china-business/article/3358830/funding-option-royalties-giant-opens-hong-kong-base-mainland-china-biotech-deals-surge?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 03:00:12 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及跨国药企在香港设立亚太基地，背景是中国生物科技公司对外授权交易激增，属于中国企业在海外业务及国际合作相关的全球化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Hong Kong Promotes Global Expansion for East China's Innovation and Tech Enterprises in Shanghai Seminar - 巴士的報",
+      "summary": "Hong Kong Promotes Global Expansion for East China's Innovation and Tech Enterprises in Shanghai Seminar 巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV25yQUVXelR6UkMxSVp4VlNwclJSUUdFNzdqcUJLaDJYSkNCckVtcE9TUzZ6R3ZfUmVwcW5qMXFBOXY1OVk4ZW5BMXcyOHhhb2RvdGVIVEtJclBTSTBqVmJoQndrTzc1V0lva2ZjbnA4WkMzRGxCWl82aHNGTi1oN3JkNlphVHJZTDJNVUk0N3lhU1FOWkF1MlBwLWdnMkhEb2tLeVp6ek1rZ1dtcGZXOGd1OHNlMWlNYy15YWEzUUlhcWZicDhsaFc2Z3hyVjJXN2hQZUw0YTJ1d19EWDZwb2lhM3c0YjdrWURj?oc=5",
+      "publishedAt": "Mon, 29 Jun 2026 11:15:00 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港推动华东创新科技企业全球扩张，属于中国企业国际化动态及海外业务拓展主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Momenta Prospectus Analysis: The Two Faces in the Income Statement",
+      "summary": "The data is improving, but risks are also accumulating.",
+      "url": "https://www.tmtpost.com/8046741.html",
+      "publishedAt": "Tue, 30 Jun 2026 12:10:37 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "Momenta是中国自动驾驶科技公司，其招股书涉及海外业务拓展或上市动态，属于中国科技公司国际化范畴。"
+    }
+  ],
+  "ja": [
+    {
+      "source": "36氪出海",
+      "lang": "ja",
+      "title": "氪星晚报｜百度OCRモデル「Unlimited OCR」がHuggingFace、GitHubで4つのランキングを制覇；国務院が『教育発展「十五五」計画』を発表；米国の年金がまもなくパッシブ・リバランス、300億ドルの売り圧力「既に進行中」",
+      "summary": "大企業：\n蜜雪冰城、キルギスタンで3店舗同時オープン、すでに海外16カ国に進出\n36Krが入手した情報によると、先日、蜜雪冰城の3店舗がキルギスタンの首都ビシュケクで営業を開始し、正式にキルギスタン市場に参入した。キルギスタンは蜜雪冰城にとって中央アジアにおける2カ国目の進出先となる。2025年4月、蜜雪冰城のカザフスタン1号店がアルマトイにオープン。その後、米国、ブラジル、メキシコなどの新市場にも相次いで進出し、グローバル展開を継続的に推進している。現在までに、蜜雪冰城は海外16カ国に進出している。\n\n中国移動、Tokenオフィスの設立を確認\n6月28日夜、中国移動がデジタルインテリジェンス事業部や算力オフィスに続き、Tokenオフィスを設立したとの情報が流れた。これは「Tokenの生成、Tokenの供給、Tokenの応用」の全プロセスを一元化し、複数の二次部門が「各々の担当範囲を管理する」状況を打破することを目的としている。6月29日午後、中国移動の関係者から、中国移動が確かにTokenオフィスを設立したことが確認されたが、「Tokenオフィスはより高いレベルの組織で、グループの中核リーダーが直接指揮を執る」などの他のネット上の情報については確認されていない。（毎日経済新聞）\n\n英偉達（NVIDIA）が支援するFirmusとDayOne、インドネシアにAIデータセンター団地を建設へ\n英偉達（NVIDIA）が支援するデータセンター事業者Firmusは、インドネシアにAIデータセンター団地を建設する。同社によると、このプロジェクトは最初の6年間で最大300億ドル相当の契約をもたらす見込みである。オーストラリア企業のFirmusは声明の中で、",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "publishedAt": "2026-06-29 19:00:26  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻摘要中蜜雪冰城在吉尔吉斯斯坦开店并已进入海外16个国家，符合中国品牌海外扩张和全球化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "中国企業が世界のBESS市場の76%を獲得、業界リーダーシップが強化 - グリーンビルディングアフリカ",
+      "summary": "中国企業が世界のBESS市場の76%を確保、業界のリーダーシップが強化される グリーンビルディングアフリカ",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGZpX0tMVThVMDkzYkRRQ2tUZ25NYTBnUEU1UEZGNFd2VTlHQ0FHM0ZRa3dxNHRtaGxEUzNvMzJVUXR3Z0VuZzc0VnMzajlfYzlqblJkaW04SkhCLUpvLUhIcWxBUFNCcG9HeUVyVWkzS1REb2tfcUxKQkgwc0Q2eTlDMzVqRHk0VVgyWnVvcXFnN3p1aEJHLTRiSFdRZ0QweDREaVZfYUwxeENfMm1ISnZGQjVmelZBSUFVZ0hHSFQ?oc=5",
+      "publishedAt": "Tue, 30 Jun 2026 01:05:15 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻显示中国企业在全球电池储能系统（BESS）市场占据主导地位，涉及中国企业的海外市场表现与份额，符合主题5和7。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "ja",
+      "title": "智能血糖管理への需要が旺盛で、微泰医療の海外売上高は227.2%増加した。",
+      "summary": "革新的な医薬品に続き、医療機器の海外展開が活況を迎えている。智研諮詢のデータによると、2026年1月から4月にかけて、中国の医療用機器及び器具の輸出額は70.90億ドルに達し、前年同期比12.40%増加した。  \nその中でも、持続血糖モニター（CGM）カテゴリーの海外展開は、「輸入代替」から世界的な突破への典型的な業界サンプルと見なすことができる。CGMの学術名称は「持続グルコースモニタリングシステム」であり、人体の血糖値の変化を連続的にモニタリングする。血糖値コントロールが生活習慣として浸透しつつある現代において、急速に一般消費者の間で普及している。  \n2020年以前、中国のCGM市場はほぼ外資系ブランドによって独占されていた。2021年に初の国産製品が承認されて以降、国産ブランドの国内市場シェアは急速に拡大し、欧州などの海外市場でも国際的な大手企業と直接競合するまでに成長した。  \n糖尿病管理用医療機器の研究開発に特化した微泰医療（MicroTech Medical）は、CGM海外展開の波における典型的な代表格であり、CGMメーカーの中でもインスリンポンプとCGM製品の両方を保有する数少ない企業である。2025年、微泰医療は売上高6.61億元（前年同期比91.20%増）、純利益4015万元を達成し、初の黒字化を実現した。  \n成長の背後でより注目すべきは、微泰医療の海外事業の急速な拡大である。2025年の海外売上高は3.43億元に達し、前年比227.20%増加し、初めて国内売上高を上回った。  \n1. 治療からモニタリングまで、糖尿病管理カテゴリーをカバー  \n従来、糖尿病患者が使用する伝統的なインスリンポンプは主にチューブ式であり、携帯して持ち歩き、カテーテルを介して使用する必要があった。",
+      "url": "https://36kr.com/p/3873902389794053?f=rss",
+      "publishedAt": "2026-06-29 15:02:23  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国医疗器械公司微泰医疗的海外营收增长，属于中国企业在海外市场的业务扩张和表现。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "アジアのエアコン軍団、欧州で一斉に注文爆発",
+      "summary": "美的は売り切れ続出、サムスンやLGも飛ぶように売れている。",
+      "url": "https://www.tmtpost.com/8045160.html",
+      "publishedAt": "Tue, 30 Jun 2026 08:57:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及美的、三星、LG等亚洲家电品牌（含中国企业）在欧洲市场的销售爆发，属于中国企业在海外市场的业务表现和扩张。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "ja",
+      "title": "モルディブに行きました。誰もがTemuの話をしたがっていました。",
+      "summary": "中国のショッピングアプリは、政府の追加課税さえも需要を鈍らせることができないほど人気が高まっています。",
+      "url": "https://restofworld.org/2026/china-consumer-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 29 Jun 2026 10:00:58 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国跨境电商平台Temu在马尔代夫受欢迎，提及需求旺盛，属于跨境电商平台国际化及市场表现主题。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "フィリピン、東南アジアへの玄関口として大湾区の投資家を誘致",
+      "summary": "フィリピンは、大湾圏（グレーターベイエリア）の企業が東南アジアへ進出するための玄関口として独自の立場にあると、フィリピン貿易長官が火曜日に述べ、投資に適した環境を促進するためのマニラの取り組みを概説しました。  \nサウスチャイナ・モーニング・ポスト主催の「GBA-Asean Summit 2026」で講演したクリスティーナ・アルデゲル＝ロケ氏は、投資家に対し、フィリピンを地域への足がかりとして捉え、同国の若くデジタルに精通した労働力を活用するよう呼びかけました。  \n「私たちは海洋、人口動態、そして…」",
+      "url": "https://www.scmp.com/week-asia/economics/article/3358861/philippines-courts-greater-bay-area-investors-gateway-southeast-asia?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 06:00:44 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及菲律宾政府吸引中国大湾区投资者，属于中国企业在东南亚地区的海外投资与扩张主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国のXiaomi、Oppo、Vivoが2026年のスマートフォン目標を再び下方修正：関係筋",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国科技公司小米、OPPO、vivo调整海外市场智能手机出货目标，属于中国企业在海外的业务与市场表现动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "資金調達オプション：ロイヤルティ大手が香港拠点を開設、中国本土のバイオテクノロジー取引が急増",
+      "summary": "世界最大のバイオ医薬品ロイヤリティ買取企業が、アジア太平洋地域初の拠点を香港に設立した。中国本土のバイオテクノロジー企業によるアウトライセンス契約が過去最高を記録する中、製薬分野の多国籍企業が相次いで香港にオフィスを開設する流れに加わったものである。\n\n専門家によれば、米国の投資規制が迫る中、ロイヤリティファイナンスは医薬品開発企業にとって代替の資金調達手段となるとされる。\n\n「中国のバイオテクノロジー企業は、ロイヤリティファイナンスを…」",
+      "url": "https://www.scmp.com/business/china-business/article/3358830/funding-option-royalties-giant-opens-hong-kong-base-mainland-china-biotech-deals-surge?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 03:00:12 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及跨国药企在香港设立亚太基地，背景是中国生物科技公司对外授权交易激增，属于中国企业在海外业务及国际合作相关的全球化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "香港が上海セミナーで東中国のイノベーション・ハイテク企業のグローバル展開を促進 - 巴士的報",
+      "summary": "香港が上海のセミナーで華東地域のイノベーション・テクノロジー企業のグローバル展開を促進  巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV25yQUVXelR6UkMxSVp4VlNwclJSUUdFNzdqcUJLaDJYSkNCckVtcE9TUzZ6R3ZfUmVwcW5qMXFBOXY1OVk4ZW5BMXcyOHhhb2RvdGVIVEtJclBTSTBqVmJoQndrTzc1V0lva2ZjbnA4WkMzRGxCWl82aHNGTi1oN3JkNlphVHJZTDJNVUk0N3lhU1FOWkF1MlBwLWdnMkhEb2tLeVp6ek1rZ1dtcGZXOGd1OHNlMWlNYy15YWEzUUlhcWZicDhsaFc2Z3hyVjJXN2hQZUw0YTJ1d19EWDZwb2lhM3c0YjdrWURj?oc=5",
+      "publishedAt": "Mon, 29 Jun 2026 11:15:00 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港推动华东创新科技企业全球扩张，属于中国企业国际化动态及海外业务拓展主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "モメンタの目論見書分析：損益計算書に潜む二つの顔",
+      "summary": "データは改善しているが、リスクも蓄積されている。",
+      "url": "https://www.tmtpost.com/8046741.html",
+      "publishedAt": "Tue, 30 Jun 2026 12:10:37 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "Momenta是中国自动驾驶科技公司，其招股书涉及海外业务拓展或上市动态，属于中国科技公司国际化范畴。"
+    }
+  ],
+  "ar": [
+    {
+      "source": "36氪出海",
+      "lang": "ar",
+      "title": "**ترجمة النص إلى العربية:**  \nنشرة مساء كربتون 🪐 | نموذج OCR غير المحدود من بايدو يتصدر أربع قوائم على HuggingFace وGitHub؛ مجلس الدولة يصدر \"خطة الخمسة عشر الخمسية لتطوير التعليم\"؛ صناديق التقاعد الأمريكية على وشك إعادة تعديل محافظها الاستثمارية، وصفقات بيع بقيمة 30 مليار دولار \"في الطريق\".",
+      "summary": "الشركات الكبرى:\nافتتحت Mixue Bingcheng ثلاثة فروع في قيرغيزستان، ودخلت 16 دولة حول العالم\n36 كر حصلت على معلومات، مؤخرًا، افتتحت Mixue Bingcheng ثلاثة متاجر في العاصمة بيشكيك في قيرغيزستان، ودخلت رسميًا سوق قيرغيزستان. قيرغيزستان هي المحطة الثانية لـ Mixue Bingcheng في آسيا الوسطى. في أبريل 2025، افتتحت أول متجر لـ Mixue Bingcheng في كازاخستان في ألماتي. بعد ذلك، دخلت الشركة أسواقًا جديدة مثل الولايات المتحدة والبرازيل والمكسيك، لمواصلة تعزيز انتشارها العالمي. حتى الآن، دخلت Mixue Bingcheng 16 دولة حول العالم.\nChina Mobile تؤكد إنشاء مكتب Token\nمساء 28 يونيو، أفادت تقارير أن China Mobile، بعد إنشاء قسم الرقمنة الذكية ومكتب الحوسبة، أنشأت أيضًا مكتب Token، بهدف ربط العملية الكاملة لـ \"إنشاء Token، ونقل Token، وتطبيق Token\"، وكسر حالة \"إدارة كل قسم لشؤونه الخاصة\" بين عدة أقسام فرعية. بعد ظهر 29 يونيو، علم من China Mobile أن الشركة أنشأت بالفعل مكتب Token، ولكن باقي المحتويات المتداولة، مثل \"مكتب Token له مستوى أعلى، ويُدار مباشرة من قبل القيادة الأساسية للمجموعة\"، لم يتم تأكيدها. (صحيفة الاقتصاد اليومي)\nFirmus المدعومة من Nvidia و DayOne ستبنيان مجمعًا لمراكز بيانات الذكاء الاصطناعي في إندونيسيا\nستقوم شركة Firmus، المشغلة لمراكز البيانات والمدعومة من Nvidia، ببناء مجمع لمراكز بيانات الذكاء الاصطناعي في إندونيسيا. وقالت الشركة إن المشروع سيجلب صفقات تصل قيمتها إلى 30 مليار دولار أمريكي خلال السنوات الست الأولى. وأعلنت شركة Firmus الأسترالية في بيان",
+      "url": "https://36kr.com/p/3873626425332743?f=rss",
+      "publishedAt": "2026-06-29 19:00:26  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻摘要中蜜雪冰城在吉尔吉斯斯坦开店并已进入海外16个国家，符合中国品牌海外扩张和全球化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "شركات صينية تحصل على 76% من السوق العالمي لأنظمة تخزين الطاقة بالبطاريات (BESS) مع تعزيز الريادة الصناعية - جرين بيلدينج أفريكا",
+      "summary": "الشركات الصينية تحصد 76% من سوق أنظمة تخزين الطاقة بالبطاريات العالمية مع تعزيز الريادة الصناعية جرين بيلدينج أفريقيا",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdGZpX0tMVThVMDkzYkRRQ2tUZ25NYTBnUEU1UEZGNFd2VTlHQ0FHM0ZRa3dxNHRtaGxEUzNvMzJVUXR3Z0VuZzc0VnMzajlfYzlqblJkaW04SkhCLUpvLUhIcWxBUFNCcG9HeUVyVWkzS1REb2tfcUxKQkgwc0Q2eTlDMzVqRHk0VVgyWnVvcXFnN3p1aEJHLTRiSFdRZ0QweDREaVZfYUwxeENfMm1ISnZGQjVmelZBSUFVZ0hHSFQ?oc=5",
+      "publishedAt": "Tue, 30 Jun 2026 01:05:15 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻显示中国企业在全球电池储能系统（BESS）市场占据主导地位，涉及中国企业的海外市场表现与份额，符合主题5和7。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "ar",
+      "title": "ارتفاع الطلب على إدارة السكر الذكية، وارتفاع إيرادات شركة \"MicroTech Medical\" الخارجية بنسبة 227.2%",
+      "summary": "بعد الأدوية المبتكرة، يشهد تصدير الأجهزة الطبية مرحلة ازدهار. وفقًا لبيانات معهد زيهي للاستشارات، بلغت قيمة صادرات الصين من الأجهزة والمعدات الطبية خلال الفترة من يناير إلى أبريل 2026 حوالي 7.09 مليار دولار أمريكي، بزيادة سنوية قدرها 12.40%.  \nمن بين هذه الصادرات، يُعد جهاز المراقبة المستمرة للغلوكوز (CGM) نموذجًا نموذجيًا لصناعة انتقلت من \"استبدال الواردات\" إلى اختراق الأسواق العالمية. يُعرف جهاز CGM علميًا باسم \"نظام المراقبة المستمرة للغلوكوز\"، والذي يمكنه مراقبة تغيرات مستوى السكر في الدم بشكل متواصل، ومع تحول \"التحكم في السكر\" إلى نمط حياة شائع، أصبح هذا الجهاز سريعًا جزءًا من حياة عامة الناس.  \nقبل عام 2020، كانت سوق CGM في الصين تحتكرها تقريبًا العلامات التجارية الأجنبية. منذ الموافقة على أول منتج محلي في عام 2021 وحتى الآن، لم تشهد العلامات التجارية المحلية نموًا سريعًا في حصتها السوقية داخل الصين فحسب، بل بدأت أيضًا في منافسة الشركات العالمية الكبرى في الأسواق الخارجية مثل أوروبا.  \nتعد شركة MicroTech Medical، المتخصصة في تطوير الأجهزة الطبية لإدارة مرض السكري، ممثلًا نموذجيًا في موجة تصدير أجهزة CGM، كما أنها واحدة من الشركات القليلة في مجال CGM التي تمتلك كلاً من مضخات الأنسولين وأجهزة CGM. في عام 2025، حققت MicroTech Medical إيرادات بلغت 661 مليون يوان صيني، بزيادة سنوية قدرها 91.20%، وصافي أرباح قدره 40.15 مليون يوان صيني، محققة أول ربحية لها.  \nوالأكثر إثارة للاهتمام من وراء هذا النمو هو التوسع السريع لأعمال MicroTech Medical في الخارج، حيث بلغت إيراداتها الخارجية في عام 2025 حوالي 343 مليون يوان صيني، بزيادة كبيرة بلغت 227.20%، متجاوزة لأول مرة إيراداتها المحلية.  \n1. تغطية إدارة مرض السكري من العلاج إلى المراقبة  \nكانت مضخات الأنسولين التقليدية التي يستخدمها مرضى السكري سابقًا تعتمد بشكل أساسي على نظام الأنابيب، حيث كانت تُحمل مع المريض وتُوصل عبر قسطرة.",
+      "url": "https://36kr.com/p/3873902389794053?f=rss",
+      "publishedAt": "2026-06-29 15:02:23  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国医疗器械公司微泰医疗的海外营收增长，属于中国企业在海外市场的业务扩张和表现。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "جيش تكييف الهواء الآسيوي يسجل طلبات قياسية جماعية في أوروبا",
+      "summary": "تم بيع جميع منتجات ميدي، كما حققت سامسونج وإل جي مبيعات هائلة.",
+      "url": "https://www.tmtpost.com/8045160.html",
+      "publishedAt": "Tue, 30 Jun 2026 08:57:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及美的、三星、LG等亚洲家电品牌（含中国企业）在欧洲市场的销售爆发，属于中国企业在海外市场的业务表现和扩张。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "ar",
+      "title": "ذهبتُ إلى جزر المالديف. أراد الجميع التحدث عن Temu.",
+      "summary": "أصبح تطبيق التسوق الصيني شائعًا للغاية لدرجة أنه حتى ضريبة حكومية إضافية لم تستطع إبطاء الطلب عليه.",
+      "url": "https://restofworld.org/2026/china-consumer-dependence/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 29 Jun 2026 10:00:58 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国跨境电商平台Temu在马尔代夫受欢迎，提及需求旺盛，属于跨境电商平台国际化及市场表现主题。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "فلبين تستقطب مستثمري منطقة الخليج الكبرى كبوابة لجنوب شرق آسيا",
+      "summary": "قالت وزيرة التجارة الفلبينية يوم الثلاثاء إن الفلبين في موقع فريد يؤهلها لتكون بوابة لأعمال منطقة الخليج الكبرى (GBA) إلى جنوب شرق آسيا، وذلك في معرض عرضها لجهود مانيلا لتعزيز بيئة استثمارية جاذبة. وخلال حديثها في قمة \"جريدة ساوث تشاينا مورنينج بوست\" لمنطقة الخليج الكبرى ورابطة دول جنوب شرق آسيا (GBA-Asean Summit 2026)، حثت كريستينا ألدغيور-روكي المستثمرين على النظر إلى الفلبين كنقطة انطلاق نحو المنطقة، والاستفادة من القوى العاملة الشابة والمتقنة رقمياً في البلاد. وأضافت: \"نحن دولة بحرية، ديموغرافية، و...\"",
+      "url": "https://www.scmp.com/week-asia/economics/article/3358861/philippines-courts-greater-bay-area-investors-gateway-southeast-asia?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 06:00:44 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及菲律宾政府吸引中国大湾区投资者，属于中国企业在东南亚地区的海外投资与扩张主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "مصادر: شركات شياومي وأوبو وفيفو الصينية تخفض أهدافها للهواتف الذكية لعام 2026 مجدداً",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/china-s-xiaomi-oppo-vivo-cut-2026-smartphone-targets-again-sources",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国科技公司小米、OPPO、vivo调整海外市场智能手机出货目标，属于中国企业在海外的业务与市场表现动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "خيار التمويل: عملاق الإتاوات يفتتح قاعدة في هونغ كونغ مع ارتفاع صفقات التكنولوجيا الحيوية في البر الرئيسي للصين",
+      "summary": "أكبر مشترٍ في العالم للإتاوات البيولوجية الدوائية أنشأ أول قاعدة له في منطقة آسيا والمحيط الهادئ في هونغ كونغ، لينضم بذلك إلى مجموعة من الشركات متعددة الجنسيات في قطاع الأدوية التي تفتح مكاتب في المدينة، في وقت تسجل فيه صفقات الترخيص الخارجي من قبل شركات التكنولوجيا الحيوية الصينية مستويات قياسية.  \nووفقًا لخبير، فإن التمويل القائم على الإتاوات يمنح مطوري الأدوية وسيلة بديلة لجمع رأس المال حتى مع تزايد القيود الاستثمارية الأمريكية.  \n\"ستحتاج شركات التكنولوجيا الحيوية الصينية إلى التمويل القائم على الإتاوات كوسيلة...\"",
+      "url": "https://www.scmp.com/business/china-business/article/3358830/funding-option-royalties-giant-opens-hong-kong-base-mainland-china-biotech-deals-surge?utm_source=rss_feed",
+      "publishedAt": "Tue, 30 Jun 2026 03:00:12 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及跨国药企在香港设立亚太基地，背景是中国生物科技公司对外授权交易激增，属于中国企业在海外业务及国际合作相关的全球化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "هونغ كونغ تعزز التوسع العالمي لمؤسسات الابتكار والتكنولوجيا في شرق الصين خلال ندوة في شنغهاي - باص دي باو",
+      "summary": "هونغ كونغ تروّج للتوسع العالمي لشركات الابتكار والتكنولوجيا في شرق الصين خلال ندوة في شانغهاي  巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOV25yQUVXelR6UkMxSVp4VlNwclJSUUdFNzdqcUJLaDJYSkNCckVtcE9TUzZ6R3ZfUmVwcW5qMXFBOXY1OVk4ZW5BMXcyOHhhb2RvdGVIVEtJclBTSTBqVmJoQndrTzc1V0lva2ZjbnA4WkMzRGxCWl82aHNGTi1oN3JkNlphVHJZTDJNVUk0N3lhU1FOWkF1MlBwLWdnMkhEb2tLeVp6ek1rZ1dtcGZXOGd1OHNlMWlNYy15YWEzUUlhcWZicDhsaFc2Z3hyVjJXN2hQZUw0YTJ1d19EWDZwb2lhM3c0YjdrWURj?oc=5",
+      "publishedAt": "Mon, 29 Jun 2026 11:15:00 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港推动华东创新科技企业全球扩张，属于中国企业国际化动态及海外业务拓展主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "تحليل نشرة إصدار مومنتا: وجهان في قائمة الدخل",
+      "summary": "البيانات تتحسن، لكن المخاطر تتراكم أيضًا.",
+      "url": "https://www.tmtpost.com/8046741.html",
+      "publishedAt": "Tue, 30 Jun 2026 12:10:37 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "Momenta是中国自动驾驶科技公司，其招股书涉及海外业务拓展或上市动态，属于中国科技公司国际化范畴。"
+    }
+  ]
+}

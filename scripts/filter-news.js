@@ -27,6 +27,9 @@ async function scoreArticle(article) {
 - 纯政治外交，没有商业内容
 - 制裁、贸易战等负面政治事件
 - 纯国内市场的新闻
+- 聚合快讯（标题含"晚报"、"早报"、"日报"、"9点1氪"、"氪星"等）
+- 股票公告、融资快讯、IPO公告等简短财经快讯
+
 
 新闻标题：${article.title}
 新闻摘要：${article.summary.slice(0, 300)}

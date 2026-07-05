@@ -1,11 +1,237 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import fs from 'fs';
+import path from 'path';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+// 读取所有翻译后的新闻
+const translatedDir = path.join(process.cwd(), 'src/content/translated');
+const lang = 'zh'; // 默认中文
+
+let articles = [];
+let dates = [];
+
+if (fs.existsSync(translatedDir)) {
+  dates = fs.readdirSync(translatedDir)
+    .filter(f => f.match(/^\d{4}-\d{2}-\d{2}\.json$/))
+    .sort()
+    .reverse();
+
+  for (const dateFile of dates.slice(0, 7)) {
+    const data = JSON.parse(fs.readFileSync(path.join(translatedDir, dateFile), 'utf-8'));
+    const dayArticles = data[lang] || [];
+    articles.push(...dayArticles);
+  }
+}
+
+const featuredDates = fs.existsSync(translatedDir)
+  ? fs.readdirSync(translatedDir)
+      .filter(f => f.match(/^\d{4}-\d{2}-\d{2}-featured\.json$/))
+      .sort()
+      .reverse()
+  : [];
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>出海资讯 | China Global News</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Georgia', 'Noto Serif SC', serif;
+      background: #f7f5f0;
+      color: #1a1a1a;
+      min-height: 100vh;
+    }
+
+    header {
+      background: #1a1a1a;
+      color: #f7f5f0;
+      padding: 1.5rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    header h1 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    header span {
+      font-size: 0.8rem;
+      opacity: 0.5;
+      font-family: monospace;
+    }
+
+    .lang-switcher {
+      display: flex;
+      gap: 0.5rem;
+    }
+
+    .lang-switcher a {
+      color: #f7f5f0;
+      text-decoration: none;
+      font-size: 0.8rem;
+      opacity: 0.6;
+      font-family: monospace;
+    }
+
+    .lang-switcher a:hover { opacity: 1; }
+
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    .section-label {
+      font-size: 0.7rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: #888;
+      font-family: monospace;
+      margin-bottom: 1.5rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #ddd;
+    }
+
+    .featured-list {
+      margin-bottom: 3rem;
+    }
+
+    .featured-card {
+      background: #1a1a1a;
+      color: #f7f5f0;
+      padding: 1.5rem;
+      margin-bottom: 1rem;
+      text-decoration: none;
+      display: block;
+      transition: background 0.2s;
+    }
+
+    .featured-card:hover { background: #333; }
+
+    .featured-card .date {
+      font-size: 0.7rem;
+      font-family: monospace;
+      opacity: 0.5;
+      margin-bottom: 0.5rem;
+    }
+
+    .featured-card h2 {
+      font-size: 1.1rem;
+      line-height: 1.4;
+    }
+
+    .articles-list { }
+
+    .article-item {
+      padding: 1rem 0;
+      border-bottom: 1px solid #e0ddd8;
+      display: grid;
+      grid-template-columns: 80px 1fr;
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .article-item .date {
+      font-size: 0.7rem;
+      font-family: monospace;
+      color: #888;
+      padding-top: 0.2rem;
+    }
+
+    .article-item .source {
+      font-size: 0.7rem;
+      font-family: monospace;
+      color: #aaa;
+      margin-bottom: 0.3rem;
+    }
+
+    .article-item h3 {
+      font-size: 0.95rem;
+      line-height: 1.4;
+      margin-bottom: 0.3rem;
+    }
+
+    .article-item h3 a {
+      color: #1a1a1a;
+      text-decoration: none;
+    }
+
+    .article-item h3 a:hover { text-decoration: underline; }
+
+    .article-item p {
+      font-size: 0.8rem;
+      color: #666;
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.75rem;
+      color: #aaa;
+      font-family: monospace;
+      border-top: 1px solid #ddd;
+      margin-top: 3rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>出海资讯</h1>
+    <div class="lang-switcher">
+      <span>ZH</span>
+    </div>
+  </header>
+
+  <main>
+    {featuredDates.length > 0 && (
+      <section class="featured-list">
+        <div class="section-label">今日精选</div>
+        {featuredDates.slice(0, 3).map(f => {
+          const date = f.replace('-featured.json', '');
+          const data = JSON.parse(fs.readFileSync(path.join(translatedDir, f), 'utf-8'));
+          const featured = data['zh'];
+          return (
+            <a href={`/articles/${date}`} class="featured-card">
+              <div class="date">{date}</div>
+              <h2>{featured.title}</h2>
+            </a>
+          );
+        })}
+      </section>
+    )}
+
+    <section>
+      <div class="section-label">最新资讯 — {articles.length} 篇</div>
+      <div class="articles-list">
+        {articles.map(article => (
+          <div class="article-item">
+            <div class="date">
+              {new Date(article.publishedAt).toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })}
+            </div>
+            <div>
+              <div class="source">{article.source}</div>
+              <h3><a href={article.url} target="_blank" rel="noopener">{article.title}</a></h3>
+              <p>{article.summary}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    China Global News · 每日自动更新 · 数据来源于公开 RSS 订阅
+  </footer>
+</body>
+</html>

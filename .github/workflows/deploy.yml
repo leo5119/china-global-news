@@ -7,6 +7,12 @@ on:
     workflows: ["Daily News Pipeline"]
     types: [completed]
 
+# GitHub Pages 同一时刻只允许一个部署。用并发组避免多次 push / 定时触发的
+# 部署互相冲突（曾导致 deploy-pages 步骤失败）。同组新部署排队，不取消进行中的。
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest

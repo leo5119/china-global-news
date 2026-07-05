@@ -95,8 +95,25 @@ async function main() {
   console.log(`已保存到 ${outputPath}`);
 
   if (relevant.length > 0) {
-    const featured = relevant[0];
-    console.log(`\n今日精选: ${featured.title}`);
+    // 收集历史精选的 url：RSS 里同一篇文章会连续多天存在，
+    // 若每天都选最高分，就会连续多天精选同一篇。这里排除已上过精选的文章。
+    const featuredHistory = new Set();
+    for (const f of fs.readdirSync(outputDir)) {
+      if (!/^\d{4}-\d{2}-\d{2}-featured\.json$/.test(f) || f === `${today}-featured.json`) continue;
+      try {
+        const prev = JSON.parse(fs.readFileSync(path.join(outputDir, f), 'utf-8'));
+        if (prev && prev.url) featuredHistory.add(prev.url);
+      } catch { /* 坏文件跳过 */ }
+    }
+
+    // 优先选未上过精选的最高分文章；若全部上过（冷门日），回退到最高分
+    const fresh = relevant.find(a => !featuredHistory.has(a.url));
+    const featured = fresh || relevant[0];
+    console.log(
+      fresh
+        ? `\n今日精选: ${featured.title}`
+        : `\n今日精选（今日相关文章此前均已上榜，回退到最高分）: ${featured.title}`
+    );
     const featuredPath = path.join('src', 'content', 'filtered', `${today}-featured.json`);
     fs.writeFileSync(featuredPath, JSON.stringify(featured, null, 2), 'utf-8');
   }

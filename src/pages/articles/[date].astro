@@ -1,0 +1,141 @@
+---
+import fs from 'fs';
+import path from 'path';
+
+const { date } = Astro.params;
+const translatedDir = path.join(process.cwd(), 'src/content/translated');
+const featuredPath = path.join(translatedDir, `${date}-featured.json`);
+
+if (!fs.existsSync(featuredPath)) {
+  return Astro.redirect('/');
+}
+
+const data = JSON.parse(fs.readFileSync(featuredPath, 'utf-8'));
+const langNames = { zh: '中文', en: 'English', ja: '日本語', ar: 'العربية' };
+const availableLangs = Object.keys(data).filter(l => data[l]);
+const defaultLang = availableLangs.includes('zh') ? 'zh' : availableLangs[0];
+const initial = data[defaultLang];
+const base = import.meta.env.BASE_URL.replace(/\/$/, ''); // 归一化去掉尾斜杠，如 /china-global-news
+
+export async function getStaticPaths() {
+  const translatedDir = path.join(process.cwd(), 'src/content/translated');
+  if (!fs.existsSync(translatedDir)) return [];
+  const files = fs.readdirSync(translatedDir)
+    .filter(f => f.match(/^\d{4}-\d{2}-\d{2}-featured\.json$/));
+  return files.map(f => ({ params: { date: f.replace('-featured.json', '') } }));
+}
+---
+
+<html lang={defaultLang} dir={defaultLang === 'ar' ? 'rtl' : 'ltr'}>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{initial?.title} | 出海资讯</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Georgia', serif; background: #f7f5f0; color: #1a1a1a; }
+    header {
+      background: #1a1a1a; color: #f7f5f0;
+      padding: 1.2rem 2rem;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    header a { color: #f7f5f0; text-decoration: none; font-size: 0.9rem; opacity: 0.7; }
+    header a:hover { opacity: 1; }
+    .lang-bar {
+      background: #f0ede6; border-bottom: 1px solid #ddd;
+      padding: 0.6rem 2rem; display: flex; gap: 1rem;
+    }
+    .lang-bar button {
+      font-size: 0.75rem; font-family: monospace;
+      color: #888; background: none; border: none; cursor: pointer; padding: 0;
+    }
+    .lang-bar button.active { color: #1a1a1a; font-weight: bold; }
+    main { max-width: 720px; margin: 0 auto; padding: 3rem 1.5rem; }
+    .meta {
+      display: flex; gap: 1rem;
+      font-size: 0.75rem; font-family: monospace; color: #888; margin-bottom: 1.5rem;
+    }
+    .score-badge {
+      background: #1a1a1a; color: #f7f5f0;
+      padding: 0.1rem 0.5rem; font-size: 0.7rem;
+    }
+    h1 { font-size: 1.6rem; line-height: 1.4; margin-bottom: 1.5rem; }
+    .summary {
+      font-size: 1rem; line-height: 1.8; color: #333;
+      border-left: 3px solid #1a1a1a; padding-left: 1.2rem; margin-bottom: 2rem;
+    }
+    .source-link {
+      display: inline-block; font-size: 0.8rem; font-family: monospace;
+      color: #1a1a1a; border: 1px solid #1a1a1a;
+      padding: 0.4rem 0.8rem; text-decoration: none; margin-bottom: 3rem;
+    }
+    .source-link:hover { background: #1a1a1a; color: #f7f5f0; }
+    .back { font-size: 0.8rem; font-family: monospace; color: #888; text-decoration: none; }
+    .back:hover { color: #1a1a1a; }
+    footer {
+      text-align: center; padding: 2rem;
+      font-size: 0.75rem; color: #aaa; font-family: monospace;
+      border-top: 1px solid #ddd; margin-top: 2rem;
+    }
+    [dir="rtl"] .summary { border-left: none; border-right: 3px solid #1a1a1a; padding-left: 0; padding-right: 1.2rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <a href={`${base}/`}>← 出海资讯</a>
+    <span style="font-size:0.75rem;font-family:monospace;opacity:0.5">{date}</span>
+  </header>
+
+  <div class="lang-bar">
+    {availableLangs.map(l => (
+      <button class={l === defaultLang ? 'active' : ''} data-lang={l}>
+        {langNames[l]}
+      </button>
+    ))}
+  </div>
+
+  <main>
+    <div class="meta">
+      <span id="source">{initial?.source}</span>
+      <span>{date}</span>
+      <span class="score-badge">精选 {initial?.score}分</span>
+    </div>
+    <h1 id="title">{initial?.title}</h1>
+    <div class="summary" id="summary">{initial?.summary}</div>
+    <a href={initial?.url} target="_blank" rel="noopener" class="source-link" id="source-link">
+      阅读原文 →
+    </a>
+    <br /><br />
+    <a href={`${base}/`} class="back">← 返回列表</a>
+  </main>
+
+  <footer>China Global News · 每日自动更新</footer>
+
+  <script type="application/json" id="article-data" set:html={JSON.stringify(data)}></script>
+
+  <script>
+    const data = JSON.parse(document.getElementById('article-data').textContent);
+
+    function switchLang(btn) {
+      const lang = btn.dataset.lang;
+      const article = data[lang];
+      if (!article) return;
+
+      document.getElementById('title').textContent = article.title;
+      document.getElementById('summary').textContent = article.summary;
+      document.getElementById('source').textContent = article.source;
+      document.getElementById('source-link').href = article.url;
+
+      document.documentElement.lang = lang;
+      document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';
+
+      document.querySelectorAll('.lang-bar button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    }
+
+    document.querySelectorAll('.lang-bar button').forEach(btn => {
+      btn.addEventListener('click', () => switchLang(btn));
+    });
+  </script>
+</body>
+</html>

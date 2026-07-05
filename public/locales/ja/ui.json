@@ -14,6 +14,6 @@
   "footer.tagline": "毎日自動更新",
   "footer.source_note": "データは公開RSS購読に基づく",
   "status.loading": "読み込み中",
-  "status.no_articles": "ニュースなし",
+  "status.no_articles": "ニュースはありません",
   "status.count": "{count} 件のニュース"
 }

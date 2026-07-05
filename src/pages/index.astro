@@ -23,12 +23,28 @@ if (fs.existsSync(translatedDir)) {
   }
 }
 
-const featuredDates = fs.existsSync(translatedDir)
+const featuredFiles = fs.existsSync(translatedDir)
   ? fs.readdirSync(translatedDir)
       .filter(f => f.match(/^\d{4}-\d{2}-\d{2}-featured\.json$/))
       .sort()
       .reverse()
   : [];
+
+// 取最近几天的每日精选，但按 url 去重：同一篇文章连续多天被选中时只保留最新一张卡
+const seenFeatured = new Set();
+const featuredCards = featuredFiles
+  .map(f => {
+    const date = f.replace('-featured.json', '');
+    const featured = JSON.parse(fs.readFileSync(path.join(translatedDir, f), 'utf-8'))['zh'];
+    return { date, featured };
+  })
+  .filter(({ featured }) => {
+    if (!featured || !featured.url) return false;
+    if (seenFeatured.has(featured.url)) return false;
+    seenFeatured.add(featured.url);
+    return true;
+  })
+  .slice(0, 3);
 ---
 
 <html lang="zh">
@@ -195,20 +211,15 @@ const featuredDates = fs.existsSync(translatedDir)
   </header>
 
   <main>
-    {featuredDates.length > 0 && (
+    {featuredCards.length > 0 && (
       <section class="featured-list">
         <div class="section-label">今日精选</div>
-        {featuredDates.slice(0, 3).map(f => {
-          const date = f.replace('-featured.json', '');
-          const data = JSON.parse(fs.readFileSync(path.join(translatedDir, f), 'utf-8'));
-          const featured = data['zh'];
-          return (
-            <a href={`${base}/articles/${date}`} class="featured-card">
-              <div class="date">{date}</div>
-              <h2>{featured.title}</h2>
-            </a>
-          );
-        })}
+        {featuredCards.map(({ date, featured }) => (
+          <a href={`${base}/articles/${date}`} class="featured-card">
+            <div class="date">{date}</div>
+            <h2>{featured.title}</h2>
+          </a>
+        ))}
       </section>
     )}
 
@@ -218,7 +229,9 @@ const featuredDates = fs.existsSync(translatedDir)
         {articles.map(article => (
           <div class="article-item">
             <div class="date">
-              {new Date(article.publishedAt).toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })}
+              {isNaN(new Date(article.publishedAt).getTime())
+                ? '—'
+                : new Date(article.publishedAt).toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' })}
             </div>
             <div>
               <div class="source">{article.source}</div>

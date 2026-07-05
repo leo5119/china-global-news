@@ -17,6 +17,15 @@ const defaultLang = availableLangs.includes('zh') ? 'zh' : availableLangs[0];
 const initial = data[defaultLang];
 const base = import.meta.env.BASE_URL.replace(/\/$/, ''); // 归一化去掉尾斜杠，如 /china-global-news
 
+// 加载各语言界面词（public/locales/{lang}/ui.json），用于切换语言时同步更新界面文案
+const localesDir = path.join(process.cwd(), 'public/locales');
+const ui = {};
+for (const l of availableLangs) {
+  const p = path.join(localesDir, l, 'ui.json');
+  if (fs.existsSync(p)) ui[l] = JSON.parse(fs.readFileSync(p, 'utf-8'));
+}
+const t = ui[defaultLang] || {}; // 首屏用默认语言的界面词
+
 export async function getStaticPaths() {
   const translatedDir = path.join(process.cwd(), 'src/content/translated');
   if (!fs.existsSync(translatedDir)) return [];
@@ -63,6 +72,7 @@ export async function getStaticPaths() {
     .summary {
       font-size: 1rem; line-height: 1.8; color: #333;
       border-left: 3px solid #1a1a1a; padding-left: 1.2rem; margin-bottom: 2rem;
+      white-space: pre-wrap; /* 保留原文换行与段落 */
     }
     .source-link {
       display: inline-block; font-size: 0.8rem; font-family: monospace;
@@ -82,7 +92,7 @@ export async function getStaticPaths() {
 </head>
 <body>
   <header>
-    <a href={`${base}/`}>← 出海资讯</a>
+    <a href={`${base}/`}>← <span data-i18n="nav.home">{t['nav.home'] || '出海资讯'}</span></a>
     <span style="font-size:0.75rem;font-family:monospace;opacity:0.5">{date}</span>
   </header>
 
@@ -98,23 +108,35 @@ export async function getStaticPaths() {
     <div class="meta">
       <span id="source">{initial?.source}</span>
       <span>{date}</span>
-      <span class="score-badge">精选 {initial?.score}分</span>
+      <span class="score-badge"><span data-i18n="article.featured_badge">{t['article.featured_badge'] || '精选'}</span> {initial?.score}<span data-i18n="article.score_suffix">{t['article.score_suffix'] || '分'}</span></span>
     </div>
     <h1 id="title">{initial?.title}</h1>
     <div class="summary" id="summary">{initial?.summary}</div>
-    <a href={initial?.url} target="_blank" rel="noopener" class="source-link" id="source-link">
-      阅读原文 →
+    <a href={initial?.url} target="_blank" rel="noopener" class="source-link" id="source-link" data-i18n="article.readmore">
+      {t['article.readmore'] || '阅读原文 →'}
     </a>
     <br /><br />
-    <a href={`${base}/`} class="back">← 返回列表</a>
+    <a href={`${base}/`} class="back" data-i18n="nav.back">{t['nav.back'] || '← 返回列表'}</a>
   </main>
 
-  <footer>China Global News · 每日自动更新</footer>
+  <footer>China Global News · <span data-i18n="footer.tagline">{t['footer.tagline'] || '每日自动更新'}</span></footer>
 
   <script type="application/json" id="article-data" set:html={JSON.stringify(data)}></script>
+  <script type="application/json" id="ui-data" set:html={JSON.stringify(ui)}></script>
 
   <script>
     const data = JSON.parse(document.getElementById('article-data').textContent);
+    const ui = JSON.parse(document.getElementById('ui-data').textContent);
+
+    // 按语言更新所有带 data-i18n 的界面词
+    function applyUI(lang) {
+      const dict = ui[lang];
+      if (!dict) return;
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.dataset.i18n;
+        if (dict[key] != null) el.textContent = dict[key];
+      });
+    }
 
     function switchLang(btn) {
       const lang = btn.dataset.lang;
@@ -125,6 +147,8 @@ export async function getStaticPaths() {
       document.getElementById('summary').textContent = article.summary;
       document.getElementById('source').textContent = article.source;
       document.getElementById('source-link').href = article.url;
+
+      applyUI(lang);
 
       document.documentElement.lang = lang;
       document.documentElement.dir = lang === 'ar' ? 'rtl' : 'ltr';

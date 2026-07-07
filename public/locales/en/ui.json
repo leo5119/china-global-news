@@ -11,9 +11,9 @@
   "article.readmore": "Read More →",
   "article.featured_badge": "Featured",
   "article.score_suffix": " pts",
-  "footer.tagline": "Daily Auto Updates",
-  "footer.source_note": "Data sourced from public RSS feeds",
-  "status.loading": "Loading...",
-  "status.no_articles": "No articles",
+  "footer.tagline": "Updated Daily",
+  "footer.source_note": "Data from public RSS feeds",
+  "status.loading": "Loading",
+  "status.no_articles": "No News",
   "status.count": "{count} articles"
 }

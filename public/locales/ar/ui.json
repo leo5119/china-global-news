@@ -11,9 +11,9 @@
   "article.readmore": "اقرأ المزيد →",
   "article.featured_badge": "مختار",
   "article.score_suffix": "نقطة",
-  "footer.tagline": "تحديث تلقائي يوميًا",
+  "footer.tagline": "تحديث تلقائي يومي",
   "footer.source_note": "البيانات من اشتراكات RSS العامة",
   "status.loading": "جارٍ التحميل",
   "status.no_articles": "لا توجد أخبار",
-  "status.count": "{count} مقالة"
+  "status.count": "{count} أخبار"
 }

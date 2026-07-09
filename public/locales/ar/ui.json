@@ -3,9 +3,9 @@
   "lang.en": "English",
   "lang.ja": "日本語",
   "lang.ar": "العربية",
-  "nav.home": "أخبار التصدير",
+  "nav.home": "أخبار الشحن",
   "nav.back": "← العودة إلى القائمة",
-  "section.featured": "مختارات اليوم",
+  "section.featured": "اختيارات اليوم",
   "section.latest": "أحدث الأخبار",
   "article.source": "المصدر",
   "article.readmore": "اقرأ المزيد →",
@@ -15,5 +15,5 @@
   "footer.source_note": "البيانات من اشتراكات RSS العامة",
   "status.loading": "جارٍ التحميل",
   "status.no_articles": "لا توجد أخبار",
-  "status.count": "{count} أخبار"
+  "status.count": "{count} مقالة"
 }

@@ -8,12 +8,12 @@
   "section.featured": "Today's Picks",
   "section.latest": "Latest News",
   "article.source": "Source",
-  "article.readmore": "Read Original →",
+  "article.readmore": "Read More →",
   "article.featured_badge": "Featured",
-  "article.score_suffix": "pts",
-  "footer.tagline": "Daily auto-update",
-  "footer.source_note": "Data from public RSS feeds",
+  "article.score_suffix": " pts",
+  "footer.tagline": "Daily Auto Updates",
+  "footer.source_note": "Data sourced from public RSS feeds",
   "status.loading": "Loading",
-  "status.no_articles": "No articles",
+  "status.no_articles": "No articles yet",
   "status.count": "{count} articles"
 }

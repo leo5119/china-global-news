@@ -10,10 +10,10 @@
   "article.source": "Source",
   "article.readmore": "Read More →",
   "article.featured_badge": "Featured",
-  "article.score_suffix": " points",
-  "footer.tagline": "Daily Auto Update",
+  "article.score_suffix": " pts",
+  "footer.tagline": "Updated Daily",
   "footer.source_note": "Data from public RSS feeds",
   "status.loading": "Loading",
-  "status.no_articles": "No News",
+  "status.no_articles": "No Articles",
   "status.count": "{count} Articles"
 }

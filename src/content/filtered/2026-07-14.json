@@ -1,0 +1,112 @@
+[
+  {
+    "source": "36氪出海",
+    "lang": "zh",
+    "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+    "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。\n融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及亚洲其他国家地区等重点市场的布局，并持续建设面向全球开发者的开放生态。\n本轮融资完成后，公司投后估值达150亿元，过去半年累计融资额已达4亿美元。此前逐际动力于2026年3月完成了股改。据知情人士处透露，公司已在2026年初稍早些时候开启IPO进程。\n近年来，随着具身智能进入规模化发展的关键阶段，逐际动力基于全栈技术路线，围绕机器人本体、AI基础设施及具身智能体OS系统持续投入研发，构建了覆盖运动生成、模型训练、认知决策到真实世界部署的完整技术体系。\n目前，公司已经形成覆盖System 0全身运动基础模型、System 1人形机器人VLA/WAM能力、System 2以大语言模型和世界模型为引擎的具身智能体操作系统（COSA）的三层技术架构。\n\n逐际动力三层技术架构（图源/企业）\n作为逐际动力System 1的重要组成部分，FluxVLA Engine定位企业级开源平台，为全球开发者提供了一套完整覆盖具数据处理、仿真训练、真机迭代到硬件部署的全流程基建。\n长期以来，行业内多数研发团队在训练具身模型时，往往需要耗费大量人力重复搭建底层工程管线。FluxVLA Engine通过标准化、模块化的工具链将这些环节一体化打通，让开发者得以将精力集中在VLA、世界动作模型等算法创新上，而非消耗在底层工程的重建中。\n在逐际动力的构想中，具身智能的未来不是由一个统一的超级模型通吃所有场景，而是有大量垂直的、中小的模型应用服务于不同任务。而FluxVLA Engine要做的，是推动行业从“少数团队掌握模型训练能力”走向普惠化、低门槛的具身智能研发生态。\n依托上述技术体系，逐际动力正加快产品研发和商业化落地。目前各机器人产品上线以来，共计获得数千台订单，其中过半来自海外。公司正与全球开发者及生态伙伴共同推动科研教育、商业服务、全地形巡检、工业应用、建筑及更多应用场景的商业落地。\n今年5月，逐际动力正式发布全尺寸交互人形机器人LimX Luna。Luna采用160cm全尺寸拟人比例设计，机身配备27个自由度，搭载自研System 0全身运控基础模型，可精准调度全身自由度协同运作。\n依托升级后的运控系统与电机性能，Luna不仅能够稳定完成多种高难度动作，也能演绎模特猫步，驾驭多种风格的舞蹈。产品发布后不到一个月，即完成国内及海外客户的批量交付，验证了从发布到量产交付的快速转化能力。\n\n逐际动力全尺寸交互人形机器人Luna在5月正式发布（图源/企业）\n同期推出的新一代多形态具身机器人TRON 2，则面向科研、工业、巡检等开发者群体。其核心在于原创的“全身模块化架构”，即一个本体、多种形态自由组合；通过模块化拼接可在双臂、双足、双轮足等形态间灵活切换，适应从精细操作到复杂地形移动的不同需求。TRON 2依托完备的开发接口与配套训练工具，向开发者开放二次开发能力，自发布起也已收获海内外批量订单。\n未来，逐际动力将继续加强大小脑融合技术的优势，推进机器人量产体系建设和全球化布局，持续完善全球供应链及交付能力，加快具身智能技术创新和产业化进程。",
+    "url": "https://36kr.com/p/3893976502287618?f=rss",
+    "publishedAt": "2026-07-14 08:46:41  +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻涉及中国机器人公司逐际动力完成融资用于全球市场拓展，重点布局中东、欧洲及亚洲，符合中国企业在海外业务扩张的主题。"
+  },
+  {
+    "source": "36氪出海",
+    "lang": "zh",
+    "title": "迪哲医药：与阿斯利康签署授权许可协议",
+    "summary": "36氪获悉，迪哲医药公告，公司与AstraZeneca UK Limited（简称“阿斯利康”）签署《许可协议》，授予阿斯利康在全球范围内的独家开发、商业化舒沃哲®的权利。公司将获得阿斯利康支付的一次性、不可返还的首付款6亿美元，最高达4亿美元的临床开发里程碑款项以及最高达5亿美元的销售里程碑款项，此外公司将获得按舒沃哲®全球销售额最高到低双位数的阶梯式比例的特许权使用费。本次交易构成关联交易，但不构成重大资产重组，尚需提交公司股东会审议。",
+    "url": "https://36kr.com/newsflashes/3895014503054338?f=rss",
+    "publishedAt": "2026-07-14 12:53:38  +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "迪哲医药与阿斯利康签署授权许可协议，涉及中国生物科技公司向全球药企授权海外商业化权利，属于中国企业在海外业务拓展和国际化动态。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "字节再造“百度 Apollo”",
+    "summary": "是否会重走老路？",
+    "url": "https://www.tmtpost.com/8063440.html",
+    "publishedAt": "Tue, 14 Jul 2026 09:53:29 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻涉及字节跳动（中国科技公司）在智能驾驶领域的国际化战略布局，对标百度Apollo，属于中国科技公司的国际化动态。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "十分之一成本的中国模型，正在重塑全球AI版图",
+    "summary": "扛不住天价Token，美企转向中国AI。",
+    "url": "https://www.tmtpost.com/8062448.html",
+    "publishedAt": "Tue, 14 Jul 2026 08:07:00 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻标题和摘要提及中国AI模型以低成本优势吸引美国企业，反映了中国科技公司的全球化动态及其在海外市场的影响。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Chinese medical device makers push into Europe as anti-corruption squeeze bites at home",
+    "summary": "Facing anti-corruption policies and profit squeezing at home, Chinese innovative medical device companies are accelerating their push into the European market despite mounting cross-border trade protectionism.\nGovernment-backed hospital purchases of medical devices in China fell about 12 per cent year on year in the first five months of 2026, partly weighed down by “a new anti-corruption probe into hospitals”, dragging on the revenue of major Chinese medical device makers in the first half, said...",
+    "url": "https://www.scmp.com/business/china-business/article/3360420/chinese-medical-device-makers-push-europe-anti-corruption-squeeze-bites-home?utm_source=rss_feed",
+    "publishedAt": "Tue, 14 Jul 2026 01:00:27 +0000",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻报道中国医疗设备企业因国内反腐政策挤压而加速进入欧洲市场，属于中国企业在海外的业务拓展和欧洲区域扩张。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Chinese robot startup LimX Dynamics raises $200m to improve autonomy",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 8,
+    "reason": "中国机器人初创公司LimX Dynamics融资2亿美元提升自主技术，属于中国科技公司国际化动态中的业务发展，但未明确提及海外市场或全球化具体动作。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Honda, Toyota embrace Chinese EV tech as Japan automakers play catch-up",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/automobiles/honda-toyota-embrace-chinese-ev-tech-as-japan-automakers-play-catch-up",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻涉及日本车企丰田、本田采用中国电动车技术，属于中国企业在海外输出技术、与全球车企合作的国际化动态，与中国企业的全球化主题相关。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "一边亏损一边上新：昆仑万维的短剧",
+    "summary": "昆仑万维能否撑得起海外短剧“三极”布局？",
+    "url": "https://www.tmtpost.com/8058120.html",
+    "publishedAt": "Mon, 13 Jul 2026 18:44:14 +0800",
+    "relevant": true,
+    "score": 7,
+    "reason": "昆仑万维是中国科技公司，其短剧业务布局涉及海外市场，符合中国企业在海外业务扩张、游戏/App出海的国际化动态主题。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Chinese firms reshape global industrial chains - China Daily",
+    "summary": "Chinese firms reshape global industrial chains  China Daily",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYkJFd3QwX1FyWjQ1blkzNXEwLVB0NGFkaUthWnM0eGdHVm5ERHdMVmVma0xCTzdYNVZmRjJia3I2NDdpUVk4OVdKbm8wSDcyU08xNjFIUWVUcWs2YTVGc0ZlR2lYQUoxR0ZTLUNwYm05aF9oWnk5eFZndHdaZw?oc=5",
+    "publishedAt": "Mon, 13 Jul 2026 01:21:10 GMT",
+    "relevant": true,
+    "score": 6,
+    "reason": "新闻标题表明中国企业正在重塑全球产业链，涉及中国企业在海外的业务扩展和全球产业布局，与主题1、5、6相关。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "China's trade expands on AI boom, offsetting weak sectors",
+    "summary": "",
+    "url": "https://asia.nikkei.com/economy/china-s-trade-expands-on-ai-boom-offsetting-weak-sectors",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 6,
+    "reason": "新闻涉及中国贸易增长中AI产业的作用，与科技公司国际化和海外市场表现相关，但偏向宏观贸易，未明确聚焦企业出海具体动作。"
+  }
+]

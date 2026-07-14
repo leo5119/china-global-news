@@ -1,0 +1,450 @@
+{
+  "zh": [
+    {
+      "source": "36氪出海",
+      "lang": "zh",
+      "title": "人形机器人公司逐际动力完成2亿美元Pre-IPO轮融资，投后估值达150亿元｜最前线",
+      "summary": "作者｜黄楠\n编辑｜袁斯来\n硬氪获悉，通用人形机器人公司逐际动力LimX Dynamics宣布完成Pre-IPO轮融资，融资金额近2亿美元，投资方包括IDG资本、蓝思科技、GGG Group与Redstone VC、华山资本、合肥滨湖产发集团等。此外，阿联酋磊石资本（Stone Venture）连续多轮追投，绿洲资本、基石资本、南山战新投、尚颀资本、蔚来资本等多家老股东超额加注。\n融资资金将重点用于大小脑融合技术的突破和产品化，推动数千台全自主人形机器人的规模化部署，加强全球市场拓展。公司将进一步完善全球制造与交付能力，加快中东、欧洲及亚洲其他国家地区等重点市场的布局，并持续建设面向全球开发者的开放生态。\n本轮融资完成后，公司投后估值达150亿元，过去半年累计融资额已达4亿美元。此前逐际动力于2026年3月完成了股改。据知情人士处透露，公司已在2026年初稍早些时候开启IPO进程。\n近年来，随着具身智能进入规模化发展的关键阶段，逐际动力基于全栈技术路线，围绕机器人本体、AI基础设施及具身智能体OS系统持续投入研发，构建了覆盖运动生成、模型训练、认知决策到真实世界部署的完整技术体系。\n目前，公司已经形成覆盖System 0全身运动基础模型、System 1人形机器人VLA/WAM能力、System 2以大语言模型和世界模型为引擎的具身智能体操作系统（COSA）的三层技术架构。\n\n逐际动力三层技术架构（图源/企业）\n作为逐际动力System 1的重要组成部分，FluxVLA Engine定位企业级开源平台，为全球开发者提供了一套完整覆盖具数据处理、仿真训练、真机迭代到硬件部署的全流程基建。\n长期以来，行业内多数研发团队在训练具身模型时，往往需要耗费大量人力重复搭建底层工程管线。FluxVLA Engine通过标准化、模块化的工具链将这些环节一体化打通，让开发者得以将精力集中在VLA、世界动作模型等算法创新上，而非消耗在底层工程的重建中。\n在逐际动力的构想中，具身智能的未来不是由一个统一的超级模型通吃所有场景，而是有大量垂直的、中小的模型应用服务于不同任务。而FluxVLA Engine要做的，是推动行业从“少数团队掌握模型训练能力”走向普惠化、低门槛的具身智能研发生态。\n依托上述技术体系，逐际动力正加快产品研发和商业化落地。目前各机器人产品上线以来，共计获得数千台订单，其中过半来自海外。公司正与全球开发者及生态伙伴共同推动科研教育、商业服务、全地形巡检、工业应用、建筑及更多应用场景的商业落地。\n今年5月，逐际动力正式发布全尺寸交互人形机器人LimX Luna。Luna采用160cm全尺寸拟人比例设计，机身配备27个自由度，搭载自研System 0全身运控基础模型，可精准调度全身自由度协同运作。\n依托升级后的运控系统与电机性能，Luna不仅能够稳定完成多种高难度动作，也能演绎模特猫步，驾驭多种风格的舞蹈。产品发布后不到一个月，即完成国内及海外客户的批量交付，验证了从发布到量产交付的快速转化能力。\n\n逐际动力全尺寸交互人形机器人Luna在5月正式发布（图源/企业）\n同期推出的新一代多形态具身机器人TRON 2，则面向科研、工业、巡检等开发者群体。其核心在于原创的“全身模块化架构”，即一个本体、多种形态自由组合；通过模块化拼接可在双臂、双足、双轮足等形态间灵活切换，适应从精细操作到复杂地形移动的不同需求。TRON 2依托完备的开发接口与配套训练工具，向开发者开放二次开发能力，自发布起也已收获海内外批量订单。\n未来，逐际动力将继续加强大小脑融合技术的优势，推进机器人量产体系建设和全球化布局，持续完善全球供应链及交付能力，加快具身智能技术创新和产业化进程。",
+      "url": "https://36kr.com/p/3893976502287618?f=rss",
+      "publishedAt": "2026-07-14 08:46:41  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国机器人公司逐际动力完成融资用于全球市场拓展，重点布局中东、欧洲及亚洲，符合中国企业在海外业务扩张的主题。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "zh",
+      "title": "迪哲医药：与阿斯利康签署授权许可协议",
+      "summary": "36氪获悉，迪哲医药公告，公司与AstraZeneca UK Limited（简称“阿斯利康”）签署《许可协议》，授予阿斯利康在全球范围内的独家开发、商业化舒沃哲®的权利。公司将获得阿斯利康支付的一次性、不可返还的首付款6亿美元，最高达4亿美元的临床开发里程碑款项以及最高达5亿美元的销售里程碑款项，此外公司将获得按舒沃哲®全球销售额最高到低双位数的阶梯式比例的特许权使用费。本次交易构成关联交易，但不构成重大资产重组，尚需提交公司股东会审议。",
+      "url": "https://36kr.com/newsflashes/3895014503054338?f=rss",
+      "publishedAt": "2026-07-14 12:53:38  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "迪哲医药与阿斯利康签署授权许可协议，涉及中国生物科技公司向全球药企授权海外商业化权利，属于中国企业在海外业务拓展和国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "字节再造“百度 Apollo”",
+      "summary": "是否会重走老路？",
+      "url": "https://www.tmtpost.com/8063440.html",
+      "publishedAt": "Tue, 14 Jul 2026 09:53:29 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及字节跳动（中国科技公司）在智能驾驶领域的国际化战略布局，对标百度Apollo，属于中国科技公司的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "十分之一成本的中国模型，正在重塑全球AI版图",
+      "summary": "扛不住天价Token，美企转向中国AI。",
+      "url": "https://www.tmtpost.com/8062448.html",
+      "publishedAt": "Tue, 14 Jul 2026 08:07:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻标题和摘要提及中国AI模型以低成本优势吸引美国企业，反映了中国科技公司的全球化动态及其在海外市场的影响。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Chinese medical device makers push into Europe as anti-corruption squeeze bites at home",
+      "summary": "Facing anti-corruption policies and profit squeezing at home, Chinese innovative medical device companies are accelerating their push into the European market despite mounting cross-border trade protectionism.\nGovernment-backed hospital purchases of medical devices in China fell about 12 per cent year on year in the first five months of 2026, partly weighed down by “a new anti-corruption probe into hospitals”, dragging on the revenue of major Chinese medical device makers in the first half, said...",
+      "url": "https://www.scmp.com/business/china-business/article/3360420/chinese-medical-device-makers-push-europe-anti-corruption-squeeze-bites-home?utm_source=rss_feed",
+      "publishedAt": "Tue, 14 Jul 2026 01:00:27 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻报道中国医疗设备企业因国内反腐政策挤压而加速进入欧洲市场，属于中国企业在海外的业务拓展和欧洲区域扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Chinese robot startup LimX Dynamics raises $200m to improve autonomy",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国机器人初创公司LimX Dynamics融资2亿美元提升自主技术，属于中国科技公司国际化动态中的业务发展，但未明确提及海外市场或全球化具体动作。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Honda, Toyota embrace Chinese EV tech as Japan automakers play catch-up",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-toyota-embrace-chinese-ev-tech-as-japan-automakers-play-catch-up",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及日本车企丰田、本田采用中国电动车技术，属于中国企业在海外输出技术、与全球车企合作的国际化动态，与中国企业的全球化主题相关。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "一边亏损一边上新：昆仑万维的短剧",
+      "summary": "昆仑万维能否撑得起海外短剧“三极”布局？",
+      "url": "https://www.tmtpost.com/8058120.html",
+      "publishedAt": "Mon, 13 Jul 2026 18:44:14 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "昆仑万维是中国科技公司，其短剧业务布局涉及海外市场，符合中国企业在海外业务扩张、游戏/App出海的国际化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Chinese firms reshape global industrial chains - China Daily",
+      "summary": "Chinese firms reshape global industrial chains  China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYkJFd3QwX1FyWjQ1blkzNXEwLVB0NGFkaUthWnM0eGdHVm5ERHdMVmVma0xCTzdYNVZmRjJia3I2NDdpUVk4OVdKbm8wSDcyU08xNjFIUWVUcWs2YTVGc0ZlR2lYQUoxR0ZTLUNwYm05aF9oWnk5eFZndHdaZw?oc=5",
+      "publishedAt": "Mon, 13 Jul 2026 01:21:10 GMT",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻标题表明中国企业正在重塑全球产业链，涉及中国企业在海外的业务扩展和全球产业布局，与主题1、5、6相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's trade expands on AI boom, offsetting weak sectors",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/china-s-trade-expands-on-ai-boom-offsetting-weak-sectors",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻涉及中国贸易增长中AI产业的作用，与科技公司国际化和海外市场表现相关，但偏向宏观贸易，未明确聚焦企业出海具体动作。"
+    }
+  ],
+  "en": [
+    {
+      "source": "36氪出海",
+      "lang": "en",
+      "title": "Humanoid robot company LimX Dynamics has completed a $200 million Pre-IPO funding round, with a post-investment valuation of 15 billion RMB | Frontline",
+      "summary": "**Author:** Huang Nan  \n**Editor:** Yuan Silai  \n\nHard氪 has learned that general-purpose humanoid robot company **LimX Dynamics** has completed its Pre-IPO round of financing, with a total amount of nearly **$200 million USD**. Investors include **IDG Capital, Lens Technology, GGG Group, Redstone VC,华山资本, Hefei Binhu Industrial Development Group**, among others. In addition, UAE-based **Stone Venture** has participated in multiple consecutive rounds, while existing shareholders such as **Oasis Capital, Cornerstone Capital, Nanshan Zhanxin Investment, Shangqi Capital, and NIO Capital** have made additional oversubscriptions.  \n\nThe raised funds will be primarily used for breakthroughs in the integration of brain and cerebellar technologies and productization, promoting the large-scale deployment of thousands of fully autonomous humanoid robots, and strengthening global market expansion. The company will further enhance its global manufacturing and delivery capabilities, accelerate its layout in key markets such as the Middle East, Europe, and other countries in Asia, and continue to build an open ecosystem for global developers.  \n\nFollowing this financing round, the company’s post-investment valuation has reached **RMB 15 billion**, with a total of **$400 million USD** raised over the past six months. Previously, LimX Dynamics completed its shareholding reform in **March 2026**. According to sources familiar with the matter, the company had already initiated its IPO process earlier in early 2026.  \n\nIn recent years, as embodied intelligence enters a critical stage of large-scale development, LimX Dynamics has been continuously investing in R&D based on a full-stack technical roadmap, focusing on robot hardware, AI infrastructure, and the embodied intelligent agent OS system, establishing a complete technical system covering motion generation, model training, cognitive decision-making, and real-world deployment.",
+      "url": "https://36kr.com/p/3893976502287618?f=rss",
+      "publishedAt": "2026-07-14 08:46:41  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国机器人公司逐际动力完成融资用于全球市场拓展，重点布局中东、欧洲及亚洲，符合中国企业在海外业务扩张的主题。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "en",
+      "title": "迪哲医药：与阿斯利康签署授权许可协议",
+      "summary": "36Kr learned that Dizhe Pharma announced that it has signed a Licensing Agreement with AstraZeneca UK Limited (\"AstraZeneca\"), granting AstraZeneca exclusive global rights to develop and commercialize Shuwozhe®. The company will receive a one-time, non-refundable upfront payment of $600 million from AstraZeneca, along with clinical development milestone payments of up to $400 million and sales milestone payments of up to $500 million. Additionally, the company will receive tiered royalties on global net sales of Shuwozhe®, ranging up to low double-digit percentages. This transaction constitutes a related-party transaction but does not amount to a major asset restructuring and is subject to approval by the company's shareholders' meeting.",
+      "url": "https://36kr.com/newsflashes/3895014503054338?f=rss",
+      "publishedAt": "2026-07-14 12:53:38  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "迪哲医药与阿斯利康签署授权许可协议，涉及中国生物科技公司向全球药企授权海外商业化权利，属于中国企业在海外业务拓展和国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "ByteDance recreates \"Baidu Apollo\"",
+      "summary": "Will history repeat itself?",
+      "url": "https://www.tmtpost.com/8063440.html",
+      "publishedAt": "Tue, 14 Jul 2026 09:53:29 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及字节跳动（中国科技公司）在智能驾驶领域的国际化战略布局，对标百度Apollo，属于中国科技公司的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "A Chinese model at one-tenth the cost is reshaping the global AI landscape.",
+      "summary": "Unable to bear the sky-high cost of tokens, U.S. companies turn to Chinese AI.",
+      "url": "https://www.tmtpost.com/8062448.html",
+      "publishedAt": "Tue, 14 Jul 2026 08:07:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻标题和摘要提及中国AI模型以低成本优势吸引美国企业，反映了中国科技公司的全球化动态及其在海外市场的影响。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Chinese medical device makers push into Europe as anti-corruption squeeze bites at home",
+      "summary": "Facing anti-corruption policies and profit squeezing at home, Chinese innovative medical device companies are accelerating their push into the European market despite mounting cross-border trade protectionism. Government-backed hospital purchases of medical devices in China fell about 12 per cent year on year in the first five months of 2026, partly weighed down by “a new anti-corruption probe into hospitals”, dragging on the revenue of major Chinese medical device makers in the first half, said",
+      "url": "https://www.scmp.com/business/china-business/article/3360420/chinese-medical-device-makers-push-europe-anti-corruption-squeeze-bites-home?utm_source=rss_feed",
+      "publishedAt": "Tue, 14 Jul 2026 01:00:27 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻报道中国医疗设备企业因国内反腐政策挤压而加速进入欧洲市场，属于中国企业在海外的业务拓展和欧洲区域扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Chinese robot startup LimX Dynamics raises $200m to improve autonomy",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国机器人初创公司LimX Dynamics融资2亿美元提升自主技术，属于中国科技公司国际化动态中的业务发展，但未明确提及海外市场或全球化具体动作。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Honda, Toyota embrace Chinese EV tech as Japan automakers play catch-up",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-toyota-embrace-chinese-ev-tech-as-japan-automakers-play-catch-up",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及日本车企丰田、本田采用中国电动车技术，属于中国企业在海外输出技术、与全球车企合作的国际化动态，与中国企业的全球化主题相关。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Losses and New Releases: Kunlun's Short Dramas",
+      "summary": "Can Kunlun Wanwei Support the \"Three-Pole\" Layout of Overseas Short Dramas?",
+      "url": "https://www.tmtpost.com/8058120.html",
+      "publishedAt": "Mon, 13 Jul 2026 18:44:14 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "昆仑万维是中国科技公司，其短剧业务布局涉及海外市场，符合中国企业在海外业务扩张、游戏/App出海的国际化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Chinese firms reshape global industrial chains - China Daily",
+      "summary": "Chinese firms reshape global industrial chains  China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYkJFd3QwX1FyWjQ1blkzNXEwLVB0NGFkaUthWnM0eGdHVm5ERHdMVmVma0xCTzdYNVZmRjJia3I2NDdpUVk4OVdKbm8wSDcyU08xNjFIUWVUcWs2YTVGc0ZlR2lYQUoxR0ZTLUNwYm05aF9oWnk5eFZndHdaZw?oc=5",
+      "publishedAt": "Mon, 13 Jul 2026 01:21:10 GMT",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻标题表明中国企业正在重塑全球产业链，涉及中国企业在海外的业务扩展和全球产业布局，与主题1、5、6相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's trade expands on AI boom, offsetting weak sectors",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/china-s-trade-expands-on-ai-boom-offsetting-weak-sectors",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻涉及中国贸易增长中AI产业的作用，与科技公司国际化和海外市场表现相关，但偏向宏观贸易，未明确聚焦企业出海具体动作。"
+    }
+  ],
+  "ja": [
+    {
+      "source": "36氪出海",
+      "lang": "ja",
+      "title": "人型ロボット企業「逐際動力」が2億ドルのPre-IPOラウンドの資金調達を完了、投資後評価額は150億元に達する｜最前線",
+      "summary": "作者｜黄楠  \n編集｜袁斯来  \nハードクリプトが入手した情報によると、汎用人型ロボット企業である逐際動力LimX Dynamicsは、Pre-IPOラウンドの資金調達を完了し、調達額は約2億米ドルに上る。出資者にはIDGキャピタル、藍思科技、GGG Group、Redstone VC、华山資本、合肥滨湖産発グループなどが含まれる。また、アラブ首長国連邦の磊石資本（Stone Venture）は複数ラウンドにわたり追加投資を行い、绿洲資本、基石資本、南山戦新投、尚颀資本、蔚来資本など複数の既存株主が超過割当で追加出資した。  \n調達資金は主に大脳・小脳融合技術の突破と製品化に重点的に投入され、数千台の完全自律型人型ロボットの大規模展開を推進し、グローバル市場の開拓を強化する。同社はグローバルな製造・納品能力をさらに強化し、中東、欧州、その他のアジア諸国・地域などの重点市場への展開を加速するとともに、グローバルな開発者向けのオープンエコシステムの構築を継続する。  \n今回の資金調達完了後、同社のポストマネーバリュエーションは150億元に達し、過去半年間の累計調達額は4億米ドルにのぼる。逐際動力は2026年3月に株式改革を完了しており、関係筋によると、同社は2026年初頭のやや早い段階でIPOプロセスを開始している。  \n近年、具現化知能が規模拡大の重要な段階に入る中、逐際動力はフルスタックの技術ロードマップに基づき、ロボット本体、AIインフラ、具現化知能体OSシステムにわたって研究開発を継続的に投入し、動作生成、モデル訓練、認知判断から現実世界への展開に至るまでの完全な技術体系を構築している。",
+      "url": "https://36kr.com/p/3893976502287618?f=rss",
+      "publishedAt": "2026-07-14 08:46:41  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国机器人公司逐际动力完成融资用于全球市场拓展，重点布局中东、欧洲及亚洲，符合中国企业在海外业务扩张的主题。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "ja",
+      "title": "迪哲医药：アストラゼネカとライセンス契約を締結",
+      "summary": "36氪の情報によると、迪哲医薬は、AstraZeneca UK Limited（以下「アストラゼネカ」）との間で「ライセンス契約」を締結し、アストラゼネカに対して舒沃哲®に関する世界的な独占的開発権および商業化権を付与することを発表した。迪哲医薬は、アストラゼネカから一括返還不要の一時金として6億米ドル、臨床開発のマイルストンとして最大4億米ドル、販売マイルストンとして最大5億米ドルを受領する。さらに、舒沃哲®の全世界売上高に応じて、低二桁から高二桁の段階的レートによるロイヤルティ収入を得る。本取引は関連当事者取引に該当するが、重要な資産再編には該当せず、株主総会の承認を得る必要がある。",
+      "url": "https://36kr.com/newsflashes/3895014503054338?f=rss",
+      "publishedAt": "2026-07-14 12:53:38  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "迪哲医药与阿斯利康签署授权许可协议，涉及中国生物科技公司向全球药企授权海外商业化权利，属于中国企业在海外业务拓展和国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "字节再建「百度 Apollo」",
+      "summary": "古い道を再び歩むことになるのか？",
+      "url": "https://www.tmtpost.com/8063440.html",
+      "publishedAt": "Tue, 14 Jul 2026 09:53:29 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及字节跳动（中国科技公司）在智能驾驶领域的国际化战略布局，对标百度Apollo，属于中国科技公司的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "中国のモデルが10分の1のコストで、世界のAI地図を塗り替えつつある。",
+      "summary": "高額なトークンに耐えきれず、米国企業が中国のAIにシフト。",
+      "url": "https://www.tmtpost.com/8062448.html",
+      "publishedAt": "Tue, 14 Jul 2026 08:07:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻标题和摘要提及中国AI模型以低成本优势吸引美国企业，反映了中国科技公司的全球化动态及其在海外市场的影响。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "中国の医療機器メーカーが、国内での反腐敗強化の影響を受け、欧州へ進出している。",
+      "summary": "国内の反腐敗政策や利益圧迫に直面する中、中国の革新的な医療機器企業は、国境を越えた貿易保護主義が強まるにもかかわらず、欧州市場への進出を加速させている。2026年最初の5か月間における中国の政府支援による病院の医療機器購入は前年同期比で約12％減少した。これは「病院に対する新たな反腐敗調査」が一因となっており、中国の主要医療機器メーカーの上半期の収益を圧迫していると指摘されている。",
+      "url": "https://www.scmp.com/business/china-business/article/3360420/chinese-medical-device-makers-push-europe-anti-corruption-squeeze-bites-home?utm_source=rss_feed",
+      "publishedAt": "Tue, 14 Jul 2026 01:00:27 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻报道中国医疗设备企业因国内反腐政策挤压而加速进入欧洲市场，属于中国企业在海外的业务拓展和欧洲区域扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国のロボットスタートアップ企業LimX Dynamicsが自律性向上のため2億ドルを調達。",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国机器人初创公司LimX Dynamics融资2亿美元提升自主技术，属于中国科技公司国际化动态中的业务发展，但未明确提及海外市场或全球化具体动作。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "ホンダとトヨタ、中国のEV技術を取り入れる——日本自動車メーカーが追い上げを図る",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-toyota-embrace-chinese-ev-tech-as-japan-automakers-play-catch-up",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及日本车企丰田、本田采用中国电动车技术，属于中国企业在海外输出技术、与全球车企合作的国际化动态，与中国企业的全球化主题相关。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "赤字を抱えながらも新作を投入：Kunlun Wanwei（昆仑万维）のショートドラマ",
+      "summary": "昆仑万維は海外ドラマの「三極」戦略を支えられるのか？",
+      "url": "https://www.tmtpost.com/8058120.html",
+      "publishedAt": "Mon, 13 Jul 2026 18:44:14 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "昆仑万维是中国科技公司，其短剧业务布局涉及海外市场，符合中国企业在海外业务扩张、游戏/App出海的国际化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "中国企業が世界の産業チェーンを再編成 - チャイナデイリー",
+      "summary": "中国企业重塑全球产业链　中国日报",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYkJFd3QwX1FyWjQ1blkzNXEwLVB0NGFkaUthWnM0eGdHVm5ERHdMVmVma0xCTzdYNVZmRjJia3I2NDdpUVk4OVdKbm8wSDcyU08xNjFIUWVUcWs2YTVGc0ZlR2lYQUoxR0ZTLUNwYm05aF9oWnk5eFZndHdaZw?oc=5",
+      "publishedAt": "Mon, 13 Jul 2026 01:21:10 GMT",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻标题表明中国企业正在重塑全球产业链，涉及中国企业在海外的业务扩展和全球产业布局，与主题1、5、6相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国の貿易はAIブームにより拡大し、低迷するセクターを補っている",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/china-s-trade-expands-on-ai-boom-offsetting-weak-sectors",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻涉及中国贸易增长中AI产业的作用，与科技公司国际化和海外市场表现相关，但偏向宏观贸易，未明确聚焦企业出海具体动作。"
+    }
+  ],
+  "ar": [
+    {
+      "source": "36氪出海",
+      "lang": "ar",
+      "title": "شركة الروبوتات البشرية \"ZJ Dynamics\" تكمل جولة تمويل بقيمة 200 مليون دولار أمريكي في مرحلة ما قبل الطرح العام، لتصل قيمتها بعد الاستثمار إلى 15 مليار يوان | الطليعة",
+      "summary": "**الترجمة إلى العربية:**  \n\nالكاتب: هوانغ نان  \nالتحرير: يوان سيلاي  \nعلمت هارد كريستال أن شركة الروبوتات البشرية العامة LimX Dynamics قد أعلنت عن إتمام جولة تمويل ما قبل الاكتتاب العام الأولي (Pre-IPO)، بقيمة تقارب 200 مليون دولار أمريكي، بمشاركة مستثمرين من بينهم IDG Capital و Lens Technology و GGG Group و Redstone VC و China Hill Capital و Hefei Binhu Industrial Development Group. بالإضافة إلى ذلك، قامت شركة Stone Venture الإماراتية بمتابعة الاستثمار في عدة جولات متتالية، بينما زادت عدة مستثمرين قدماء من حصصهم بشكل كبير، من بينهم Oasis Capital و Cornerstone Capital و Nanshan Zhantou و Shangqi Capital و NIO Capital.  \n\nسيتم تخصيص أموال التمويل بشكل أساسي لتحقيق اختراقات في تقنية دمج الدماغين الكبير والصغير وتحويلها إلى منتجات، مما يدفع نحو نشر آلاف الروبوتات البشرية المستقلة ذاتيًا على نطاق واسع، وتعزيز التوسع في الأسواق العالمية. وستعمل الشركة على تحسين قدرات التصنيع والتسليم العالمية، وتسريع وتيرة التوسع في الأسواق الرئيسية مثل الشرق الأوسط وأوروبا ودول آسيوية أخرى، مع مواصلة بناء نظام بيئي مفتوح للمطورين حول العالم.  \n\nبعد اكتمال هذه الجولة من التمويل، بلغ تقييم الشركة بعد الاستثمار 15 مليار يوان صيني، بينما بلغ إجمالي التمويل الذي جمعته خلال الأشهر الستة الماضية 400 مليون دولار أمريكي. وقد أكملت LimX Dynamics سابقًا إعادة هيكلة الأسهم في مارس 2026. ووفقًا لمصادر مطلعة، بدأت الشركة عملية الاكتتاب العام الأولي في وقت سابق من بداية عام 2026.  \n\nفي السنوات الأخيرة، ومع دخول الذكاء الجسدي (Embodied Intelligence) مرحلة رئيسية من التطور على نطاق واسع، واصلت LimX Dynamics، استنادًا إلى نهج تقني شامل، استثماراتها في البحث والتطوير حول هيكل الروبوت، والبنية التحتية للذكاء الاصطناعي، ونظام تشغيل الذكاء الجسدي (OS)، مما أسس نظامًا تقنيًا متكاملًا يغطي توليد الحركة، وتدريب النماذج، واتخاذ القرارات المعرفية، وصولًا إلى النشر في العالم الحقيقي.",
+      "url": "https://36kr.com/p/3893976502287618?f=rss",
+      "publishedAt": "2026-07-14 08:46:41  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国机器人公司逐际动力完成融资用于全球市场拓展，重点布局中东、欧洲及亚洲，符合中国企业在海外业务扩张的主题。"
+    },
+    {
+      "source": "36氪出海",
+      "lang": "ar",
+      "title": "دي تشي للأدوية: توقيع اتفاقية ترخيص مع أسترازينيكا",
+      "summary": "36氪 علمت أن شركة ديزهي للطب أعلنت عن توقيع \"اتفاقية ترخيص\" مع AstraZeneca UK Limited (المشار إليها باسم \"أسترازينيكا\")، تمنح بموجبها أسترازينيكا حقوقًا حصرية على مستوى العالم لتطوير وتسويق عقار شوووتشه®. ستحصل الشركة على دفعة مقدمة غير قابلة للإرجاع وقيمتها 600 مليون دولار أمريكي من أسترازينيكا، بالإضافة إلى دفعات تصل إلى 400 مليون دولار أمريكي مقابل تحقيق معالم التطوير السريري، ودفعات تصل إلى 500 مليون دولار أمريكي مقابل تحقيق معالم المبيعات. علاوة على ذلك، ستحصل الشركة على إتاوات متدرجة تتراوح بين نسب مئوية متوسطة إلى مرتفعة ذات رقمين من إجمالي مبيعات شوووتشه® العالمية. تشكل هذه الصفقة معاملة طرف ذي علاقة، لكنها لا تشكل إعادة هيكلة جوهرية للأصول، وتخضع لموافقة اجتماع المساهمين للشركة.",
+      "url": "https://36kr.com/newsflashes/3895014503054338?f=rss",
+      "publishedAt": "2026-07-14 12:53:38  +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "迪哲医药与阿斯利康签署授权许可协议，涉及中国生物科技公司向全球药企授权海外商业化权利，属于中国企业在海外业务拓展和国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "إعادة بناء بايدو أبولو من بايت",
+      "summary": "هل سيعاد السير في الطريق القديم؟",
+      "url": "https://www.tmtpost.com/8063440.html",
+      "publishedAt": "Tue, 14 Jul 2026 09:53:29 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及字节跳动（中国科技公司）在智能驾驶领域的国际化战略布局，对标百度Apollo，属于中国科技公司的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "نموذج صيني بتكلفة عُشر ما يعادله يعيد تشكيل خريطة الذكاء الاصطناعي العالمية",
+      "summary": "ترجمة النص إلى العربية:  \n\"عجزًا عن تحمل تكاليف الرموز الباهظة، تتجه الشركات الأمريكية نحو الذكاء الاصطناعي الصيني.\"",
+      "url": "https://www.tmtpost.com/8062448.html",
+      "publishedAt": "Tue, 14 Jul 2026 08:07:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻标题和摘要提及中国AI模型以低成本优势吸引美国企业，反映了中国科技公司的全球化动态及其在海外市场的影响。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "مع اقتراب حملة مكافحة الفساد من الداخل، يتوسع مصنعو الأجهزة الطبية الصينيون في الأسواق الأوروبية",
+      "summary": "في مواجهة سياسات مكافحة الفساد وضغط الأرباح محليًا، تسارع شركات الأجهزة الطبية المبتكرة الصينية في التوسع نحو السوق الأوروبية، رغم تصاعد الحمائية التجارية عبر الحدود. انخفضت مشتريات المستشفيات المدعومة حكوميًا من الأجهزة الطبية في الصين بنحو 12% على أساس سنوي خلال الأشهر الخمسة الأولى من عام 2026، متأثرة جزئيًا بـ\"تحقيق جديد في مكافحة الفساد داخل المستشفيات\"، مما أثر سلبًا على إيرادات كبرى شركات الأجهزة الطبية الصينية في النصف الأول من العام.",
+      "url": "https://www.scmp.com/business/china-business/article/3360420/chinese-medical-device-makers-push-europe-anti-corruption-squeeze-bites-home?utm_source=rss_feed",
+      "publishedAt": "Tue, 14 Jul 2026 01:00:27 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻报道中国医疗设备企业因国内反腐政策挤压而加速进入欧洲市场，属于中国企业在海外的业务拓展和欧洲区域扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "شركة ليمكس ديناميكس (LimX Dynamics) الناشئة في مجال الروبوتات الصينية تجمع 200 مليون دولار لتحسين الاستقلالية",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/chinese-robot-startup-limx-dynamics-raises-200m-to-improve-autonomy",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国机器人初创公司LimX Dynamics融资2亿美元提升自主技术，属于中国科技公司国际化动态中的业务发展，但未明确提及海外市场或全球化具体动作。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "تتبنى هوندا وتويوتا التكنولوجيا الصينية للسيارات الكهربائية في الوقت الذي تحاول فيه شركات صناعة السيارات اليابانية اللحاق بالركب",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/honda-toyota-embrace-chinese-ev-tech-as-japan-automakers-play-catch-up",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及日本车企丰田、本田采用中国电动车技术，属于中国企业在海外输出技术、与全球车企合作的国际化动态，与中国企业的全球化主题相关。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "خسائر من جهة وإصدارات جديدة من جهة أخرى: مسلسلات كوانلون وانوي القصيرة",
+      "summary": "هل يمكن لـ\"كونلون وانوي\" أن تدعم توزيع الدراما القصيرة في الخارج وفق استراتيجية \"الأقطاب الثلاثة\"؟",
+      "url": "https://www.tmtpost.com/8058120.html",
+      "publishedAt": "Mon, 13 Jul 2026 18:44:14 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "昆仑万维是中国科技公司，其短剧业务布局涉及海外市场，符合中国企业在海外业务扩张、游戏/App出海的国际化动态主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "الشركات الصينية تعيد تشكيل سلاسل الصناعة العالمية - صحيفة تشاينا ديلي",
+      "summary": "الشركات الصينية تعيد تشكيل السلاسل الصناعية العالمية ‏تشاينا ديلي",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uYkJFd3QwX1FyWjQ1blkzNXEwLVB0NGFkaUthWnM0eGdHVm5ERHdMVmVma0xCTzdYNVZmRjJia3I2NDdpUVk4OVdKbm8wSDcyU08xNjFIUWVUcWs2YTVGc0ZlR2lYQUoxR0ZTLUNwYm05aF9oWnk5eFZndHdaZw?oc=5",
+      "publishedAt": "Mon, 13 Jul 2026 01:21:10 GMT",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻标题表明中国企业正在重塑全球产业链，涉及中国企业在海外的业务扩展和全球产业布局，与主题1、5、6相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "توسع التجارة الصينية بفضل ازدهار الذكاء الاصطناعي، مما يعوض القطاعات الضعيفة.",
+      "summary": "",
+      "url": "https://asia.nikkei.com/economy/china-s-trade-expands-on-ai-boom-offsetting-weak-sectors",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻涉及中国贸易增长中AI产业的作用，与科技公司国际化和海外市场表现相关，但偏向宏观贸易，未明确聚焦企业出海具体动作。"
+    }
+  ]
+}

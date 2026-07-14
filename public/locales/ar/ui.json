@@ -3,17 +3,17 @@
   "lang.en": "English",
   "lang.ja": "日本語",
   "lang.ar": "العربية",
-  "nav.home": "أخبار البحر",
+  "nav.home": "أخبار الخروج إلى البحر",
   "nav.back": "← العودة إلى القائمة",
   "section.featured": "مختارات اليوم",
   "section.latest": "أحدث الأخبار",
   "article.source": "المصدر",
-  "article.readmore": "اقرأ المقال الأصلي →",
+  "article.readmore": "اقرأ الأصل →",
   "article.featured_badge": "مختار",
-  "article.score_suffix": " نقطة",
+  "article.score_suffix": "نقطة",
   "footer.tagline": "تحديث يومي تلقائي",
   "footer.source_note": "البيانات من اشتراكات RSS العامة",
   "status.loading": "جارٍ التحميل",
-  "status.no_articles": "لا توجد أخبار حاليًا",
-  "status.count": "{count} مقال"
+  "status.no_articles": "لا توجد أخبار",
+  "status.count": "{count} مقالة"
 }

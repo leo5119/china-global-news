@@ -3,17 +3,17 @@
   "lang.en": "English",
   "lang.ja": "日本語",
   "lang.ar": "العربية",
-  "nav.home": "أخبار التصدير",
+  "nav.home": "أخبار التوسع الخارجي",
   "nav.back": "← العودة إلى القائمة",
   "section.featured": "اختيارات اليوم",
-  "section.latest": "آخر الأخبار",
+  "section.latest": "أحدث الأخبار",
   "article.source": "المصدر",
-  "article.readmore": "اقرأ النص الأصلي →",
-  "article.featured_badge": "مختار",
+  "article.readmore": "قراءة المزيد →",
+  "article.featured_badge": "مميز",
   "article.score_suffix": "نقطة",
   "footer.tagline": "تحديث يومي تلقائي",
   "footer.source_note": "البيانات من اشتراكات RSS العامة",
   "status.loading": "جارٍ التحميل",
   "status.no_articles": "لا توجد أخبار",
-  "status.count": "{count} مقالة"
+  "status.count": "{count} مقال"
 }

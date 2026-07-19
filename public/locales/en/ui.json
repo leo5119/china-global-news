@@ -10,7 +10,7 @@
   "article.source": "Source",
   "article.readmore": "Read More →",
   "article.featured_badge": "Featured",
-  "article.score_suffix": "pts",
+  "article.score_suffix": " pts",
   "footer.tagline": "Updated Daily",
   "footer.source_note": "Data from public RSS feeds",
   "status.loading": "Loading",

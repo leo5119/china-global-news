@@ -1,0 +1,406 @@
+{
+  "zh": [
+    {
+      "source": "36氪出海",
+      "lang": "zh",
+      "title": "腾讯云ADP 4.0海外版发布，要把企业级智能体带到全球市场 | 最前线",
+      "summary": "腾讯云的企业级智能体平台，正式出海了。\n7月18日，在2026世界人工智能大会上，腾讯云正式发布了智能体开发平台 ADP 4.0海外版，同步升级智能工作台、Claw 模式、Skill 广场三大核心模块，围绕触达、交互、生态、连接四大能力做了全面国际化适配。\nADP 的全称是 Agent Development Platform，定位为企业级 AgentOps 平台，覆盖智能体的构建、分发和治理全生命周期。\n简单来说，它解决的是企业智能体从建立、运行到管理的问题。\n\n智能体开发平台 ADP 4.0海外版\n这次企业级智能体海外版的核心升级集中在四个方面：一是渠道，Claw 应用支持 LINE、Telegram 等主流海外社交渠道，一站发布即可跨区域触达全球用户；\n而在交互体验上，智能工作台支持自定义时区与多区域调度，模型输出可跟随用户输入语言自动响应；\n在开放生态上，模型广场已经接入多家国际主流大模型，平台 Skill 完成国际化适配；并且，平台深度接入 Google Workspace、Confluence、Jira 等海外主流 SaaS 应用。\nADP 4.0的一个关键能力升级是 Agent 与 Workflow 双向互调。吴运声在采访中解释了这个设计的逻辑：企业在实际使用中，有些事情是模糊的、开放的，适合用 Agent 方式处理，这会消耗较多 Token；但一些确定性的流程，可以用 Workflow 来做，不需要反复消耗 Token。两者结合，既满足业务需求，又降低成本。\n这套逻辑在国内也已经有了标杆案例。比如，找钢网基于 ADP 4.0 Claw 模式搭建了企业中台数字员工，接入企业微信，覆盖订单、物流、财务、仓库、发票等多类场景。Agent 负责理解开放问题，Workflow 负责执行严谨业务流程，两者在同一个应用中协同工作。\n海外市场，ADP 4.0同样已有落地成果。如今，某大型医疗集团利用 ADP 构建了覆盖智能导诊、门诊预约、急诊风险识别等全流程的 AI 医疗助手，预计可独立处理80%以上常规咨询和预约，整体预约效率提升50%以上，患者平均等待时间缩短30%。而另一家海外头部运营商基于 ADP 重构统一客服平台后，整体运维成本预计降低30%-40%，新业务上线周期从数周缩短至数天，应用开发效率预计提升70%以上。\n吴运声在采访中表示，ADP 的客户数较去年至少翻倍增长。他将增长归因于两点：一是今年 Agent Loop 能力变强，以前不太好做的事情在能力上已经可以支持；二是客户在日常生活和工作中已经被教育了，教育成本大大降低。\n尽管当前ADP仍以国内市场为主，海外重点看东南亚等区域，会综合考虑市场人口、基建情况、政治环境和对华关系。在印尼，腾讯云已经做了不少私有化项目，在企业内部安装部署智能体。\n值得注意的是，吴运声在发布中还提出了“十大行业百大场景生态计划”，邀请生态伙伴从客服、经营分析、交易自动化等高频场景切入，依托 ADP 底座和伙伴的行业 Know-how，把智能体带进千行百业。同时，腾讯云还升级了腾讯乐享 Agentic 知识库作为知识底座，与 ADP 的能力底座形成配合。\n2026年，OpenClaw带来的Agent热潮，也让很多企业迅速将Agent应用到生产流程中。当被问及 WorkBuddy 和 ADP 的关系时，吴运声打了个比方：WorkBuddy 像是员工个人的智能助手，企业管理者未必知道员工用了什么；而 ADP 是云端一体化方案，做好的智能体可以发布出来供团队使用，使用情况对企业完全透明。两者是并存关系，面向不同场景。\n进入2026年，企业级智能体赛道正在快速升温。吴运声认为，企业最关心的是可信、可控——“我得知道到底是谁做了什么，后面所有东西都要可审计、是安全的。”这也是 ADP 相较于个人级智能体产品的核心差异：管控性更强，可以设定权限，支持全链路可观测和审计，并能直接集成到企业原有的 CRM 或 OA 系统中。\n从更大的视角看，这次 ADP 4.0海外版发布，是腾讯云将国内打磨成熟的企业级智能体能力向全球市场输出的关键一步。中国模型的性价比优势已经被海外中小企业认知，而企业级智能体平台的出海，意味着竞争从 Token 层上升到了应用层。",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
+      "publishedAt": "2026-07-20 09:30:27  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻明确报道腾讯云企业级智能体平台ADP 4.0海外版的发布，直接涉及中国科技公司（腾讯）的国际化动态和产品出海。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "PM Anutin reassures Chinese firms over Thai investment expansion - Nation Thailand",
+      "summary": "PM Anutin reassures Chinese firms over Thai investment expansion  Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vc0NDU0c1LXpEc1NBMnBsUEdlcTlyajhPODJpV0JLUmNySm9xZHdIbGV6S2MwUVhXQUd2X0trc0ZieWpjN0dHZmNuYUtDd1VuN2prc2t6MnE4M1hJVnBWRC1PLVI5RW8?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 02:00:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及泰国总理向中国企业保证投资环境，与中国企业在泰国的业务扩张直接相关，属于中国企业海外投资主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "China’s humanoid robot makers eye global expansion as 2026 WAIC highlights industry’s rapid rise - Global Times",
+      "summary": "China’s humanoid robot makers eye global expansion as 2026 WAIC highlights industry’s rapid rise  Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQWxuaTcxOUU5T1RZcEozekZTYmhUczlWYVZDbERWcFl2YXlhclU1TjZlVlljbk4zNGxYRXRuYnF0RVNfMUNncmxBeVV4dnRWcW5iWlh6RTU2ZjRrUUdCTmJR?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 07:21:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻明确指出中国仿人机器人制造商寻求全球扩张，涉及中国企业在海外市场的业务拓展，符合主题1和6。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Cairo's ambitious monorail reaches for China scale but lacks commuters",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/cairo-s-ambitious-monorail-reaches-for-china-scale-but-lacks-commuters",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及开罗单轨铁路项目，提到期望达到中国规模，暗示中国技术或合作参与，属于中国企业在非洲（埃及）的基础设施和交通领域的出海动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's share of global wind turbine market reaches nearly 80%",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国风电设备在全球市场的份额，属于中国品牌在海外市场的表现，符合主题7。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Last German bike helmet maker moves production to China",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/last-german-bike-helmet-maker-moves-production-to-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻标题提及德国自行车头盔制造商将生产转移到中国，涉及中国作为生产制造目的地，符合中国企业在海外业务扩张或中国企业承接国际生产合作的主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "西班牙夺冠，中国赞助商赢麻了",
+      "summary": "世界杯背后的生意经",
+      "url": "https://www.tmtpost.com/8071599.html",
+      "publishedAt": "Mon, 20 Jul 2026 10:55:00 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻提及西班牙夺冠背后的中国赞助商，可能涉及中国品牌在海外体育赛事中的商业曝光和市场表现，属于中国品牌国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "太空算力：当AI竞争开始延伸到地球之外",
+      "summary": "GPU大战之后，AI算力为何开始寻找地球之外的新空间？",
+      "url": "https://www.tmtpost.com/8071099.html",
+      "publishedAt": "Mon, 20 Jul 2026 09:31:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及中国企业在太空领域布局AI算力，属于中国科技公司（如华为、字节等）的国际化前沿动态，但主题较为前瞻且尚未明确具体企业或商业落地。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "State-owned Hongqi's ultra-luxury sedan beats Rolls-Royce in China",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/state-owned-hongqi-s-ultra-luxury-sedan-beats-rolls-royce-in-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "红旗作为中国国有汽车品牌，其超豪华轿车在中国市场表现优于劳斯莱斯，属于中国品牌在高端汽车领域的市场表现，与主题7（中国品牌在海外的口碑、销量、市场表现）部分相关，但主要关注国内市场而非海外。"
+    }
+  ],
+  "en": [
+    {
+      "source": "36氪出海",
+      "lang": "en",
+      "title": "Tencent Cloud ADP 4.0 Overseas Version Released, Aiming to Bring Enterprise-Level AI Agents to the Global Market | Frontline",
+      "summary": "Tencent Cloud's enterprise-level intelligent agent platform has officially gone global.\n\nOn July 18, at the 2026 World Artificial Intelligence Conference, Tencent Cloud officially released the overseas version of its intelligent agent development platform, ADP 4.0, simultaneously upgrading three core modules: the Intelligent Workbench, Claw mode, and Skill Marketplace. The platform has been fully adapted for international use, focusing on four key capabilities: reach, interaction, ecosystem, and connectivity.\n\nADP stands for Agent Development Platform, positioned as an enterprise-level AgentOps platform covering the full lifecycle of intelligent agents, from construction and distribution to governance.\n\nIn simple terms, it addresses the challenges enterprises face in building, operating, and managing intelligent agents.\n\n**Intelligent Agent Development Platform ADP 4.0 Overseas Version**\n\nThe core upgrades of this enterprise-level intelligent agent overseas version focus on four areas: First, channels—the Claw application supports mainstream overseas social channels such as LINE and Telegram, enabling one-stop publishing to reach global users across regions.\n\nIn terms of interaction experience, the Intelligent Workbench supports custom time zones and multi-region scheduling, with the model output automatically responding according to the user's input language.\n\nRegarding the open ecosystem, the Model Marketplace has integrated multiple major international large language models, and platform Skills have been adapted for international use. Additionally, the platform has deeply integrated with overseas mainstream SaaS applications such as Google Workspace, Confluence, and Jira.\n\nA key capability upgrade in ADP 4.0 is Ag",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
+      "publishedAt": "2026-07-20 09:30:27  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻明确报道腾讯云企业级智能体平台ADP 4.0海外版的发布，直接涉及中国科技公司（腾讯）的国际化动态和产品出海。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "PM Anutin reassures Chinese firms over Thai investment expansion - Nation Thailand",
+      "summary": "PM Anutin reassures Chinese firms over Thai investment expansion  Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vc0NDU0c1LXpEc1NBMnBsUEdlcTlyajhPODJpV0JLUmNySm9xZHdIbGV6S2MwUVhXQUd2X0trc0ZieWpjN0dHZmNuYUtDd1VuN2prc2t6MnE4M1hJVnBWRC1PLVI5RW8?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 02:00:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及泰国总理向中国企业保证投资环境，与中国企业在泰国的业务扩张直接相关，属于中国企业海外投资主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "China’s humanoid robot makers eye global expansion as 2026 WAIC highlights industry’s rapid rise - Global Times",
+      "summary": "China’s humanoid robot makers eye global expansion as 2026 WAIC highlights industry’s rapid rise  Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQWxuaTcxOUU5T1RZcEozekZTYmhUczlWYVZDbERWcFl2YXlhclU1TjZlVlljbk4zNGxYRXRuYnF0RVNfMUNncmxBeVV4dnRWcW5iWlh6RTU2ZjRrUUdCTmJR?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 07:21:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻明确指出中国仿人机器人制造商寻求全球扩张，涉及中国企业在海外市场的业务拓展，符合主题1和6。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Cairo's ambitious monorail reaches for China scale but lacks commuters",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/cairo-s-ambitious-monorail-reaches-for-china-scale-but-lacks-commuters",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及开罗单轨铁路项目，提到期望达到中国规模，暗示中国技术或合作参与，属于中国企业在非洲（埃及）的基础设施和交通领域的出海动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's share of the global wind turbine market reaches nearly 80%.",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国风电设备在全球市场的份额，属于中国品牌在海外市场的表现，符合主题7。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "The last German bike helmet maker moves production to China.",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/last-german-bike-helmet-maker-moves-production-to-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻标题提及德国自行车头盔制造商将生产转移到中国，涉及中国作为生产制造目的地，符合中国企业在海外业务扩张或中国企业承接国际生产合作的主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Spain wins the championship, Chinese sponsors reap huge rewards.",
+      "summary": "The Business Behind the World Cup",
+      "url": "https://www.tmtpost.com/8071599.html",
+      "publishedAt": "Mon, 20 Jul 2026 10:55:00 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻提及西班牙夺冠背后的中国赞助商，可能涉及中国品牌在海外体育赛事中的商业曝光和市场表现，属于中国品牌国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Space Computing Power: When AI Competition Begins to Extend Beyond Earth",
+      "summary": "After the GPU war, why is AI computing power beginning to look for new space beyond Earth?",
+      "url": "https://www.tmtpost.com/8071099.html",
+      "publishedAt": "Mon, 20 Jul 2026 09:31:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及中国企业在太空领域布局AI算力，属于中国科技公司（如华为、字节等）的国际化前沿动态，但主题较为前瞻且尚未明确具体企业或商业落地。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "State-owned Hongqi's ultra-luxury sedan outperforms Rolls-Royce in China.",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/state-owned-hongqi-s-ultra-luxury-sedan-beats-rolls-royce-in-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "红旗作为中国国有汽车品牌，其超豪华轿车在中国市场表现优于劳斯莱斯，属于中国品牌在高端汽车领域的市场表现，与主题7（中国品牌在海外的口碑、销量、市场表现）部分相关，但主要关注国内市场而非海外。"
+    }
+  ],
+  "ja": [
+    {
+      "source": "36氪出海",
+      "lang": "ja",
+      "title": "腾讯雲ADP 4.0海外版発表、企業向けエージェントをグローバル市場へ | 最前線",
+      "summary": "腾讯雲のエンタープライズ向けAIエージェントプラットフォームが、正式に海外進出を果たした。\n7月18日、2026年世界人工知能大会において、腾讯雲はAIエージェント開発プラットフォーム「ADP 4.0」の海外版を正式に発表し、同時にスマートワークステーション、Clawモード、Skill広場の3つの中核モジュールをアップグレード。リーチ、インタラクション、エコシステム、接続の4つの機能において全面的な国際化対応を施した。\nADPとはAgent Development Platformの略称で、エンタープライズ向けAgentOpsプラットフォームとして位置づけられ、AIエージェントの構築、配布、管理のライフサイクル全体をカバーする。\n簡単に言えば、企業のAIエージェントを構築から運用、管理に至るまでの課題を解決するものだ。\n\nAIエージェント開発プラットフォーム ADP 4.0 海外版\n今回のエンタープライズ向けAIエージェント海外版の中核的なアップグレードは4つの分野に集中している。1つ目はチャネルで、ClawアプリケーションがLINE、Telegramなどの主要な海外ソーシャルチャネルに対応し、一度の公開で地域を越えてグローバルユーザーにリーチ可能に。\nインタラクション体験においては、スマートワークステーションがカスタムタイムゾーンとマルチリージョンスケジューリングをサポートし、モデルの出力がユーザーの入力言語に応じて自動応答する。\nオープンエコシステムにおいては、モデル広場がすでに複数の国際的な主要大規模モデルと連携し、プラットフォームのSkillが国際化対応を完了。さらに、プラットフォームはGoogle Workspace、Confluence、Jiraといった海外の主要SaaSアプリケーションと深く接続している。\nADP 4.0の重要な機能アップグレードの一つは、Ag",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
+      "publishedAt": "2026-07-20 09:30:27  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻明确报道腾讯云企业级智能体平台ADP 4.0海外版的发布，直接涉及中国科技公司（腾讯）的国际化动态和产品出海。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "アヌティン首相、タイへの投資拡大を目指す中国企業に安心感を与える - ネーション・タイランド",
+      "summary": "アヌティン首相、タイへの投資拡大を検討する中国企業に安心感を与える  Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vc0NDU0c1LXpEc1NBMnBsUEdlcTlyajhPODJpV0JLUmNySm9xZHdIbGV6S2MwUVhXQUd2X0trc0ZieWpjN0dHZmNuYUtDd1VuN2prc2t6MnE4M1hJVnBWRC1PLVI5RW8?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 02:00:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及泰国总理向中国企业保证投资环境，与中国企业在泰国的业务扩张直接相关，属于中国企业海外投资主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "中国の人型ロボットメーカー、2026年WAICで業界の急成長を背景に海外展開を目指す - Global Times",
+      "summary": "中国の人型ロボットメーカー、2026年WAICが示す業界の急成長を受け世界展開を視野に 環球時報",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQWxuaTcxOUU5T1RZcEozekZTYmhUczlWYVZDbERWcFl2YXlhclU1TjZlVlljbk4zNGxYRXRuYnF0RVNfMUNncmxBeVV4dnRWcW5iWlh6RTU2ZjRrUUdCTmJR?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 07:21:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻明确指出中国仿人机器人制造商寻求全球扩张，涉及中国企业在海外市场的业务拓展，符合主题1和6。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "カイロの野心的なモノレールは中国規模を目指すが、利用客不足に悩む",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/cairo-s-ambitious-monorail-reaches-for-china-scale-but-lacks-commuters",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及开罗单轨铁路项目，提到期望达到中国规模，暗示中国技术或合作参与，属于中国企业在非洲（埃及）的基础设施和交通领域的出海动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国の世界風力タービン市場におけるシェアが約80%に達する",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国风电设备在全球市场的份额，属于中国品牌在海外市场的表现，符合主题7。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "最後のドイツ製自転車ヘルメットメーカー、生産を中国に移転",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/last-german-bike-helmet-maker-moves-production-to-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻标题提及德国自行车头盔制造商将生产转移到中国，涉及中国作为生产制造目的地，符合中国企业在海外业务扩张或中国企业承接国际生产合作的主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "スペインが優勝し、中国のスポンサーが大勝利を収めた。",
+      "summary": "ワールドカップの裏にあるビジネスの仕組み",
+      "url": "https://www.tmtpost.com/8071599.html",
+      "publishedAt": "Mon, 20 Jul 2026 10:55:00 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻提及西班牙夺冠背后的中国赞助商，可能涉及中国品牌在海外体育赛事中的商业曝光和市场表现，属于中国品牌国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "宇宙コンピューティング：AI競争が地球外へと拡大し始める時",
+      "summary": "GPU戦争の後、AIの計算能力はなぜ地球外の新たな空間を探し始めたのか？",
+      "url": "https://www.tmtpost.com/8071099.html",
+      "publishedAt": "Mon, 20 Jul 2026 09:31:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及中国企业在太空领域布局AI算力，属于中国科技公司（如华为、字节等）的国际化前沿动态，但主题较为前瞻且尚未明确具体企业或商业落地。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "国有红旗超豪华轿车在中国击败劳斯莱斯",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/state-owned-hongqi-s-ultra-luxury-sedan-beats-rolls-royce-in-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "红旗作为中国国有汽车品牌，其超豪华轿车在中国市场表现优于劳斯莱斯，属于中国品牌在高端汽车领域的市场表现，与主题7（中国品牌在海外的口碑、销量、市场表现）部分相关，但主要关注国内市场而非海外。"
+    }
+  ],
+  "ar": [
+    {
+      "source": "36氪出海",
+      "lang": "ar",
+      "title": "أصدرت Tencent Cloud الإصدار الدولي من ADP 4.0، بهدف تقديم العوامل الذكية على مستوى المؤسسات إلى الأسواق العالمية | الجبهة الأولى",
+      "summary": "منصة وكلاء المؤسسات من تينسنت كلاود (Tencent Cloud) تتوسع رسميًا إلى الأسواق العالمية.  \nفي 18 يوليو، خلال مؤتمر الذكاء الاصطناعي العالمي 2026، أطلقت تينسنت كلاود رسميًا النسخة الدولية من منصة تطوير الوكلاء ADP 4.0، مع ترقية متزامنة للوحدات الأساسية الثلاث: مساحة العمل الذكية، وضع Claw، وساحة المهارات (Skill Square)، إلى جانب تكييف شامل للمعايير الدولية في أربع قدرات رئيسية: الوصول، التفاعل، النظام البيئي، والاتصال.  \nالاسم الكامل لـ ADP هو Agent Development Platform، وهي منصة موجهة للمؤسسات من فئة AgentOps، تغطي دورة حياة الوكلاء الذكيين بالكامل من البناء والتوزيع إلى الإدارة.  \nببساطة، إنها تحل مشكلة إنشاء الوكلاء الذكيين للمؤسسات وتشغيلهم وإدارتهم.  \n\n**النسخة الدولية من منصة تطوير الوكلاء ADP 4.0**  \nتركز الترقية الأساسية للنسخة الدولية من منصة وكلاء المؤسسات على أربعة جوانب: أولًا، القنوات – حيث يدعم تطبيق Clow قنوات التواصل الاجتماعية الدولية الرئيسية مثل LINE وTelegram، مما يتيح النشر بنقرة واحدة للوصول إلى المستخدمين عالميًا عبر المناطق المختلفة.  \nوفي تجربة التفاعل، تدعم مساحة العمل الذكية التخصيص حسب المنطقة الزمنية والجدولة متعددة المناطق، مع استجابة تلقائية للنموذج بناءً على لغة إدخال المستخدم.  \nأما في النظام البيئي المفتوح، فقد ربطت ساحة النماذج عدة نماذج كبيرة دولية رئيسية، مع تكييف دولي لمهارات المنصة (Skill).  \nكما تتكامل المنصة بعمق مع تطبيقات SaaS الدولية الرئيسية مثل Google Workspace وConfluence وJira.  \nمن أبرز ترقيات القدرات في ADP 4.0 هي تقنية Ag.",
+      "url": "https://36kr.com/p/3901396207584902?f=rss",
+      "publishedAt": "2026-07-20 09:30:27  +0800",
+      "relevant": true,
+      "score": 9,
+      "reason": "该新闻明确报道腾讯云企业级智能体平台ADP 4.0海外版的发布，直接涉及中国科技公司（腾讯）的国际化动态和产品出海。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "الوزير الأول أنوتين يطمئن الشركات الصينية بشأن توسع الاستثمار التايلاندي - نايشن تايلاند",
+      "summary": "يؤكد رئيس الوزراء أنوتين للشركات الصينية بشأن توسيع استثماراتها في تايلاند ناشيون تايلاند",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vc0NDU0c1LXpEc1NBMnBsUEdlcTlyajhPODJpV0JLUmNySm9xZHdIbGV6S2MwUVhXQUd2X0trc0ZieWpjN0dHZmNuYUtDd1VuN2prc2t6MnE4M1hJVnBWRC1PLVI5RW8?oc=5",
+      "publishedAt": "Sun, 19 Jul 2026 02:00:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及泰国总理向中国企业保证投资环境，与中国企业在泰国的业务扩张直接相关，属于中国企业海外投资主题。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "تتطلع شركات صناعة الروبوتات البشرية الصينية إلى التوسع العالمي مع تسليط معرض WAIC 2026 الضوء على النمو السريع للقطاع - جلوبال تايمز",
+      "summary": "شركات تصنيع الروبوتات البشرية الصينية تتطلع إلى التوسع العالمي مع تسليط معرض WAIC 2026 الضوء على النهضة السريعة للصناعة  جلوبال تايمز",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YQWxuaTcxOUU5T1RZcEozekZTYmhUczlWYVZDbERWcFl2YXlhclU1TjZlVlljbk4zNGxYRXRuYnF0RVNfMUNncmxBeVV4dnRWcW5iWlh6RTU2ZjRrUUdCTmJR?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 07:21:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻明确指出中国仿人机器人制造商寻求全球扩张，涉及中国企业在海外市场的业务拓展，符合主题1和6。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "قالت القاهرة الطموحة إن القطار الأحادي يصل إلى نطاق الصين لكنه يفتقر إلى الركاب",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/transportation/cairo-s-ambitious-monorail-reaches-for-china-scale-but-lacks-commuters",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及开罗单轨铁路项目，提到期望达到中国规模，暗示中国技术或合作参与，属于中国企业在非洲（埃及）的基础设施和交通领域的出海动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "حصة الصين في السوق العالمي لتوربينات الرياح تصل إلى حوالي 80%",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国风电设备在全球市场的份额，属于中国品牌在海外市场的表现，符合主题7。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "آخر مصنع ألماني لخوذات الدراجات ينقل الإنتاج إلى الصين",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/retail/last-german-bike-helmet-maker-moves-production-to-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻标题提及德国自行车头盔制造商将生产转移到中国，涉及中国作为生产制造目的地，符合中国企业在海外业务扩张或中国企业承接国际生产合作的主题。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "فوز إسبانيا باللقب، الرعاة الصينيون يحققون أرباحًا طائلة",
+      "summary": "صفقة الأعمال وراء كأس العالم",
+      "url": "https://www.tmtpost.com/8071599.html",
+      "publishedAt": "Mon, 20 Jul 2026 10:55:00 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻提及西班牙夺冠背后的中国赞助商，可能涉及中国品牌在海外体育赛事中的商业曝光和市场表现，属于中国品牌国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "الفضاء الحاسوبي: عندما يبدأ التنافس في الذكاء الاصطناعي بالامتداد إلى ما وراء الأرض",
+      "summary": "بعد حرب وحدات معالجة الرسوميات (GPU)، لماذا بدأت القوى الحاسوبية للذكاء الاصطناعي في البحث عن فضاء جديد خارج الأرض؟",
+      "url": "https://www.tmtpost.com/8071099.html",
+      "publishedAt": "Mon, 20 Jul 2026 09:31:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及中国企业在太空领域布局AI算力，属于中国科技公司（如华为、字节等）的国际化前沿动态，但主题较为前瞻且尚未明确具体企业或商业落地。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "سيارة هونغتشي الفاخرة الفائقة المملوكة للدولة تتفوق على رولز-رويس في الصين",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/state-owned-hongqi-s-ultra-luxury-sedan-beats-rolls-royce-in-china",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "红旗作为中国国有汽车品牌，其超豪华轿车在中国市场表现优于劳斯莱斯，属于中国品牌在高端汽车领域的市场表现，与主题7（中国品牌在海外的口碑、销量、市场表现）部分相关，但主要关注国内市场而非海外。"
+    }
+  ]
+}

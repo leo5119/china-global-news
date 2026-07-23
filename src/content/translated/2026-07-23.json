@@ -1,0 +1,362 @@
+{
+  "zh": [
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Midea: Blueprint for international expansion - Table.Briefings",
+      "summary": "Midea: Blueprint for international expansion  Table.Briefings",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzA5SDI2dUlUNkx6eWFaajRpZXJzRDBCcy00WE9oNjFIZHJCZVRJYWRYWXR1ZEV6MjMtYjBlZ3NERElCMUtQQkZRNTJOYW4zVG5EOEZnbEt6VVRLWlhpTFVoVFNHTzM0b18tMEd2RG5JXzdRcWV2c3ZEX3l0YVFvbFhGQkVGSVU?oc=5",
+      "publishedAt": "Wed, 22 Jul 2026 20:15:56 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻标题和摘要明确提及美的（Midea）的国际扩张蓝图，属于中国企业在海外的业务拓展动态，与主题1高度相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Chinese EVs take on BMW, Mercedes-Benz in Thai luxury car market",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/chinese-evs-take-on-bmw-mercedes-benz-in-thai-luxury-car-market",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻聚焦中国电动车在泰国豪华车市场与宝马、奔驰竞争，涉及中国品牌海外市场表现和东南亚扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "GMI Cloud 携四大产品亮相 WAIC 2026 并发布 AI 出海白皮书",
+      "summary": "在 2026 世界人工智能大会（WAIC）期间，AI Native Cloud 服务商 GMI Cloud 集中展示了其全栈智算产品矩阵，并联合十余家产业链企业发布了《中国 AI 产业核心要素出海发展白皮书》。",
+      "url": "https://www.tmtpost.com/8075779.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:45:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及中国AI企业GMI Cloud在WAIC展示产品并发布AI出海白皮书，属于中国科技公司在海外展会推广及国际化动态。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "en",
+      "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it",
+      "summary": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
+      "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国AI模型（如Kimi K3）被苹果等全球企业采用，体现了中国科技公司的国际化动态及海外市场表现，符合主题1、5、6、7。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "China's SDHI eyes global expansion with AI-powered heavy machinery - chinadailyhk",
+      "summary": "China's SDHI eyes global expansion with AI-powered heavy machinery  chinadailyhk",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWFRhYnQ4Vmhfa19LWnFabWgyUXJVbi0wa0JSQzY0OEJHRDZZNkx5N0dNTG42ZkxTVG9pVy1KRHJPc0gybTd4MWp2M0Y4SW5LUUFRd2xaSndRdw?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 11:29:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "报道中国企业SDHI借助AI重型机械推进全球扩张，符合中国企业在海外业务拓展及硬件出海主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "US officials threaten to sanction Chinese AI startups after Moonshot release",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国威胁制裁中国AI初创公司，直接关联海外监管政策对中国企业的影响（主题4）。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's copper mine in Pakistan targeted by militant 'blockade'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/materials/china-s-copper-mine-in-pakistan-targeted-by-militant-blockade",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国企业在巴基斯坦的铜矿业务，属于中国企业在海外的业务和投资，符合主题1。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "巴奴直插香江，海底捞的“后院”不再平静",
+      "summary": "巴奴、海底捞的香港攻守道。",
+      "url": "https://www.tmtpost.com/8076361.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:35:24 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "巴奴作为中国餐饮品牌进入香港市场，与海底捞竞争，属于中国企业在海外业务扩张和品牌进入海外市场的动态。"
+    }
+  ],
+  "en": [
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Midea: Blueprint for International Expansion - Table.Briefings",
+      "summary": "Midea: Blueprint for international expansion  Table.Briefings",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzA5SDI2dUlUNkx6eWFaajRpZXJzRDBCcy00WE9oNjFIZHJCZVRJYWRYWXR1ZEV6MjMtYjBlZ3NERElCMUtQQkZRNTJOYW4zVG5EOEZnbEt6VVRLWlhpTFVoVFNHTzM0b18tMEd2RG5JXzdRcWV2c3ZEX3l0YVFvbFhGQkVGSVU?oc=5",
+      "publishedAt": "Wed, 22 Jul 2026 20:15:56 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻标题和摘要明确提及美的（Midea）的国际扩张蓝图，属于中国企业在海外的业务拓展动态，与主题1高度相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Chinese EVs take on BMW, Mercedes-Benz in Thai luxury car market",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/chinese-evs-take-on-bmw-mercedes-benz-in-thai-luxury-car-market",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻聚焦中国电动车在泰国豪华车市场与宝马、奔驰竞争，涉及中国品牌海外市场表现和东南亚扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "GMI Cloud showcased four major products at WAIC 2026 and released a white paper on AI going global.",
+      "summary": "During the 2026 World Artificial Intelligence Conference (WAIC), AI Native Cloud service provider GMI Cloud showcased its full-stack intelligent computing product portfolio and jointly released the \"White Paper on the Overseas Development of Core Elements of China's AI Industry\" with over ten industry chain enterprises.",
+      "url": "https://www.tmtpost.com/8075779.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:45:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及中国AI企业GMI Cloud在WAIC展示产品并发布AI出海白皮书，属于中国科技公司在海外展会推广及国际化动态。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "en",
+      "title": "The U.S. wants to contain China’s AI. Silicon Valley keeps using it.",
+      "summary": "As Apple, Thinking Machines, and developers worldwide embrace Chinese AI models such as Kimi K3, U.S. policymakers are struggling to protect the AI lead.",
+      "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国AI模型（如Kimi K3）被苹果等全球企业采用，体现了中国科技公司的国际化动态及海外市场表现，符合主题1、5、6、7。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "China's SDHI eyes global expansion with AI-powered heavy machinery - chinadailyhk",
+      "summary": "China's SDHI eyes global expansion with AI-powered heavy machinery",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWFRhYnQ4Vmhfa19LWnFabWgyUXJVbi0wa0JSQzY0OEJHRDZZNkx5N0dNTG42ZkxTVG9pVy1KRHJPc0gybTd4MWp2M0Y4SW5LUUFRd2xaSndRdw?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 11:29:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "报道中国企业SDHI借助AI重型机械推进全球扩张，符合中国企业在海外业务拓展及硬件出海主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "US officials threaten to sanction Chinese AI startups after Moonshot release",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国威胁制裁中国AI初创公司，直接关联海外监管政策对中国企业的影响（主题4）。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's copper mine in Pakistan targeted by militant 'blockade'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/materials/china-s-copper-mine-in-pakistan-targeted-by-militant-blockade",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国企业在巴基斯坦的铜矿业务，属于中国企业在海外的业务和投资，符合主题1。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Banu directly challenges the Hong Kong market, and Haidilao’s “backyard” is no longer quiet.",
+      "summary": "The Offensive and Defensive Strategies of Banu and Haidilao in Hong Kong.",
+      "url": "https://www.tmtpost.com/8076361.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:35:24 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "巴奴作为中国餐饮品牌进入香港市场，与海底捞竞争，属于中国企业在海外业务扩张和品牌进入海外市场的动态。"
+    }
+  ],
+  "ja": [
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "Midea：国際展開の青写真 - Table.Briefings",
+      "summary": "Midea：国際展開の青写真  業界概況",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzA5SDI2dUlUNkx6eWFaajRpZXJzRDBCcy00WE9oNjFIZHJCZVRJYWRYWXR1ZEV6MjMtYjBlZ3NERElCMUtQQkZRNTJOYW4zVG5EOEZnbEt6VVRLWlhpTFVoVFNHTzM0b18tMEd2RG5JXzdRcWV2c3ZEX3l0YVFvbFhGQkVGSVU?oc=5",
+      "publishedAt": "Wed, 22 Jul 2026 20:15:56 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻标题和摘要明确提及美的（Midea）的国际扩张蓝图，属于中国企业在海外的业务拓展动态，与主题1高度相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国のEVがタイの高級車市場でBMWやメルセデス・ベンツに挑戦",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/chinese-evs-take-on-bmw-mercedes-benz-in-thai-luxury-car-market",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻聚焦中国电动车在泰国豪华车市场与宝马、奔驰竞争，涉及中国品牌海外市场表现和东南亚扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "GMI CloudがWAIC 2026に4つの主力製品を出展し、AI海外進出白書を発表",
+      "summary": "2026年世界人工智能大会（WAIC）期間、AIネイティブクラウドサービスプロバイダーであるGMI Cloudは、フルスタックの知能計算製品マトリクスを集中的に展示し、10社以上の産業チェーン企業と共同で「中国AI産業核心要素の海外展開に関する白書」を発表しました。",
+      "url": "https://www.tmtpost.com/8075779.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:45:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及中国AI企业GMI Cloud在WAIC展示产品并发布AI出海白皮书，属于中国科技公司在海外展会推广及国际化动态。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "ja",
+      "title": "アメリカは中国のAIを封じ込めようとしている。シリコンバレーはそれを使い続けている。",
+      "summary": "アップル、シンキングマシンズ、そして世界中の開発者がKimi K3のような中国のAIモデルを受け入れる中、米国の政策立案者はAIのリーダーシップを守るのに苦慮している。",
+      "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国AI模型（如Kimi K3）被苹果等全球企业采用，体现了中国科技公司的国际化动态及海外市场表现，符合主题1、5、6、7。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "中国のSDHI、AI搭載の重機で世界展開を視野に - chinadailyhk",
+      "summary": "中国のSDHI、AI搭載重機でグローバル展開を目指す  chinadailyhk",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWFRhYnQ4Vmhfa19LWnFabWgyUXJVbi0wa0JSQzY0OEJHRDZZNkx5N0dNTG42ZkxTVG9pVy1KRHJPc0gybTd4MWp2M0Y4SW5LUUFRd2xaSndRdw?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 11:29:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "报道中国企业SDHI借助AI重型机械推进全球扩张，符合中国企业在海外业务拓展及硬件出海主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "米国当局、Moonshotのリリース後に中国のAI新興企業に対する制裁を示唆",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国威胁制裁中国AI初创公司，直接关联海外监管政策对中国企业的影响（主题4）。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国のパキスタンにおける銅山が過激派による「封鎖」の標的に",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/materials/china-s-copper-mine-in-pakistan-targeted-by-militant-blockade",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国企业在巴基斯坦的铜矿业务，属于中国企业在海外的业务和投资，符合主题1。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "巴奴が香江に直撃、海底捞の「裏庭」はもはや平穏ではない",
+      "summary": "巴奴、海底捞の香港攻守道。",
+      "url": "https://www.tmtpost.com/8076361.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:35:24 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "巴奴作为中国餐饮品牌进入香港市场，与海底捞竞争，属于中国企业在海外业务扩张和品牌进入海外市场的动态。"
+    }
+  ],
+  "ar": [
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "ميديا: مخطط التوسع الدولي - طاولة.بريفينجز",
+      "summary": "ميديا: مخطط التوسع الدولي  طاولة.إحاطات",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObzA5SDI2dUlUNkx6eWFaajRpZXJzRDBCcy00WE9oNjFIZHJCZVRJYWRYWXR1ZEV6MjMtYjBlZ3NERElCMUtQQkZRNTJOYW4zVG5EOEZnbEt6VVRLWlhpTFVoVFNHTzM0b18tMEd2RG5JXzdRcWV2c3ZEX3l0YVFvbFhGQkVGSVU?oc=5",
+      "publishedAt": "Wed, 22 Jul 2026 20:15:56 GMT",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻标题和摘要明确提及美的（Midea）的国际扩张蓝图，属于中国企业在海外的业务拓展动态，与主题1高度相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "السيارات الكهربائية الصينية تنافس BMW وMercedes-Benz في سوق السيارات الفاخرة في تايلاند",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/chinese-evs-take-on-bmw-mercedes-benz-in-thai-luxury-car-market",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 9,
+      "reason": "新闻聚焦中国电动车在泰国豪华车市场与宝马、奔驰竞争，涉及中国品牌海外市场表现和东南亚扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "GMI Cloud تقدم أربعة منتجات رئيسية في WAIC 2026 وتصدر كتابًا أبيض حول الذكاء الاصطناعي للأسواق الخارجية.",
+      "summary": "خلال مؤتمر الذكاء الاصطناعي العالمي (WAIC) لعام 2026، عرضت مزود خدمات الحوسبة السحابية الأصلية للذكاء الاصطناعي GMI Cloud بشكل مكثف مجموعة منتجاتها الشاملة للحوسبة الذكية، وأصدرت بالتعاون مع أكثر من عشر شركات في سلسلة الصناعة \"الكتاب الأبيض حول تطوير العناصر الأساسية لصناعة الذكاء الاصطناعي الصينية في الخارج\".",
+      "url": "https://www.tmtpost.com/8075779.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:45:00 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及中国AI企业GMI Cloud在WAIC展示产品并发布AI出海白皮书，属于中国科技公司在海外展会推广及国际化动态。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "ar",
+      "title": "الولايات المتحدة تريد احتواء الذكاء الاصطناعي الصيني. وادي السيليكون يواصل استخدامه.",
+      "summary": "مع احتضان شركات مثل Apple وThinking Machines والمطورين حول العالم لنماذج الذكاء الاصطناعي الصينية مثل Kimi K3، يواجه صناع السياسات في الولايات المتحدة صعوبة في الحفاظ على الريادة في مجال الذكاء الاصطناعي.",
+      "url": "https://restofworld.org/2026/china-siliconvalley-ai-moonshot-kimi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国AI模型（如Kimi K3）被苹果等全球企业采用，体现了中国科技公司的国际化动态及海外市场表现，符合主题1、5、6、7。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "الصين: شركة SDHI تخطط للتوسع العالمي باستخدام الآلات الثقيلة المدعومة بالذكاء الاصطناعي - chinadailyhk",
+      "summary": "تستهدف شركة SDHI الصينية التوسع العالمي باستخدام الآلات الثقيلة المدعومة بالذكاء الاصطناعي  chinadailyhk",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VWFRhYnQ4Vmhfa19LWnFabWgyUXJVbi0wa0JSQzY0OEJHRDZZNkx5N0dNTG42ZkxTVG9pVy1KRHJPc0gybTd4MWp2M0Y4SW5LUUFRd2xaSndRdw?oc=5",
+      "publishedAt": "Tue, 21 Jul 2026 11:29:00 GMT",
+      "relevant": true,
+      "score": 8,
+      "reason": "报道中国企业SDHI借助AI重型机械推进全球扩张，符合中国企业在海外业务拓展及硬件出海主题。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "مسؤولون أمريكيون يهددون بفرض عقوبات على الشركات الناشئة الصينية في مجال الذكاء الاصطناعي بعد إصدار Moonshot",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-officials-threaten-to-sanction-chinese-ai-startups-after-moonshot-release",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国威胁制裁中国AI初创公司，直接关联海外监管政策对中国企业的影响（主题4）。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "مُناجم النحاس الصينية في باكستان تستهدف من قبل 'حصار' مسلح",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/materials/china-s-copper-mine-in-pakistan-targeted-by-militant-blockade",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及中国企业在巴基斯坦的铜矿业务，属于中国企业在海外的业务和投资，符合主题1。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "巴奴直插香江، لم يعد \"الفناء الخلفي\" لهايديلاو هادئًا",
+      "summary": "巴奴、海底捞在香港的攻守之道。",
+      "url": "https://www.tmtpost.com/8076361.html",
+      "publishedAt": "Thu, 23 Jul 2026 11:35:24 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "巴奴作为中国餐饮品牌进入香港市场，与海底捞竞争，属于中国企业在海外业务扩张和品牌进入海外市场的动态。"
+    }
+  ]
+}

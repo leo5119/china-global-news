@@ -11,9 +11,9 @@
   "article.readmore": "Read More →",
   "article.featured_badge": "Featured",
   "article.score_suffix": " pts",
-  "footer.tagline": "Auto-updated daily",
+  "footer.tagline": "Updated Daily",
   "footer.source_note": "Data from public RSS feeds",
-  "status.loading": "Loading...",
-  "status.no_articles": "No articles yet",
+  "status.loading": "Loading",
+  "status.no_articles": "No Articles",
   "status.count": "{count} articles"
 }

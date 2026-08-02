@@ -8,12 +8,12 @@
   "section.featured": "Today's Featured",
   "section.latest": "Latest News",
   "article.source": "Source",
-  "article.readmore": "Read More →",
+  "article.readmore": "Read Original →",
   "article.featured_badge": "Featured",
   "article.score_suffix": " points",
-  "footer.tagline": "Updated daily",
+  "footer.tagline": "Updated Daily",
   "footer.source_note": "Data from public RSS subscriptions",
   "status.loading": "Loading",
-  "status.no_articles": "No news",
+  "status.no_articles": "No articles available",
   "status.count": "{count} articles"
 }

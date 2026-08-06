@@ -3,17 +3,17 @@
   "lang.en": "English",
   "lang.ja": "日本語",
   "lang.ar": "العربية",
-  "nav.home": "Global News",
+  "nav.home": "Overseas News",
   "nav.back": "← Back to List",
-  "section.featured": "Today's Featured",
+  "section.featured": "Today's Highlights",
   "section.latest": "Latest News",
   "article.source": "Source",
   "article.readmore": "Read More →",
   "article.featured_badge": "Featured",
   "article.score_suffix": " pts",
   "footer.tagline": "Updated Daily",
-  "footer.source_note": "Data sourced from public RSS feeds",
+  "footer.source_note": "Data from public RSS feeds",
   "status.loading": "Loading",
-  "status.no_articles": "No Articles Available",
-  "status.count": "{count} Articles"
+  "status.no_articles": "No articles yet",
+  "status.count": "{count} articles"
 }

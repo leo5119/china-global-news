@@ -1,0 +1,35 @@
+[
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "DeepSeek signals ‘significant’ price hike amid surge in demand for low-cost AI models",
+    "summary": "DeepSeek announced on Thursday a “significant” price hike, amid surging global demand for a new ultra-cheap model, which sparked debate over how the Chinese AI start-up has delivered powerful performance at rock-bottom prices.\nDeepSeek would raise overall pricing for its application programming interface (API) services “in the near future”, with specific plans to be advised later, the Hangzhou-based company said in a statement on its developer platform on Thursday.\nA “significant increase” was...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3363129/deepseek-signals-significant-price-hike-amid-surge-demand-low-cost-ai-models?utm_source=rss_feed",
+    "publishedAt": "Thu, 06 Aug 2026 05:01:29 +0000",
+    "relevant": true,
+    "score": 8,
+    "reason": "DeepSeek作为中国AI公司，其海外需求激增和价格调整属于中国科技公司国际化动态，涉及海外市场表现。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "China's Robotic Vacuum Cleaners Dominate 70% of the Global Market Driven by Advanced Technology - 36Kr",
+    "summary": "China's Robotic Vacuum Cleaners Dominate 70% of the Global Market Driven by Advanced Technology  36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50cU5hNWsyV2xPc3BNVFFjekZuejZPQWtvVENXV3pRejF0RmJfQ1pJR0hvODdWbFdkUUJlV3pjNHhjVXduY3prNzduVEpDQThyWXNJ?oc=5",
+    "publishedAt": "Wed, 05 Aug 2026 05:22:39 GMT",
+    "relevant": true,
+    "score": 8,
+    "reason": "中国扫地机器人占据全球70%市场份额，属于中国品牌在海外的市场表现和销量主导，与主题5、7直接相关。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "US reported plan to ban Chinese optical transceiver imports may raise costs for US service providers, slow AI infrastructure expansion: expert - Global Times",
+    "summary": "US reported plan to ban Chinese optical transceiver imports may raise costs for US service providers, slow AI infrastructure expansion: expert  Global Times",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82SXFXdjlRUGRST3BZcHJMZXFzYzVVTWdnMHkzRU1kYXI0SHE2S28xWVpESGNaWmFVVlpnWDNpU0J3Y2lRWHhtSWt4Ri12b0VaYjE4QnQ4TmtkZl81MmpkZ0pR?oc=5",
+    "publishedAt": "Tue, 04 Aug 2026 14:47:00 GMT",
+    "relevant": true,
+    "score": 7,
+    "reason": "涉及美国拟禁止进口中国光模块的监管限制，直接影响中国光通信企业在美业务及成本竞争力，属于海外监管政策对中国企业的影响。"
+  }
+]

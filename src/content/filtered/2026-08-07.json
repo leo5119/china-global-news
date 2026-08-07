@@ -1,0 +1,57 @@
+[
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "80% of Chinese companies plan overseas expansion within three years: UOB - macau daily times 澳門每日時報",
+    "summary": "80% of Chinese companies plan overseas expansion within three years: UOB  macau daily times 澳門每日時報",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalo0UWlMUEdPbkxrWFZkOXJhQkFTNS1NNnNEQTgtaE9yYklWeVY4eVo4ektoN3ZZTWc3QTBUaXNZODBCNU9QMnNxLURlZTdiVFY4dGx1cmc1TkNPOUNpc282OVZMdzVsNjZrZHp1aGtJZnlZcHM5TVhia0JUV3Z0a2UzcWJaaUJxLVlLUmlkZ1JCRHBfY0tVb3ozMnVCSnY4Z2tVdUU3bm0xUQ?oc=5",
+    "publishedAt": "Fri, 07 Aug 2026 00:37:16 GMT",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻直接涉及中国企业计划海外扩张的宏观趋势，符合中国企业在海外业务扩展主题。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "China's Robotic Vacuum Cleaners Dominate 70% of the Global Market Driven by Advanced Technology - 36 Kr",
+    "summary": "China's Robotic Vacuum Cleaners Dominate 70% of the Global Market Driven by Advanced Technology  36 Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50cU5hNWsyV2xPc3BNVFFjekZuejZPQWtvVENXV3pRejF0RmJfQ1pJR0hvODdWbFdkUUJlV3pjNHhjVXduY3prNzduVEpDQThyWXNJ?oc=5",
+    "publishedAt": "Wed, 05 Aug 2026 05:22:39 GMT",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻聚焦中国扫地机器人以技术优势占据全球市场70%份额，属于中国品牌在海外的销量与市场表现，直接契合主题7。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "百济神州中报超预期交卷：泽布替尼登顶全球，为何股价高开低走丨看财报",
+    "summary": "泽布替尼市占率首次超越伊布替尼，成为继传奇生物西达基奥仑赛注射液之后，又一款登顶全球市场的国产BIC药物。",
+    "url": "https://www.tmtpost.com/8094400.html",
+    "publishedAt": "Thu, 06 Aug 2026 20:07:47 +0800",
+    "relevant": true,
+    "score": 7,
+    "reason": "百济神州作为中国科技药企，其核心产品泽布替尼全球市占率登顶，属于中国企业在海外市场的业务表现，符合主题1和7。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Backed by DeepSeek, Unitree IPO tests investor appetite for China’s AI robotics boom",
+    "summary": "The long-awaited initial public offering of Unitree Robotics, which values the Hangzhou-based firm at 60.99 billion yuan (US$9 billion), is set to serve as a valuation benchmark for China’s booming embodied-AI sector, buoyed by retail investor excitement and high-profile AI backers like DeepSeek.\nWidely billed as “mainland China’s first humanoid stock”, Unitree has priced its IPO on Shanghai’s Star Market at 150.8 yuan per share, according to a filing released Thursday evening. The firm will...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3363251/backed-deepseek-unitree-ipo-tests-investor-appetite-chinas-ai-robotics-boom?utm_source=rss_feed",
+    "publishedAt": "Fri, 07 Aug 2026 04:23:35 +0000",
+    "relevant": true,
+    "score": 7,
+    "reason": "中国机器人公司宇树科技IPO及其估值，体现中国科技企业在资本市场上的国际化动态，与主题6相关。"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs",
+    "summary": "China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as the preferred base amid a broader crackdown on outflows of state cash.\nDecades of overseas expansion had seen many SOEs build up assets in multiple jurisdictions, leaving cash management fragmented and making it harder for regulators and company headquarters to track liquidity, foreign-exchange risk and cross-border financing, analysts said.\nCentral...",
+    "url": "https://www.scmp.com/business/china-business/article/3363242/hong-kong-preferred-base-chinese-soes-consolidate-overseas-accounts-treasury-hubs?utm_source=rss_feed",
+    "publishedAt": "Fri, 07 Aug 2026 03:04:43 +0000",
+    "relevant": true,
+    "score": 7,
+    "reason": "新闻涉及中国央企整合海外账户并选择香港作为财资中心，属于中国企业在海外业务管理及区域扩张动态。"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "36Kr Global Recruitment | Dubai Business Forum October Shenzhen Visit: Latest Gulf Market Expansion of Chinese Tech Enterprises - 36 Kr",
+    "summary": "36Kr Global Recruitment | Dubai Business Forum October Shenzhen Visit: Latest Gulf Market Expansion of Chinese Tech Enterprises  36 Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEekEwOXNOOTBCSjBWQzROcDVhREJ5N1daRE9vZUNNd3o3SlJmS1BVVEtKUlZ2Z0w3MXhkT01yQ1F1TWFEemFVbEJ5dDI4MFhxa1k0?oc=5",
+    "publishedAt": "Sat, 08 Aug 2026 01:53:45 GMT",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻涉及中国科技企业赴迪拜拓展海湾市场，属于中国企业在特定地区扩张的主题。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Global EV prices drop below hybrids as low-cost Chinese cars spread",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/global-ev-prices-drop-below-hybrids-as-low-cost-chinese-cars-spread",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻聚焦中国低成本电动车在全球市场扩展，使电动车价格低于混动车，直接反映中国品牌在海外汽车市场的渗透和影响。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "苹果给阿里提了一个醒",
+    "summary": "千问进了苹果，但这可能不是阿里最想要的胜利。",
+    "url": "https://www.tmtpost.com/8096547.html",
+    "publishedAt": "Sun, 09 Aug 2026 11:00:45 +0800",
+    "relevant": true,
+    "score": 7,
+    "reason": "新闻涉及阿里巴巴的千问模型与苹果合作，属于中国科技公司国际化及海外市场拓展动态。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "HK serves as launchpad for Chinese mainland F&B companies going global - chinadailyasia.com",
+    "summary": "HK serves as launchpad for Chinese mainland F&B companies going global  chinadailyasia.com",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SUXRmS2o0Q1lJZk5ScHRsaU15Z2ZVMlJwZUhSRGZmNmgzMXQtTUtNNWNFOGNDaE5sTmpOdXhaNGpzdlE3STh0VUFYWmZfWWlpZTRNdTREZWI?oc=5",
+    "publishedAt": "Fri, 07 Aug 2026 13:00:13 GMT",
+    "relevant": true,
+    "score": 7,
+    "reason": "新闻聚焦中国内地餐饮企业借助香港拓展海外市场，属于中国品牌出海及海外扩张主题。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Hong Kong-based rice ball chain prepares supplies for US push",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/food-beverage/hong-kong-based-rice-ball-chain-prepares-supplies-for-us-push",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 7,
+    "reason": "香港品牌饭团连锁准备进入美国市场，属于中国品牌在海外扩张的主题。"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Chinese tech firms target Dubai for global expansion as flying cars, drone delivery and payments scale up - Arabian Business",
+    "summary": "Chinese tech firms target Dubai for global expansion as flying cars, drone delivery and payments scale up  Arabian Business",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPbHNERUgwdlFoSV8wS1JhMHJqRkx3Tk5oQXZwY1hzUGZfOHMwTVRhRGV0VmUxLXcxS0hYcDBZdC1hMExYX2tYYThySDFHTy16bkhwNUo4QWprUm1FTmY3VGhYakNRU284V2VjdmF0WTFuSk1udlM4MS1nVHVNajhwUGY0NVhxQ1JaRkhXX1VhaFVHMm5Ham5WQ1NXZXU2Qm40Mzdxbnh0VzAwTzBrWEplUF9MblY1MHVXc0lVRF9XR0xkUnptblZncG1yUHEzbjhPQzdLUmVkSGVjQ2ZNcFE?oc=5",
+    "publishedAt": "Sun, 09 Aug 2026 20:16:32 GMT",
+    "relevant": true,
+    "score": 9,
+    "reason": "新闻聚焦中国科技公司以迪拜为跳板进行全球扩张，涵盖飞行汽车、无人机配送和支付等业务，属于中国企业在海外市场的拓展动态。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Close trade ties see Chinese firms rev up expansion within ASEAN - China Daily Global Edition",
+    "summary": "Close trade ties see Chinese firms rev up expansion within ASEAN  China Daily Global Edition",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQUo0X3hRbTZMcWdfMnhUT3JRX21HRHZYQnd6Q1kzS3pJQjI3dXhCRk5TN1BnbDZ2NnJ0WG81cDl2YWZodG12VklEMklZYV91ZlQ2eFhRWEJQUkRyamZMQ1hEcFJMSmtjR21Ua09XUUZGYklXR19MMXlfaGpnUndaWg?oc=5",
+    "publishedAt": "Tue, 11 Aug 2026 01:06:54 GMT",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻标题直接点明中国企业在东盟地区加速扩张，属于中国企业在特定地区（东南亚）的国际化动态。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "H1 Outside China Power Battery Installations TOP10: Two New Entries, Three Chinese Companies Doubled Growth - Shanghai Metals Market",
+    "summary": "H1 Outside China Power Battery Installations TOP10: Two New Entries, Three Chinese Companies Doubled Growth  Shanghai Metals Market",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNFpVdDJWQllUbldCeC1Fc0tmUlBHQ2dIdnBMdF9MbF9DV3dSX2Z3UnlVRGN6U1loem42THpIRGxGbk5HZEN4V3NmdEZGa3kxUUJFT1k3M2ljNVBDNkNLbFNzZENmZ3pSSmxsVGZnTWtuTkpxYkF4a0JzcGJvNWNPUGdYaXlSeHAyTVc4WUFndlZCU0RhWUJITnd4aEhNel9JYXNFZ094eVFPUXpNNUc5MU1XNGRiNW9ocmN0MXZqUWVGcU1CQVdpVGE5TkxHRTlmTVJVLW1ZUHJRQ2l4OENDbXdseThQMy1W?oc=5",
+    "publishedAt": "Mon, 10 Aug 2026 02:14:02 GMT",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻聚焦中国动力电池企业在海外市场的装机量增长，直接反映中国新能源企业在海外的市场表现。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Memory crunch gives China's CXMT a breakthrough moment",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/memory-crunch-gives-china-s-cxmt-a-breakthrough-moment",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 8,
+    "reason": "CXMT是中国存储芯片企业，其技术突破影响全球半导体市场格局，属于中国科技公司国际化动态。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "2026，跨境电商奔向“Agent 2 Agent”时刻",
+    "summary": "选好AI，做好新电商的第一步。",
+    "url": "https://www.tmtpost.com/8098002.html",
+    "publishedAt": "Tue, 11 Aug 2026 10:09:16 +0800",
+    "relevant": true,
+    "score": 7,
+    "reason": "新闻标题聚焦跨境电商AI应用趋势，直接关联主题3（跨境电商平台）及技术国际化动态。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Chinese rare-earth project in Laos stumbles as industry rakes in profits",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/materials/chinese-rare-earth-project-in-laos-stumbles-as-industry-rakes-in-profits",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 7,
+    "reason": "中国企业在老挝的稀土项目属于海外业务投资，符合主题1，但摘要提及项目遇阻，需判断是否涉及负面政治因素，不过仍属于商业出海范畴。"
+  }
+]

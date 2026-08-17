@@ -1,0 +1,230 @@
+{
+  "zh": [
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "Pony.ai and Uber Set Their Sights on More Than 2,000 Robotaxis in Europe",
+      "summary": "A Chinese autonomous-driving company and a global ride-hailing platform have agreed to expand a quiet pilot in Zagreb into a multi-city fleet. The plan is ambitious on paper. Whether it can clear Europe’s regulatory thicket and cover its costs is the harder question.",
+      "url": "https://www.tmtpost.com/8105342.html",
+      "publishedAt": "Mon, 17 Aug 2026 08:55:07 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国自动驾驶公司Pony.ai与Uber合作在欧洲扩展Robotaxi车队，属于中国科技公司海外业务扩张，直接相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Mexico bets on homegrown electric bus to curb China reliance",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mexico-bets-on-homegrown-electric-bus-to-curb-china-reliance",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及墨西哥发展本土电动巴士以减少对中国依赖，直接反映中国新能源企业在海外市场的竞争与替代风险，属中国企业海外业务所受影响及市场表现范畴。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Hong Kong firm bets on Chinese open-weight models to rival CoreWeave",
+      "summary": "The rise of Chinese open-weight models has shaken up the global artificial intelligence (AI) market in recent months. With China’s systems offering high performance at a lower cost, businesses around the world are looking at shifting away from Silicon Valley’s leading providers.\nNow, a new Hong Kong-based company aims to turn that trend into a billion-dollar business.\nThe “neo-cloud” provider Antimatter is helping firms switch from the dominant US models – and the cloud systems that serve them –...",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 01:00:13 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "香港公司利用中国开源模型与CoreWeave竞争，涉及中国AI技术在国际市场的商业化应用和扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China shock looms for robotics as physical AI race heats up: think tank",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国机器人产业在全球物理AI竞赛中的影响力，属于中国科技公司国际化动态及海外市场表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Bidets and bobbleheads: Toto taps MLB sponsorship to boost US sales",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/bidets-and-bobbleheads-toto-taps-mlb-sponsorship-to-boost-us-sales",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "日本品牌Toto通过赞助美国职棒大联盟提升在美国的销售，属于品牌进入海外市场并扩大市场表现的动态，但非中国企业，故相关度中等。"
+    }
+  ],
+  "en": [
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Pony.ai and Uber Set Their Sights on More Than 2,000 Robotaxis in Europe",
+      "summary": "A Chinese autonomous-driving company and a global ride-hailing platform have agreed to expand a quiet pilot in Zagreb into a multi-city fleet. The plan is ambitious on paper. Whether it can clear Europe’s regulatory thicket and cover its costs is the harder question.",
+      "url": "https://www.tmtpost.com/8105342.html",
+      "publishedAt": "Mon, 17 Aug 2026 08:55:07 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国自动驾驶公司Pony.ai与Uber合作在欧洲扩展Robotaxi车队，属于中国科技公司海外业务扩张，直接相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Mexico bets on homegrown electric bus to curb China reliance",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mexico-bets-on-homegrown-electric-bus-to-curb-china-reliance",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及墨西哥发展本土电动巴士以减少对中国依赖，直接反映中国新能源企业在海外市场的竞争与替代风险，属中国企业海外业务所受影响及市场表现范畴。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "A Hong Kong firm is betting on Chinese open-weight models to rival CoreWeave.",
+      "summary": "The rise of Chinese open-weight models has shaken up the global artificial intelligence (AI) market in recent months. With China’s systems offering high performance at a lower cost, businesses around the world are looking at shifting away from Silicon Valley’s leading providers.\nNow, a new Hong Kong-based company aims to turn that trend into a billion-dollar business.\nThe “neo-cloud” provider Antimatter is helping firms switch from the dominant US models – and the cloud systems that serve them –",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 01:00:13 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "香港公司利用中国开源模型与CoreWeave竞争，涉及中国AI技术在国际市场的商业化应用和扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China shock looms for robotics as physical AI race heats up: think tank",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国机器人产业在全球物理AI竞赛中的影响力，属于中国科技公司国际化动态及海外市场表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Bidets and bobbleheads: Toto taps MLB sponsorship to boost US sales",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/bidets-and-bobbleheads-toto-taps-mlb-sponsorship-to-boost-us-sales",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "日本品牌Toto通过赞助美国职棒大联盟提升在美国的销售，属于品牌进入海外市场并扩大市场表现的动态，但非中国企业，故相关度中等。"
+    }
+  ],
+  "ja": [
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "Pony.aiとUberは、欧州で2,000台以上のロボタクシーを目指す。",
+      "summary": "中国の自動運転企業と世界的なライドヘイリングプラットフォームが、ザグレブでの静かな試験運用を複数都市のフリートに拡大することで合意した。その計画は書面上では野心的だ。しかし、欧州の規制の茂みを乗り越え、コストを回収できるかどうかが、より難しい問題である。",
+      "url": "https://www.tmtpost.com/8105342.html",
+      "publishedAt": "Mon, 17 Aug 2026 08:55:07 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国自动驾驶公司Pony.ai与Uber合作在欧洲扩展Robotaxi车队，属于中国科技公司海外业务扩张，直接相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "メキシコ、中国依存を抑えるため国産電気バスに賭ける",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mexico-bets-on-homegrown-electric-bus-to-curb-china-reliance",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及墨西哥发展本土电动巴士以减少对中国依赖，直接反映中国新能源企业在海外市场的竞争与替代风险，属中国企业海外业务所受影响及市场表现范畴。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "香港企業が中国のオープンウェイトモデルに賭け、CoreWeaveに対抗",
+      "summary": "ここ数ヶ月、中国製オープンウェイトモデルの台頭が、世界の人工知能（AI）市場を揺るがしている。中国のシステムが低コストで高性能を提供する中、世界中の企業がシリコンバレーの主要プロバイダーからの乗り換えを検討している。\n今、香港に拠点を置く新興企業が、その流れを数十億ドル規模のビジネスに変えようとしている。\n「ネオクラウド」プロバイダーのAntimatterは、企業が米国製の支配的なモデル、およびそれらを支えるクラウドシステムからの移行を支援している。",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 01:00:13 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "香港公司利用中国开源模型与CoreWeave竞争，涉及中国AI技术在国际市场的商业化应用和扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "物理AI競争が激化する中、ロボティクスに中国ショックの影が迫る：シンクタンク",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国机器人产业在全球物理AI竞赛中的影响力，属于中国科技公司国际化动态及海外市场表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "ビデとボブルヘッド人形：TOTOがMLBスポンサーシップを活用し、米国での売上拡大を狙う",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/bidets-and-bobbleheads-toto-taps-mlb-sponsorship-to-boost-us-sales",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "日本品牌Toto通过赞助美国职棒大联盟提升在美国的销售，属于品牌进入海外市场并扩大市场表现的动态，但非中国企业，故相关度中等。"
+    }
+  ],
+  "ar": [
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "تضع Pony.ai وUber نصب أعينهما أكثر من 2,000 سيارة أجرة ذاتية القيادة في أوروبا",
+      "summary": "أبرمت شركة صينية للقيادة الذاتية ومنصة عالمية لخدمات النقل عبر التطبيقات اتفاقًا لتوسيع مشروع تجريبي هادئ في زغرب ليشمل أسطولًا في عدة مدن. الخطة طموحة على الورق. أما ما إذا كانت ستتمكن من اجتياز الغابة التنظيمية الأوروبية وتغطية تكاليفها، فهو السؤال الأصعب.",
+      "url": "https://www.tmtpost.com/8105342.html",
+      "publishedAt": "Mon, 17 Aug 2026 08:55:07 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "中国自动驾驶公司Pony.ai与Uber合作在欧洲扩展Robotaxi车队，属于中国科技公司海外业务扩张，直接相关。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "تستهدف المكسيك الاعتماد على حافلة كهربائية محلية الصنع للحد من الاعتماد على الصين",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mexico-bets-on-homegrown-electric-bus-to-curb-china-reliance",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻涉及墨西哥发展本土电动巴士以减少对中国依赖，直接反映中国新能源企业在海外市场的竞争与替代风险，属中国企业海外业务所受影响及市场表现范畴。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "شركة هونغ كونغية تراهن على نماذج صينية مفتوحة الوزن لمنافسة CoreWeave",
+      "summary": "أدى صعود النماذج الصينية مفتوحة الأوزان إلى زعزعة سوق الذكاء الاصطناعي العالمي في الأشهر الأخيرة. ومع تقدّم الأنظمة الصينية أداءً عاليًا بتكلفة أقل، تتطلع الشركات حول العالم إلى التحول بعيدًا عن كبار المزودين في وادي السيليكون.\nالآن، تسعى شركة جديدة مقرها هونغ كونغ إلى تحويل هذا الاتجاه إلى أعمال تدر مليارات الدولارات.\nتساعد شركة \"Antimatter\" المزودة لخدمات \"النيو-كلاود\" الشركات على الانتقال من النماذج الأمريكية المهيمنة – وأنظمة السحابة التي تقدمها –",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364190/hong-kong-firm-bets-chinese-open-weight-models-rival-coreweave?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 01:00:13 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "香港公司利用中国开源模型与CoreWeave竞争，涉及中国AI技术在国际市场的商业化应用和扩张。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "مع صخب سباق الذكاء الاصطناعي الفيزيائي، تلوح صدمة صينية في الأفق أمام قطاع الروبوتات: تقرير مركز أبحاث",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/china-tech/china-shock-looms-for-robotics-as-physical-ai-race-heats-up-think-tank",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国机器人产业在全球物理AI竞赛中的影响力，属于中国科技公司国际化动态及海外市场表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "البيديهات ودمى البوبلهيد: توتو تستفيد من رعاية دوري البيسبول الرئيسي لتعزيز مبيعاتها في الولايات المتحدة",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/companies/bidets-and-bobbleheads-toto-taps-mlb-sponsorship-to-boost-us-sales",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "日本品牌Toto通过赞助美国职棒大联盟提升在美国的销售，属于品牌进入海外市场并扩大市场表现的动态，但非中国企业，故相关度中等。"
+    }
+  ]
+}

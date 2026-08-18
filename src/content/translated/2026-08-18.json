@@ -1,0 +1,362 @@
+{
+  "zh": [
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "越像欧洲车，越难赢欧洲",
+      "summary": "中国车去欧洲，过去总先想一件事，怎么变得更“欧洲”。但现在更多车企开车尝试把中国已经跑通的产品直接搬过去，反而先做出了规模。",
+      "url": "https://www.tmtpost.com/8106299.html",
+      "publishedAt": "Tue, 18 Aug 2026 10:12:15 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻讨论中国车企在欧洲市场的产品策略调整和扩张表现，属于中国品牌进入海外市场及特定地区扩张主题。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "en",
+      "title": "Ban on Chinese robots leaves U.S. startups stranded",
+      "summary": "Washington’s limits on foreign parts promises a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.",
+      "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 17 Aug 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国对中国机器人的禁令，直接关系到中国机器人企业在海外市场的准入及美国初创企业依赖中国产品，属于中国企业在海外业务受监管政策影响。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's Geely boosts export target as founder warns of 'deglobalization'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-geely-boosts-export-target-as-founder-warns-of-deglobalization",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "吉利作为中国车企，提高出口目标，直接涉及中国企业在海外市场的业务扩张，符合主题1和5。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "How Hong Kong infrastructure, AI firms are tapping Malaysia’s growth prospects",
+      "summary": "Hong Kong infrastructure and artificial intelligence (AI) firms are well placed to capitalise on a surge of expansion opportunities in Malaysia, but unlocking this potential will require cultural sensitivity and adapting to local market dynamics, industry insiders have said.\nThe remarks follow the recent opening of Hong Kong’s new Economic and Trade Office in Kuala Lumpur to bolster bilateral ties, coinciding with Malaysia’s New Industrial Master Plan 2030, which aims to advance the country’s...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364301/how-hong-kong-infrastructure-ai-firms-are-tapping-malaysias-growth-prospects?utm_source=rss_feed",
+      "publishedAt": "Tue, 18 Aug 2026 00:30:07 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港基建和AI企业拓展马来西亚市场，属于中国企业在东南亚地区的商业扩张动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Ecuador’s Noboa courts China on shrimp, copper without threatening US ties",
+      "summary": "Ecuadorian President Daniel Noboa arrived in Beijing on Sunday for his first state visit to China, an eight-day trip during which he will seek to lift suspensions on 14 Ecuadorian shrimp processors and secure fresh investment in energy and mining.\nNoboa will hold talks with President Xi Jinping and meet separately with Premier Li Qiang and Zhao Leji, China’s top legislator, according to Beijing’s foreign ministry. The visit runs to August 23 before the Asian tour continues to Singapore and...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364346/ecuadors-noboa-courts-china-shrimp-copper-without-threatening-us-ties?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 20:57:41 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及厄瓜多尔总统访华寻求中国投资并恢复虾出口，属于中国企业在海外（厄瓜多尔）的投资与贸易合作动态，切合主题5和1。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Mitsubishi Motors plans EV for Australia, New Zealand, made by Foxconn unit",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mitsubishi-motors-plans-ev-for-australia-new-zealand-made-by-foxconn-unit",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及富士康（中国台湾企业）为三菱汽车代工生产电动车供应澳新市场，属于中国企业在海外制造业合作与产品出口的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "美国为什么造不出宇树？",
+      "summary": "一个倒在量产前，一个正在重新尝试。两位美国创业者发现，让机器人站起来和把它变成商品，根本不是一回事。美国缺的是，把机器人像普通商品一样公开标价、持续降价、批量交付，并且从中赚到钱。",
+      "url": "https://www.tmtpost.com/8106108.html",
+      "publishedAt": "Tue, 18 Aug 2026 09:54:56 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻以美国造不出宇树为对比，讨论中国机器人公司（宇树）在海外市场商品化、量产和降价能力，涉及中国科技品牌国际竞争表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Exclusive: Google plans to stop making Pixel products in China in 2027",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "谷歌计划将Pixel产品移出中国制造，涉及中国供应链和制造业务的海外调整，影响中国企业相关产业动态。"
+    }
+  ],
+  "en": [
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "The more it resembles a European car, the harder it is to win in Europe.",
+      "summary": "Chinese cars going to Europe used to first think about one thing: how to become more \"European.\" But now more automakers are trying to directly bring over products that have already proven successful in China, and that has actually built scale first.",
+      "url": "https://www.tmtpost.com/8106299.html",
+      "publishedAt": "Tue, 18 Aug 2026 10:12:15 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻讨论中国车企在欧洲市场的产品策略调整和扩张表现，属于中国品牌进入海外市场及特定地区扩张主题。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "en",
+      "title": "Ban on Chinese robots leaves U.S. startups stranded",
+      "summary": "Washington’s limits on foreign parts promise a supply chain revolution — but Silicon Valley founders say domestic alternatives don’t exist yet.",
+      "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 17 Aug 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国对中国机器人的禁令，直接关系到中国机器人企业在海外市场的准入及美国初创企业依赖中国产品，属于中国企业在海外业务受监管政策影响。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China's Geely boosts export target as founder warns of 'deglobalization'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-geely-boosts-export-target-as-founder-warns-of-deglobalization",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "吉利作为中国车企，提高出口目标，直接涉及中国企业在海外市场的业务扩张，符合主题1和5。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "How Hong Kong infrastructure and AI firms are tapping into Malaysia's growth prospects",
+      "summary": "Hong Kong infrastructure and artificial intelligence (AI) firms are well placed to capitalise on a surge of expansion opportunities in Malaysia, but unlocking this potential will require cultural sensitivity and adapting to local market dynamics, industry insiders have said.\nThe remarks follow the recent opening of Hong Kong’s new Economic and Trade Office in Kuala Lumpur to bolster bilateral ties, coinciding with Malaysia’s New Industrial Master Plan 2030, which aims to advance the country’s...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364301/how-hong-kong-infrastructure-ai-firms-are-tapping-malaysias-growth-prospects?utm_source=rss_feed",
+      "publishedAt": "Tue, 18 Aug 2026 00:30:07 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港基建和AI企业拓展马来西亚市场，属于中国企业在东南亚地区的商业扩张动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "Ecuador’s Noboa courts China on shrimp, copper without threatening US ties",
+      "summary": "Ecuadorian President Daniel Noboa arrived in Beijing on Sunday for his first state visit to China, an eight-day trip during which he will seek to lift suspensions on 14 Ecuadorian shrimp processors and secure fresh investment in energy and mining.\nNoboa will hold talks with President Xi Jinping and meet separately with Premier Li Qiang and Zhao Leji, China’s top legislator, according to Beijing’s foreign ministry. The visit runs to August 23 before the Asian tour continues to Singapore and...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364346/ecuadors-noboa-courts-china-shrimp-copper-without-threatening-us-ties?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 20:57:41 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及厄瓜多尔总统访华寻求中国投资并恢复虾出口，属于中国企业在海外（厄瓜多尔）的投资与贸易合作动态，切合主题5和1。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Mitsubishi Motors plans EV for Australia, New Zealand, made by Foxconn unit",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mitsubishi-motors-plans-ev-for-australia-new-zealand-made-by-foxconn-unit",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及富士康（中国台湾企业）为三菱汽车代工生产电动车供应澳新市场，属于中国企业在海外制造业合作与产品出口的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Why can't the United States build Unitree?",
+      "summary": "One fell before mass production, the other is making another attempt. Two American entrepreneurs discovered that making a robot stand up and turning it into a commercial product are simply not the same thing. What the U.S. lacks is the ability to publicly price robots like ordinary goods, continuously cut costs, deliver in volume, and actually make money from it.",
+      "url": "https://www.tmtpost.com/8106108.html",
+      "publishedAt": "Tue, 18 Aug 2026 09:54:56 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻以美国造不出宇树为对比，讨论中国机器人公司（宇树）在海外市场商品化、量产和降价能力，涉及中国科技品牌国际竞争表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "Exclusive: Google plans to stop making Pixel products in China in 2027",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "谷歌计划将Pixel产品移出中国制造，涉及中国供应链和制造业务的海外调整，影响中国企业相关产业动态。"
+    }
+  ],
+  "ja": [
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "欧州車に似れば似るほど、欧州で勝つのは難しくなる。",
+      "summary": "中国車がヨーロッパに行くとき、これまではまず「どうすればもっと“ヨーロピアン”になるか」を考えるのが通例だった。だが今は、より多くの自動車メーカーが、中国で既に成功した製品をそのまま持ち込む試みを先行させており、むしろ先に規模を築き上げている。",
+      "url": "https://www.tmtpost.com/8106299.html",
+      "publishedAt": "Tue, 18 Aug 2026 10:12:15 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻讨论中国车企在欧洲市场的产品策略调整和扩张表现，属于中国品牌进入海外市场及特定地区扩张主题。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "ja",
+      "title": "中国製ロボットの禁止令により、米国の新興企業が行き詰まる",
+      "summary": "ワシントンによる外国製部品の制限は、サプライチェーン革命を約束するものだ——しかし、シリコンバレーの創業者たちは、国内の代替品はまだ存在しないと語る。",
+      "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 17 Aug 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国对中国机器人的禁令，直接关系到中国机器人企业在海外市场的准入及美国初创企业依赖中国产品，属于中国企业在海外业务受监管政策影响。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国の吉利汽車が輸出目標を引き上げ、創業者は「脱グローバル化」に警告",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-geely-boosts-export-target-as-founder-warns-of-deglobalization",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "吉利作为中国车企，提高出口目标，直接涉及中国企业在海外市场的业务扩张，符合主题1和5。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "香港のインフラ、AI企業がマレーシアの成長見込みを活用する方法",
+      "summary": "香港のインフラおよび人工知能（AI）関連企業は、マレーシアにおける拡大機会の急増を活用できる好位置にいるが、その潜在力を引き出すには文化的感受性と現地市場のダイナミクスへの適応が必要だと、業界関係者は述べている。\nこの発言は、香港の新しい経済貿易事務所が最近クアラルンプールに開設され、二国間関係を強化したことに続くもので、マレーシアの新工業マスタープラン2030（同国の発展を推進することを目的とする）と時を同じくしている。",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364301/how-hong-kong-infrastructure-ai-firms-are-tapping-malaysias-growth-prospects?utm_source=rss_feed",
+      "publishedAt": "Tue, 18 Aug 2026 00:30:07 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港基建和AI企业拓展马来西亚市场，属于中国企业在东南亚地区的商业扩张动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "エクアドルのノボア大統領、エビと銅で中国に接近も米国関係は脅かさず",
+      "summary": "エクアドルのダニエル・ノボア大統領は日曜日、中国への初の国賓訪問として北京に到着した。今回の訪問は8日間で、その間にエクアドルのエビ加工業者14社に対する出荷停止措置の解除を求め、エネルギーと鉱業分野での新たな投資を確保したい考えだ。ノボア氏は習近平国家主席と会談を行い、李強首相および中国の最上位の立法機関である趙楽際氏とも別々に会合する予定である。北京の外交部によると、訪問は8月23日まで続き、その後アジア歴訪はシンガポールおよび…へと続く。",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364346/ecuadors-noboa-courts-china-shrimp-copper-without-threatening-us-ties?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 20:57:41 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及厄瓜多尔总统访华寻求中国投资并恢复虾出口，属于中国企业在海外（厄瓜多尔）的投资与贸易合作动态，切合主题5和1。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "三菱自動車、オーストラリア・ニュージーランド向けEVを計画、Foxconn子会社が製造",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mitsubishi-motors-plans-ev-for-australia-new-zealand-made-by-foxconn-unit",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及富士康（中国台湾企业）为三菱汽车代工生产电动车供应澳新市场，属于中国企业在海外制造业合作与产品出口的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "アメリカはなぜUnitreeを作れないのか？",
+      "summary": "量産直前に倒れた者、そして再挑戦中の者。2人のアメリカ人起業家が気づいたのは、ロボットを立たせることと、それを商品にすることは、まったく別の話だということだ。アメリカに欠けているのは、ロボットを普通の商品と同じように公開価格を提示し、継続的に値下げし、量産納品し、そのうえで利益を上げることだ。",
+      "url": "https://www.tmtpost.com/8106108.html",
+      "publishedAt": "Tue, 18 Aug 2026 09:54:56 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻以美国造不出宇树为对比，讨论中国机器人公司（宇树）在海外市场商品化、量产和降价能力，涉及中国科技品牌国际竞争表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "独占：Google、2027年にPixel製品の中国生産を停止へ",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "谷歌计划将Pixel产品移出中国制造，涉及中国供应链和制造业务的海外调整，影响中国企业相关产业动态。"
+    }
+  ],
+  "ar": [
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "كلما اقتربت من الطابع الأوروبي، زادت صعوبة الفوز في أوروبا",
+      "summary": "السيارات الصينية إلى أوروبا، في الماضي كان التفكير دائمًا يبدأ بسؤال واحد: كيف تصبح أكثر \"أوروبية\"؟ لكن الآن المزيد من شركات السيارات تحاول نقل المنتجات التي نجحت بالفعل في الصين مباشرة إلى هناك، وبدلاً من ذلك حققت حجمًا تجاريًا أولاً.",
+      "url": "https://www.tmtpost.com/8106299.html",
+      "publishedAt": "Tue, 18 Aug 2026 10:12:15 +0800",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻讨论中国车企在欧洲市场的产品策略调整和扩张表现，属于中国品牌进入海外市场及特定地区扩张主题。"
+    },
+    {
+      "source": "Rest of World",
+      "lang": "ar",
+      "title": "حظر الروبوتات الصينية يترك الشركات الناشئة الأمريكية في مأزق",
+      "summary": "قيود واشنطن على المكونات الأجنبية تعد بثورة في سلسلة التوريد — لكن مؤسسي وادي السيليكون يقولون إن البدائل المحلية غير موجودة بعد.",
+      "url": "https://restofworld.org/2026/china-robot-ban-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "publishedAt": "Mon, 17 Aug 2026 10:00:00 +0000",
+      "relevant": true,
+      "score": 8,
+      "reason": "该新闻涉及美国对中国机器人的禁令，直接关系到中国机器人企业在海外市场的准入及美国初创企业依赖中国产品，属于中国企业在海外业务受监管政策影响。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "رفعت مجموعة جيلي الصينية هدفها التصديري بينما يحذر مؤسسها من \"إزالة العولمة\"",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/china-s-geely-boosts-export-target-as-founder-warns-of-deglobalization",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "吉利作为中国车企，提高出口目标，直接涉及中国企业在海外市场的业务扩张，符合主题1和5。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "كيف تستفيد البنية التحتية وشركات الذكاء الاصطناعي في هونغ كونغ من آفاق النمو في ماليزيا",
+      "summary": "قال مسؤولون في قطاعي البنية التحتية والذكاء الاصطناعي في هونغ كونغ إن الشركات المحلية في هذين المجالين مهيأة للاستفادة من موجة الفرص التوسعية المتصاعدة في ماليزيا، لكن تحقيق هذا الإمكانات يتطلب حساسية ثقافية والتكيف مع ديناميكيات السوق المحلية. جاءت هذه التصريحات بعد الافتتاح الأخير للمكتب الاقتصادي والتجاري الجديد لهونغ كونغ في كوالالمبور لتعزيز العلاقات الثنائية، بالتزامن مع الخطة الرئيسية الصناعية الجديدة لماليزيا 2030، التي تهدف إلى دفع تقدم البلاد...",
+      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3364301/how-hong-kong-infrastructure-ai-firms-are-tapping-malaysias-growth-prospects?utm_source=rss_feed",
+      "publishedAt": "Tue, 18 Aug 2026 00:30:07 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及香港基建和AI企业拓展马来西亚市场，属于中国企业在东南亚地区的商业扩张动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "يسعى نوبوا الإكوادوري إلى التقرب من الصين في مجالي الجمبري والنحاس دون تهديد العلاقات مع الولايات المتحدة",
+      "summary": "وصل الرئيس الإكوادوري دانييل نوبوا إلى بكين يوم الأحد في أول زيارة دولة له إلى الصين، وهي رحلة تستمر ثمانية أيام سيسعى خلالها إلى رفع التعليق المفروض على 14 مصنعًا إكوادوريًا لتجهيز الجمبري، وتأمين استثمارات جديدة في قطاعي الطاقة والتعدين.\n\nوسيعقد نوبوا محادثات مع الرئيس شي جين بينغ، وسيلتقي بشكل منفصل مع رئيس الوزراء لي تشيانغ وتشاو له جي، كبير المشرعين في الصين، وفقًا لوزارة الخارجية الصينية. وتستمر الزيارة حتى 23 أغسطس/آب قبل أن تواصل الجولة الآسيوية إلى سنغافورة و...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364346/ecuadors-noboa-courts-china-shrimp-copper-without-threatening-us-ties?utm_source=rss_feed",
+      "publishedAt": "Mon, 17 Aug 2026 20:57:41 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及厄瓜多尔总统访华寻求中国投资并恢复虾出口，属于中国企业在海外（厄瓜多尔）的投资与贸易合作动态，切合主题5和1。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "تخطط ميتسوبيشي موتورز لسيارة كهربائية لأستراليا ونيوزيلندا، تُصنع بوحدة فوكسكون",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/mitsubishi-motors-plans-ev-for-australia-new-zealand-made-by-foxconn-unit",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及富士康（中国台湾企业）为三菱汽车代工生产电动车供应澳新市场，属于中国企业在海外制造业合作与产品出口的国际化动态。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "لماذا لا تستطيع أمريكا صناعة \"يوشو\"؟",
+      "summary": "أحدهما سقط قبل الإنتاج الضخم، والآخر يحاول من جديد. رائدَا أعمال أمريكيان اكتشفا أن جعل الروبوت يقف على قدميه وتحويله إلى منتج تجاري ليسا بنفس الأمر إطلاقًا. ما ينقص أمريكا هو تسعير الروبوتات علنًا كسلع عادية، وخفض أسعارها باستمرار، وتسليمها بكميات كبيرة، وتحقيق الربح من ذلك.",
+      "url": "https://www.tmtpost.com/8106108.html",
+      "publishedAt": "Tue, 18 Aug 2026 09:54:56 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "新闻以美国造不出宇树为对比，讨论中国机器人公司（宇树）在海外市场商品化、量产和降价能力，涉及中国科技品牌国际竞争表现。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "حصري: جوجل تخطط لوقف تصنيع منتجات Pixel في الصين عام 2027",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 6,
+      "reason": "谷歌计划将Pixel产品移出中国制造，涉及中国供应链和制造业务的海外调整，影响中国企业相关产业动态。"
+    }
+  ]
+}

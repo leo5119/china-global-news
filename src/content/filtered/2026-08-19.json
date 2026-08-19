@@ -1,0 +1,35 @@
+[
+  {
+    "source": "Rest of World",
+    "lang": "en",
+    "title": "Chinese carmakers now sell one EV abroad for every two at home",
+    "summary": "Dwindling sales at home are pushing the cars toward Brazil, Thailand, and the Gulf.",
+    "url": "https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "publishedAt": "Tue, 18 Aug 2026 10:00:00 +0000",
+    "relevant": true,
+    "score": 9,
+    "reason": "新闻聚焦中国车企海外扩张，且明确提到巴西、泰国和海湾地区，属于典型的企业国际化动态。"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "82% of Chinese firms eye overseas growth, with Hong Kong top service support pick - South China Morning Post",
+    "summary": "82% of Chinese firms eye overseas growth, with Hong Kong top service support pick  South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQWw1eGNPbndpU3IxYTZVOEFhdEx2NXZ3bFJVVURyX3F0S1Yzbk05V1FCRUpNLUdZZFRudWNqRG8wQVJ6SGN3TXByS3NnZWRlR1pMTHBmT3loQmI0aHdHb25iX3ZaaUF3bjdiRzFIREw2M2xPZmtub1M0a3l4MFV2d3VWY2poN0FOOC1ueHhNZWI4M1p4d0hVV1pCVDFFUDN2bzFfb29VQlVVZk9SMnJEbEJBSHRQTzdCYWRLSUgwanl2LW50ZUV3eFZYTGh3cmI0Mk9YQzVhNTZZVmPSAdsBQVVfeXFMTWl1VE5UMGZQWHRQdFlpWW41Q2lvWGpWUlp3amZtaWw4dkVCSWtkaDcwc0lOd3pQMWNWY1BCcjZGS1FxSHU0S0ctRjVxeEM5VmkzdFNXazNiSXYzX2VOWmt5S0NqRFl1TGFPVGc3OEJfdV8zOHMyTmZtSVlrNnRFdF92MnBZY1ZiNXpxZHRvWXBEWmdfUUpMNDBaRVlXSGVrMThIb3luNXl4aDg3N1NMRXNhaTJUakJndFhaaXVCbjl0Vk5ad0syTHowOGQ4N2NWTnhlSmFxZENjVlpN?oc=5",
+    "publishedAt": "Tue, 18 Aug 2026 12:53:51 GMT",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻直接报道中国公司海外扩张意向及首选香港服务支持，属于中国企业海外业务拓展主题。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Alibaba, ByteDance trim gaming and retail to invest in AI",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/alibaba-bytedance-trim-gaming-and-retail-to-invest-in-ai",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 7,
+    "reason": "新闻提及阿里巴巴和字节跳动调整业务以投资AI，涉及中国科技巨头的国际化战略调整，属于主题6。"
+  }
+]

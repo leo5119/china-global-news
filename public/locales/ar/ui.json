@@ -7,13 +7,13 @@
   "nav.back": "← 返回列表",
   "section.featured": "今日精选",
   "section.latest": "最新资讯",
-  "article.source": "المصدر",
-  "article.readmore": "اقرأ المزيد ←",
-  "article.featured_badge": "مميز",
-  "article.score_suffix": "نقطة",
-  "footer.tagline": "تحديث يومي تلقائي",
-  "footer.source_note": "البيانات من اشتراكات RSS العامة",
-  "status.loading": "جار التحميل",
-  "status.no_articles": "لا توجد أخبار",
-  "status.count": "{count} أخبار"
+  "article.source": "来源",
+  "article.readmore": "阅读原文 →",
+  "article.featured_badge": "精选",
+  "article.score_suffix": "分",
+  "footer.tagline": "每日自动更新",
+  "footer.source_note": "数据来源于公开 RSS 订阅",
+  "status.loading": "加载中",
+  "status.no_articles": "暂无资讯",
+  "status.count": "{count} 篇资讯"
 }

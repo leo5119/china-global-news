@@ -1,0 +1,406 @@
+{
+  "zh": [
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China automakers' EV rush culminates in 'Crazy Thursday'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/china-automakers-ev-rush-culminates-in-crazy-thursday",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国车企在电动汽车领域的集体发力，属于中国企业在海外市场（尤其可能涉及出口或国际竞争）的全球化扩张动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "US probes China's EVE Energy after LG Energy alleges patent infringement",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/us-probes-china-s-eve-energy-after-lg-energy-alleges-patent-infringement",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "涉及中国企业EVE Energy在海外被调查的专利纠纷，直接影响其海外业务，属于海外监管法律风险对中国企业的影响。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "深圳华强北，成了欧洲人的快乐老家？",
+      "summary": "一座科技版的“迪士尼”。",
+      "url": "https://www.tmtpost.com/8112422.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:09:21 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻聚焦欧洲人在深圳华强北购买科技产品，反映中国硬件市场对海外消费者的吸引力，属于中国科技产品出海消费相关的海外市场表现。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "TikTok, ByteDance agree to US$400 million settlement with US over children’s privacy suit",
+      "summary": "TikTok and its Chinese parent ByteDance have agreed to pay US$400 million to settle a US Justice Department lawsuit accusing the video-sharing app of violating children’s online privacy laws, resolving a major federal case as the platform’s American operations remain under intense political scrutiny.\nThe settlement, announced on Friday, resolves allegations brought by the Justice Department and the US Federal Trade Commission in 2024 that TikTok and ByteDance collected personal information from...",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 21:39:53 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "涉及中国科技公司字节跳动及其TikTok在海外面临监管诉讼并达成和解，属于海外监管政策对中国企业影响及TikTok国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+      "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI’s Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development costs.\nSan Francisco-based legal tech provider Harvey, whose high-profile backers also include Sequoia Capital and Andreessen Horowitz, said on Thursday that its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.\nThe company said...",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:10 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "美国AI公司采用中国月之暗面的Kimi K3开源模型，体现中国AI技术出海并被西方企业采用，属中国科技公司国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "China’s trade grip tightens in Europe as clock ticks towards October deadline",
+      "summary": "Midway through a three-month negotiating period with Beijing, new data shows the trade balances of 24 European Union member states are still moving in what Brussels considers to be the wrong direction.\nChina extended its trade surplus over all but three EU members in July compared to a year earlier, calculations based on new Chinese customs figures showed. In some instances, the monthly swing was dramatic.\nChina’s surplus with Sweden quadrupled, while for Malta it rose by 166.6 per cent. For...",
+      "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:06 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国对欧洲贸易顺差扩大，与欧盟贸易谈判及对中国企业出口影响相关，属于海外监管政策对中国企业及中国商品市场表现的影响范畴。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Xinhua News Features ARC Group: Advising China’s Mid-Market on Global Expansion - ARC Group",
+      "summary": "Xinhua News Features ARC Group: Advising China’s Mid-Market on Global Expansion  ARC Group",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTZkb25Wd0o0cUQ1Y054eEFjMDMycVdQclJwTWRtV29KUmJueENMaGF3SV9adUY4Y0dqNmNrSldELWxjeEtPdUVsbFR1dHBwX0N6cG1Vd193MndHNElvb00zek5Ya2lvanhDR2xnMWRpQ0JjN3BQZ3lpa2N4cWl0VjJwVmd0eUZlNEN5WDNTcUVtZUVMSEhwcWp5aEVqazNUcVE?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 15:58:54 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻内容涉及帮助中国企业进行全球扩张的咨询服务，属于中国企业海外拓展的国际化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Chinese company taking pilotless aircraft to international markets - China Daily",
+      "summary": "Chinese company taking pilotless aircraft to international markets  China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10OU5adUIxTVlONllsNXFITVUxV2dxWjIxM09zNUl5eEVicjNYV2xfRjZLY1VlWHpteDhqdnBmRFZ3cGFILVJVN3NLaUNpczBCOW80eHFHbGI2WWFaMzlnWml5U0dkY0U4aEtlN1Q2LU5WaUJjeVh4Wnd1TXdIZw?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 10:19:57 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "中国公司携无人驾驶飞机（pilotless aircraft）拓展国际市场，属于中国高科技产品出海及海外业务扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "zh",
+      "title": "阿里接力赛：淘天见顶，外卖降权，算力狂飙，AI赌未来",
+      "summary": "炼金卖铲挖矿，阿里青黄续接。",
+      "url": "https://www.tmtpost.com/8112056.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:04:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及阿里巴巴的国际化与AI战略，但主要聚焦国内业务调整，出海内容不突出。"
+    }
+  ],
+  "en": [
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "China automakers' EV rush culminates in 'Crazy Thursday'",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/china-automakers-ev-rush-culminates-in-crazy-thursday",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国车企在电动汽车领域的集体发力，属于中国企业在海外市场（尤其可能涉及出口或国际竞争）的全球化扩张动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "en",
+      "title": "US probes China's EVE Energy after LG Energy alleges patent infringement",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/us-probes-china-s-eve-energy-after-lg-energy-alleges-patent-infringement",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "涉及中国企业EVE Energy在海外被调查的专利纠纷，直接影响其海外业务，属于海外监管法律风险对中国企业的影响。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Shenzhen's Huaqiangbei has become a happy haven for Europeans?",
+      "summary": "A tech-themed \"Disneyland.\"",
+      "url": "https://www.tmtpost.com/8112422.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:09:21 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻聚焦欧洲人在深圳华强北购买科技产品，反映中国硬件市场对海外消费者的吸引力，属于中国科技产品出海消费相关的海外市场表现。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "TikTok, ByteDance agree to US$400 million settlement with US over children's privacy suit",
+      "summary": "TikTok and its Chinese parent ByteDance have agreed to pay US$400 million to settle a US Justice Department lawsuit accusing the video-sharing app of violating children’s online privacy laws, resolving a major federal case as the platform’s American operations remain under intense political scrutiny. The settlement, announced on Friday, resolves allegations brought by the Justice Department and the US Federal Trade Commission in 2024 that TikTok and ByteDance collected personal information from.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 21:39:53 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "涉及中国科技公司字节跳动及其TikTok在海外面临监管诉讼并达成和解，属于海外监管政策对中国企业影响及TikTok国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+      "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI's Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development costs.\n\nSan Francisco-based legal tech provider Harvey, whose high-profile backers also include Sequoia Capital and Andreessen Horowitz, said on Thursday that its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.\n\nThe company said",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:10 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "美国AI公司采用中国月之暗面的Kimi K3开源模型，体现中国AI技术出海并被西方企业采用，属中国科技公司国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "en",
+      "title": "China’s trade grip tightens in Europe as clock ticks towards October deadline",
+      "summary": "Midway through a three-month negotiating period with Beijing, new data shows the trade balances of 24 European Union member states are still moving in what Brussels considers to be the wrong direction. China extended its trade surplus over all but three EU members in July compared to a year earlier, calculations based on new Chinese customs figures showed. In some instances, the monthly swing was dramatic. China’s surplus with Sweden quadrupled, while for Malta it rose by 166.6 per cent. For...",
+      "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:06 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国对欧洲贸易顺差扩大，与欧盟贸易谈判及对中国企业出口影响相关，属于海外监管政策对中国企业及中国商品市场表现的影响范畴。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Xinhua News Features ARC Group: Advising China's Mid-Market on Global Expansion - ARC Group",
+      "summary": "Xinhua News Features ARC Group: Advising China’s Mid-Market on Global Expansion  ARC Group",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTZkb25Wd0o0cUQ1Y054eEFjMDMycVdQclJwTWRtV29KUmJueENMaGF3SV9adUY4Y0dqNmNrSldELWxjeEtPdUVsbFR1dHBwX0N6cG1Vd193MndHNElvb00zek5Ya2lvanhDR2xnMWRpQ0JjN3BQZ3lpa2N4cWl0VjJwVmd0eUZlNEN5WDNTcUVtZUVMSEhwcWp5aEVqazNUcVE?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 15:58:54 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻内容涉及帮助中国企业进行全球扩张的咨询服务，属于中国企业海外拓展的国际化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "en",
+      "title": "Chinese company taking pilotless aircraft to international markets - China Daily",
+      "summary": "Chinese company taking pilotless aircraft to international markets  China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10OU5adUIxTVlONllsNXFITVUxV2dxWjIxM09zNUl5eEVicjNYV2xfRjZLY1VlWHpteDhqdnBmRFZ3cGFILVJVN3NLaUNpczBCOW80eHFHbGI2WWFaMzlnWml5U0dkY0U4aEtlN1Q2LU5WaUJjeVh4Wnd1TXdIZw?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 10:19:57 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "中国公司携无人驾驶飞机（pilotless aircraft）拓展国际市场，属于中国高科技产品出海及海外业务扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "en",
+      "title": "Alibaba's relay race: Taotian peaks, food delivery downgraded, computing power surging, AI betting on the future.",
+      "summary": "Alchemy sells shovels for mining, Alibaba bridges the gap between old and new.",
+      "url": "https://www.tmtpost.com/8112056.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:04:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及阿里巴巴的国际化与AI战略，但主要聚焦国内业务调整，出海内容不突出。"
+    }
+  ],
+  "ja": [
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "中国自動車メーカーのEVラッシュが「クレイジー木曜日」で最高潮に達する",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/china-automakers-ev-rush-culminates-in-crazy-thursday",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国车企在电动汽车领域的集体发力，属于中国企业在海外市场（尤其可能涉及出口或国际竞争）的全球化扩张动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ja",
+      "title": "米国、LGエナジーによる特許侵害の申し立てを受け、中国のEVEエナジーを調査",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/us-probes-china-s-eve-energy-after-lg-energy-alleges-patent-infringement",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "涉及中国企业EVE Energy在海外被调查的专利纠纷，直接影响其海外业务，属于海外监管法律风险对中国企业的影响。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "深圳華強北は、ヨーロッパ人にとっての「楽園の故郷」になったのか？",
+      "summary": "テクノロジー版の「ディズニーランド」。",
+      "url": "https://www.tmtpost.com/8112422.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:09:21 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻聚焦欧洲人在深圳华强北购买科技产品，反映中国硬件市场对海外消费者的吸引力，属于中国科技产品出海消费相关的海外市场表现。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "TikTok、ByteDanceが米国での子供のプライバシー訴訟を巡り、米国と4億ドルの和解に合意",
+      "summary": "TikTokとその中国親会社バイトダンスは、米司法省が動画共有アプリによる子どものオンラインプライバシー法違反を告発した訴訟を解決するため、4億米ドルを支払うことで合意した。これにより、同プラットフォームの米国事業が依然として激しい政治監視下にある中、連邦政府の大規模な訴訟が解決されることになる。金曜日に発表されたこの和解は、2024年に司法省と米連邦取引委員会（FTC）が提起した、TikTokとバイトダンスが個人情報を収集したという申し立てを解決するものである。",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 21:39:53 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "涉及中国科技公司字节跳动及其TikTok在海外面临监管诉讼并达成和解，属于海外监管政策对中国企业影响及TikTok国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "OpenAI支援の法務テック企業が中国のKimi K3オープンウェイトモデルに転換",
+      "summary": "OpenAIが支援する米国のAI新興企業が、中国の研究所Moonshot AIのKimi K3を基に初の自社モデルを構築した。これは、開発コストの高騰を背景に、欧米のテクノロジー企業が中国のオープンウェイトシステムへとシフトする動きが強まっていることを浮き彫りにしている。サンフランシスコ拠点の法務テックプロバイダーであるHarveyは、著名な出資者にSequoia CapitalやAndreessen Horowitzも名を連ねるが、木曜日に新モデル「Harvey Tenet」がオープンウェイトのKimi K3ベースモデルの上にポストトレーニングされたと発表した。同社は—",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:10 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "美国AI公司采用中国月之暗面的Kimi K3开源模型，体现中国AI技术出海并被西方企业采用，属中国科技公司国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ja",
+      "title": "中国の貿易支配が欧州で強まる中、10月の期限が迫る",
+      "summary": "北京との3カ月の交渉期間の折り返しにあたる中、新たなデータによると、欧州連合（EU）加盟24カ国の貿易収支は依然として、ブリュッセルが誤った方向とみなす方向に動いている。中国の新しい税関統計に基づく計算によると、7月の中国の貿易黒字は、EU加盟国の中で3カ国を除くすべてに対して前年同期比で拡大した。一部の国では月次の変動が劇的だった。中国の対スウェーデン黒字は4倍に拡大し、対マルタ黒字は166.6％増加した。例えば…",
+      "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:06 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国对欧洲贸易顺差扩大，与欧盟贸易谈判及对中国企业出口影响相关，属于海外监管政策对中国企业及中国商品市场表现的影响范畴。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "新華社ニュース特集 ARC Group：中国の中堅市場企業へのグローバル展開アドバイザリー - ARC Group",
+      "summary": "新華社ニュース特集 ARCグループ：中国ミッドマーケットのグローバル展開を支援  ARCグループ",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTZkb25Wd0o0cUQ1Y054eEFjMDMycVdQclJwTWRtV29KUmJueENMaGF3SV9adUY4Y0dqNmNrSldELWxjeEtPdUVsbFR1dHBwX0N6cG1Vd193MndHNElvb00zek5Ya2lvanhDR2xnMWRpQ0JjN3BQZ3lpa2N4cWl0VjJwVmd0eUZlNEN5WDNTcUVtZUVMSEhwcWp5aEVqazNUcVE?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 15:58:54 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻内容涉及帮助中国企业进行全球扩张的咨询服务，属于中国企业海外拓展的国际化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ja",
+      "title": "中国企業が無人航空機を国際市場へ - チャイナデイリー",
+      "summary": "中国の企業、無操縦航空機を国際市場へ　China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10OU5adUIxTVlONllsNXFITVUxV2dxWjIxM09zNUl5eEVicjNYV2xfRjZLY1VlWHpteDhqdnBmRFZ3cGFILVJVN3NLaUNpczBCOW80eHFHbGI2WWFaMzlnWml5U0dkY0U4aEtlN1Q2LU5WaUJjeVh4Wnd1TXdIZw?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 10:19:57 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "中国公司携无人驾驶飞机（pilotless aircraft）拓展国际市场，属于中国高科技产品出海及海外业务扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ja",
+      "title": "阿里巴巴リレー競争：淘天は頭打ち、出前は権限低下、計算能力は急上昇、AIで未来に賭ける",
+      "summary": "錬金でスコップを売って掘り当て、阿里巴巴は青黄を繋ぎ続ける。",
+      "url": "https://www.tmtpost.com/8112056.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:04:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及阿里巴巴的国际化与AI战略，但主要聚焦国内业务调整，出海内容不突出。"
+    }
+  ],
+  "ar": [
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "يبلغ اندفاع صانعي السيارات الصينيين نحو السيارات الكهربائية ذروته في \"الخميس المجنون\"",
+      "summary": "",
+      "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/china-automakers-ev-rush-culminates-in-crazy-thursday",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "新闻聚焦中国车企在电动汽车领域的集体发力，属于中国企业在海外市场（尤其可能涉及出口或国际竞争）的全球化扩张动态。"
+    },
+    {
+      "source": "Nikkei Asia",
+      "lang": "ar",
+      "title": "تفتح الولايات المتحدة تحقيقًا مع شركة EVE Energy الصينية بعد ادعاءات من LG Energy بانتهاك براءات الاختراع",
+      "summary": "",
+      "url": "https://asia.nikkei.com/business/technology/us-probes-china-s-eve-energy-after-lg-energy-alleges-patent-infringement",
+      "publishedAt": "",
+      "relevant": true,
+      "score": 8,
+      "reason": "涉及中国企业EVE Energy在海外被调查的专利纠纷，直接影响其海外业务，属于海外监管法律风险对中国企业的影响。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "شنتشن هواكيانغبي، هل أصبحت موطن السعادة الأوروبيين؟",
+      "summary": "ديزني لاند بنسخة تكنولوجية.",
+      "url": "https://www.tmtpost.com/8112422.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:09:21 +0800",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻聚焦欧洲人在深圳华强北购买科技产品，反映中国硬件市场对海外消费者的吸引力，属于中国科技产品出海消费相关的海外市场表现。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "توصلت تيك توك وبايت دانس إلى تسوية بقيمة 400 مليون دولار أمريكي مع الولايات المتحدة بشأن دعوى قضائية تتعلق بخصوصية الأطفال",
+      "summary": "وافقت تطبيق \"تيك توك\" وشركته الأم الصينية \"بايت دانس\" على دفع 400 مليون دولار أمريكي لتسوية دعوى قضائية رفعتها وزارة العدل الأمريكية تتهم فيها تطبيق مشاركة الفيديو بانتهاك قوانين خصوصية الأطفال على الإنترنت، مما ينهي قضية فيدرالية كبرى بينما تواجه عمليات المنصة الأمريكية تدقيقاً سياسياً مكثفاً.  \nأُعلنت التسوية يوم الجمعة، وتنهي المزاعم التي قدمتها وزارة العدل ولجنة التجارة الفيدرالية الأمريكية في عام 2024 والتي تفيد بأن \"تيك توك\" و\"بايت دانس\" جمعتا معلومات شخصية من الأطفال.",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 21:39:53 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "涉及中国科技公司字节跳动及其TikTok在海外面临监管诉讼并达成和解，属于海外监管政策对中国企业影响及TikTok国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "شركة التكنولوجيا القانونية المدعومة من OpenAI تتحول إلى نموذج Kimi K3 مفتوح الأوزان الصيني",
+      "summary": "أطلقت شركة ناشئة أمريكية في مجال الذكاء الاصطناعي مدعومة من OpenAI أول نموذج لها داخليًا استنادًا إلى نموذج Kimi K3 من المختبر الصيني Moonshot AI، مما يسلط الضوء على تحول متزايد من قبل شركات التكنولوجيا الغربية نحو الأنظمة الصينية مفتوحة الأوزان وسط تصاعد تكاليف التطوير. وقالت شركة Harvey، المزود القانوني للتكنولوجيا ومقرها سان فرانسيسكو، والتي من بين مستثمريها البارزين أيضًا Sequoia Capital وAndreessen Horowitz، يوم الخميس إن نموذجها الجديد Harvey Tenet تم تدريبه لاحقًا على قاعدة Kimi K3 مفتوحة الأوزان. وأضافت الشركة",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:10 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "美国AI公司采用中国月之暗面的Kimi K3开源模型，体现中国AI技术出海并被西方企业采用，属中国科技公司国际化动态。"
+    },
+    {
+      "source": "SCMP Business",
+      "lang": "ar",
+      "title": "تزداد قبضة الصين التجارية في أوروبا مع اقتراب الموعد النهائي في أكتوبر",
+      "summary": "في منتصف فترة تفاوض تمتد لثلاثة أشهر مع بكين، تُظهر بيانات جديدة أن الموازين التجارية لـ24 دولة عضو في الاتحاد الأوروبي لا تزال تتحرك في الاتجاه الذي تعتبره بروكسل خاطئًا.\n\nأظهرت حسابات مبنية على أرقام الجمارك الصينية الجديدة أن الصين وسّعت فائضها التجاري مع جميع أعضاء الاتحاد الأوروبي باستثناء ثلاثة في يوليو مقارنة بالعام السابق. وفي بعض الحالات، كان التغير الشهري كبيرًا.\n\nتضاعف الفائض الصيني مع السويد أربع مرات، بينما ارتفع مع مالطا بنسبة 166.6 في المئة. وبالنسبة لـ...",
+      "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
+      "publishedAt": "Fri, 21 Aug 2026 14:00:06 +0000",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻涉及中国对欧洲贸易顺差扩大，与欧盟贸易谈判及对中国企业出口影响相关，属于海外监管政策对中国企业及中国商品市场表现的影响范畴。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "وكالة أنباء شينخوا - ميزات ARC Group: تقديم المشورة للشركات الصينية متوسطة الحجم حول التوسع العالمي - ARC Group",
+      "summary": "وكالة أنباء شينخوا ARC Group: تقديم المشورة للسوق المتوسطة في الصين بشأن التوسع العالمي ARC Group",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTZkb25Wd0o0cUQ1Y054eEFjMDMycVdQclJwTWRtV29KUmJueENMaGF3SV9adUY4Y0dqNmNrSldELWxjeEtPdUVsbFR1dHBwX0N6cG1Vd193MndHNElvb00zek5Ya2lvanhDR2xnMWRpQ0JjN3BQZ3lpa2N4cWl0VjJwVmd0eUZlNEN5WDNTcUVtZUVMSEhwcWp5aEVqazNUcVE?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 15:58:54 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "新闻内容涉及帮助中国企业进行全球扩张的咨询服务，属于中国企业海外拓展的国际化动态。"
+    },
+    {
+      "source": "Google News",
+      "lang": "ar",
+      "title": "شركة صينية تنقل الطائرات بدون طيار إلى الأسواق الدولية - تشاينا ديلي",
+      "summary": "شركة صينية تنقل الطائرات بدون طيار إلى الأسواق الدولية  China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10OU5adUIxTVlONllsNXFITVUxV2dxWjIxM09zNUl5eEVicjNYV2xfRjZLY1VlWHpteDhqdnBmRFZ3cGFILVJVN3NLaUNpczBCOW80eHFHbGI2WWFaMzlnWml5U0dkY0U4aEtlN1Q2LU5WaUJjeVh4Wnd1TXdIZw?oc=5",
+      "publishedAt": "Fri, 21 Aug 2026 10:19:57 GMT",
+      "relevant": true,
+      "score": 7,
+      "reason": "中国公司携无人驾驶飞机（pilotless aircraft）拓展国际市场，属于中国高科技产品出海及海外业务扩张。"
+    },
+    {
+      "source": "钛媒体",
+      "lang": "ar",
+      "title": "سباق التتابع في علي: تاوباو وتيماو بلغا القمة، خدمة التوصيل خُفّضت أولويتها، قوة الحوسبة تنطلق بجنون، والذكاء الاصطناعي يراهن على المستقبل",
+      "summary": "بيع المعاول في التنقيب عن الذهب، عليّ تواصل بين الأجيال.",
+      "url": "https://www.tmtpost.com/8112056.html",
+      "publishedAt": "Sat, 22 Aug 2026 10:04:51 +0800",
+      "relevant": true,
+      "score": 6,
+      "reason": "涉及阿里巴巴的国际化与AI战略，但主要聚焦国内业务调整，出海内容不突出。"
+    }
+  ]
+}

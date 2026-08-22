@@ -1,0 +1,474 @@
+[
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "从数参数到算算力：唐杰谈 Scaling Law 的新标尺",
+    "summary": "参数量只是知识的仓库，真正决定智能的是FLOPs。",
+    "url": "https://www.tmtpost.com/8112064.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:11:36 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "WRC2026深度观察：机器人行业，正在去表演化、去差异化",
+    "summary": "看似火热的WRC展会之下，人形机器人的创新红利正在悄悄消退。",
+    "url": "https://www.tmtpost.com/8112444.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:11:05 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "破防了，WRC上的机器人，比我还会过日子",
+    "summary": "中国机器人，跟中国人一样实在。",
+    "url": "https://www.tmtpost.com/8112486.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:11:01 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "AI算力紧缺时代，大学生买不起电脑了",
+    "summary": "硬件涨价将成为行业“新常态”。",
+    "url": "https://www.tmtpost.com/8112433.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:10:40 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "砸 12 亿的《诡秘之主》终于公测了，2026 年，为什么还有人敢做 MMO？",
+    "summary": "逆水寒2.0？",
+    "url": "https://www.tmtpost.com/8112404.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:09:50 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "深圳华强北，成了欧洲人的快乐老家？",
+    "summary": "一座科技版的“迪士尼”。",
+    "url": "https://www.tmtpost.com/8112422.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:09:21 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "阿里接力赛：淘天见顶，外卖降权，算力狂飙，AI赌未来",
+    "summary": "炼金卖铲挖矿，阿里青黄续接。",
+    "url": "https://www.tmtpost.com/8112056.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:04:51 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "与AI同游，从2026 ChinaJoy看AI游戏新趋势",
+    "summary": "创作门槛下降推动内容筛选机制升级，研发智能体推动工程流程质量控制优化，AI角色对规则体系和治理能力提出更高要求。",
+    "url": "https://www.tmtpost.com/8112375.html",
+    "publishedAt": "Sat, 22 Aug 2026 10:04:44 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "豆包开始收酒店渠道费，老板们为什么不骂反喜？",
+    "summary": "怎么被AI看见，成酒店运营新KPI。",
+    "url": "https://www.tmtpost.com/8112036.html",
+    "publishedAt": "Sat, 22 Aug 2026 09:59:12 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "中小工厂加速抱团取暖，不是解药，而是自救",
+    "summary": "6348 万中小制造企业陷入内卷，抱团取暖成为风潮，但抱团并不是制造业破局的终极答案。",
+    "url": "https://www.tmtpost.com/8112341.html",
+    "publishedAt": "Sat, 22 Aug 2026 09:51:39 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "我在小城开小店，客人打着\"飞的\"来排队",
+    "summary": "年轻人的“反打卡”行动。",
+    "url": "https://www.tmtpost.com/8112166.html",
+    "publishedAt": "Sat, 22 Aug 2026 09:48:43 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "半年实现千亿营收，金龙鱼还有什么烦恼？",
+    "summary": "金龙鱼的第二曲线。",
+    "url": "https://www.tmtpost.com/8112212.html",
+    "publishedAt": "Sat, 22 Aug 2026 09:48:38 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "一年狂卖1600亿，74岁打工皇帝，帮李嘉诚高位清仓",
+    "summary": "74岁霍建宁，给李嘉诚攒下巨额现金。",
+    "url": "https://www.tmtpost.com/8112259.html",
+    "publishedAt": "Sat, 22 Aug 2026 09:42:45 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "国产存储开始补齐最后一块缺口",
+    "summary": "国产HDD卷土重来。",
+    "url": "https://www.tmtpost.com/8112231.html",
+    "publishedAt": "Sat, 22 Aug 2026 09:42:32 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "“撞名”长鑫董事长股价暴涨，一鸣食品二度缴纳“谐音税”",
+    "summary": "因名字读音谐音，主营乳品、烘焙产品的温州企业——一鸣食品，先后被市场当作“豆包概念股”“长鑫概念股”热炒。",
+    "url": "https://www.tmtpost.com/8112367.html",
+    "publishedAt": "Sat, 22 Aug 2026 09:42:27 +0800"
+  },
+  {
+    "source": "Rest of World",
+    "lang": "en",
+    "title": "A dumpling shop becomes a poster child of AI adoption in China",
+    "summary": "Business owner quotes Deng Xiaoping as motivator: “Science and technology are a primary productive force.”",
+    "url": "https://restofworld.org/2026/china-ai-adoption-jinguyuan/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "publishedAt": "Fri, 21 Aug 2026 13:00:00 +0000"
+  },
+  {
+    "source": "Rest of World",
+    "lang": "en",
+    "title": "“It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone”",
+    "summary": "Observers scrutinize Meta founder’s argument about AI’s potential as an equalizer and enabler.",
+    "url": "https://restofworld.org/2026/mark-zuckerberg-meta-ai-for-everyone-manifesto-global-critique/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "publishedAt": "Thu, 20 Aug 2026 10:00:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Why Chinese foreign minister’s trip to South Korea ‘dealt a low blow’ to Seoul",
+    "summary": "China’s top diplomat, Wang Yi, concluded his visit to South Korea on Friday, but declined to back Seoul’s push for multiparty peace talks involving the North.\nHis two‑day trip, which followed President Xi Jinping’s first visit to Pyongyang in seven years in June, coincided with US President Donald Trump’s decision to scale back joint military exercises with South Korea and call for further talks with the North.\nNorth Korea, however, responded with more than 10 short-range ballistic missile...",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364877/why-chinese-foreign-ministers-trip-south-korea-dealt-low-blow-seoul?utm_source=rss_feed",
+    "publishedAt": "Sat, 22 Aug 2026 02:00:09 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Russian drone strikes on Ukraine shopping centre kill 16, injure 130",
+    "summary": "At least ⁠16 people were killed ⁠and more than 130 wounded on Friday when several Russian drones struck a shopping centre in central Ukraine, authorities said, with President Volodymyr Zelensky promising a response to what he called an “act of barbarism”.\nRegional governor ‌Oleksandr Hanzha said that 22 children were among the wounded in the daytime attack on the city of Kryvyi Rih, which is Zelensky’s hometown.\n“There are 29 people in serious condition, including five children,” Hanzha said. He...",
+    "url": "https://www.scmp.com/news/world/russia-central-asia/article/3364896/russian-drone-strikes-ukraine-shopping-centre-kill-16-injure-130?utm_source=rss_feed",
+    "publishedAt": "Sat, 22 Aug 2026 01:03:56 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Young Chinese women dye armpit hair as fashion statement and expression of bodily autonomy",
+    "summary": "Some young women in China are dyeing their armpit hair, transforming a once-stigmatised trait into both a fashion statement and an assertion of bodily autonomy.\nThe trend is not without precedent. Lady Gaga made headlines with green underarm hair in 2011, while brightly dyed armpit hair and “glitter pits” – underarms embellished with glitter – have since surfaced on social media worldwide.\nIn recent years, Chinese social media has played a pivotal role in popularising the trend among younger...",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3364883/young-chinese-women-dye-armpit-hair-fashion-statement-and-expression-bodily-autonomy?utm_source=rss_feed",
+    "publishedAt": "Sat, 22 Aug 2026 01:00:20 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Hong Kong physiotherapists face job crunch amid oversupply and budget cuts",
+    "summary": "Hong Kong physiotherapy graduates are facing a job crunch amid ongoing healthcare budget cuts and a surge in new practitioners entering the industry, with one representative saying 60 applicants had competed for one position in a remote care facility for elderly residents.\nData also showed that the proportion of applicants admitted to Polytechnic University’s (PolyU) prestigious physiotherapy programme who ranked it among their top three choices – known as “Band A” – fell by around 9 percentage...",
+    "url": "https://www.scmp.com/news/hong-kong/education/article/3364880/hong-kong-physiotherapists-face-job-crunch-amid-oversupply-and-budget-cuts?utm_source=rss_feed",
+    "publishedAt": "Sat, 22 Aug 2026 01:00:17 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Why Hong Kong’s SK Hynix fund stayed at full leverage amid market volatility",
+    "summary": "South Korean investor Carol Kim thought Hong Kong-based CSOP Asset Management’s new flexible leverage structure would cushion losses in its SK Hynix leveraged product, only to take a 77.2 per cent hit after the fund maintained its maximum exposure every day following the revised rules.\n“I expected the flexible leverage structure to soften the blow, but it actually felt like it was dropping even harder than the product in South Korea,” the 32-year-old Seoul-based retail investor said.\nThe CSOP SK...",
+    "url": "https://www.scmp.com/business/banking-finance/article/3364860/why-hong-kongs-sk-hynix-fund-stayed-full-leverage-amid-market-volatility?utm_source=rss_feed",
+    "publishedAt": "Sat, 22 Aug 2026 01:00:14 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Malaysia’s Anwar traded reform for power. Now Umno wants it all",
+    "summary": "The roar from thousands of People’s Justice Party (PKR) delegates gathered at a grand convention centre in Melaka last weekend exuded all the confidence expected of a party leading Malaysia’s government.\nThe past three years have been the culmination of more than two decades of struggle for PKR, with it finally achieving its long-held goal of installing leader Anwar Ibrahim as prime minister and wielding the power to push through reforms.\nYet beneath the confident facade lurks a ruling party now...",
+    "url": "https://www.scmp.com/week-asia/politics/article/3364857/malaysias-anwar-traded-reform-power-now-umno-wants-it-all?utm_source=rss_feed",
+    "publishedAt": "Sat, 22 Aug 2026 00:00:19 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "As natural disasters rage, does China’s ‘top-down’ climate model provide a way forward?",
+    "summary": "A punishing drought is draining Europe’s great rivers, pushing the Loire, the Danube and the Rhine towards record lows.\nAt the Kaub gauging station, the reference point for shipping on the Rhine – Germany’s economic artery – the water level fell to 17cm (6.7 inches) this month, a low unseen since measurements began in 1880.\nMeanwhile, wildfires are burning across southern Europe, forcing the evacuation of hundreds of thousands and producing the defining image of a European summer in which...",
+    "url": "https://www.scmp.com/economy/global-economy/article/3364849/natural-disasters-rage-does-chinas-top-down-climate-model-provide-way-forward?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 22:00:08 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "TikTok, ByteDance agree to US$400 million settlement with US over children’s privacy suit",
+    "summary": "TikTok and its Chinese parent ByteDance have agreed to pay US$400 million to settle a US Justice Department lawsuit accusing the video-sharing app of violating children’s online privacy laws, resolving a major federal case as the platform’s American operations remain under intense political scrutiny.\nThe settlement, announced on Friday, resolves allegations brought by the Justice Department and the US Federal Trade Commission in 2024 that TikTok and ByteDance collected personal information from...",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364895/tiktok-bytedance-agree-us400-million-settlement-us-over-childrens-privacy-suit?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 21:39:53 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "The US is telling its trading partners – do as I say, not as I do",
+    "summary": "It is not the most enticing reading material: “Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States.” But this 59-page report, issued last month by the US Treasury Department, reveals much about contemporary America.\nRemember the joint intervention by Japan and the United States in the international currency market to prop up the yen at the end of July? By now, everyone knows it didn’t work, a waste of monetary resources for both countries while earning a...",
+    "url": "https://www.scmp.com/opinion/world-opinion/article/3364765/us-telling-its-trading-partners-do-i-say-not-i-do?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 21:30:05 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "US Supreme Court lets Trump continue work on White House ballroom for now",
+    "summary": "The US Supreme Court on Friday allowed President Donald Trump’s administration to continue construction of his White House ballroom project for now, temporarily pausing a judicial order that would halt much of the development.\nThe court’s action, known as an administrative stay, gives the justices additional time to consider the administration’s formal request to let it continue working on the US$400 million ballroom while a lawsuit by a historic preservation ‌group seeking to stop the project...",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3364894/us-supreme-court-lets-trump-continue-work-white-house-ballroom-now?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 19:15:46 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Iran president says time to end war while Tehran is in position of strength",
+    "summary": "Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington.\nTalks between the long-time foes remain on hold, and the war started by the US and Israel in February has been locked in a stalemate.\nTehran is keeping the key Strait of Hormuz partially shut, and Washington is persisting with a naval counter-blockade of Iran.\n“It is better that we bring the war to an end now as we...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3364893/iran-president-says-time-end-war-while-tehran-position-strength?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 18:29:22 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Turkey issues ‘genocide’ warrant for Israel’s Netanyahu over Gaza flotilla",
+    "summary": "Turkey has sought an international arrest warrant for Israel’s Prime Minister Benjamin Netanyahu, accusing him of “genocide” linked to Israel’s interception of a Gaza-bound aid flotilla, the justice minister announced Friday.\nTurkey has become a virulent critic of Israel’s war in Gaza. President Recep Tayyip Erdogan has frequently accused Netanyahu of “genocide”.\nIsrael’s interception of the flotilla carrying some 430 activists in May sparked an international outcry. France, Italy and Australia...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3364892/turkey-issues-genocide-warrant-israels-netanyahu-over-gaza-flotilla?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 17:58:27 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "China and US push Southeast Asia over their AI blocs. Will it test region’s non-alignment?",
+    "summary": "Southeast Asian leaders have long insisted they will not be forced to pick sides in the great-power rivalry between the US and China. But their posture is about to be further tested.\nThis time, the battleground is AI. While Washington wants the region locked into Pax Silica – its bid to build a China-free artificial intelligence supply chain – Beijing wants its neighbours to join China’s own World Artificial Intelligence Cooperation Organisation (Waico).\nSources told the South China Morning Post...",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3364853/china-and-us-push-southeast-asia-over-their-ai-blocs-will-it-test-regions-non-alignment?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 15:00:05 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "1 killed, 3 injured when man with sword attacks Swedish school",
+    "summary": "An 18-year-old man armed with a sword attacked students at a Swedish high school on Friday, killing one person and injuring three, and police shot and detained him as media reported the attacker was a former student at the school.\nThe incident occurred on Friday afternoon at the Brinell high school in the central Swedish town of Fagersta, which has about 13,000 residents. The ‌school had just reopened after summer recess, and for some students, it was their first day.\nPolice told a press...",
+    "url": "https://www.scmp.com/news/world/europe/article/3364889/man-armed-sword-injures-several-swedish-high-school?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 14:49:33 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Ex-care home worker accused of raping intellectually disabled woman 5 times",
+    "summary": "A former assistant warden at a residential home for the intellectually disabled in Hong Kong has been accused of raping a resident multiple times two years ago.\nChung Pui-kei has been charged with five counts of rape of a mentally incapacitated woman who lived at a home in Tai Po linked to the Hong Chi Association, an NGO, between July and August 2024.\nProsecutor Human Lam Hiu-man outlined the five alleged incidents at the High Court on Friday and called a psychiatrist and a clinical...",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364886/ex-care-home-worker-accused-raping-intellectually-disabled-woman-5-times?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 14:45:36 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Tesla forced to recall record 3 million cars in China over door-handle issue",
+    "summary": "Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars.\nThe massive recall comes as Chinese regulators move to ban retractable car door handles over safety fears, after a fatal incident last year in which a driver was left trapped inside a burning vehicle as passers-by were unable to open the car doors.\nWhile Tesla is not the only company affected by the move, the US...",
+    "url": "https://www.scmp.com/business/china-evs/article/3364887/tesla-forced-recall-record-3-million-cars-china-over-door-handle-issue?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 14:38:14 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+    "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI’s Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development costs.\nSan Francisco-based legal tech provider Harvey, whose high-profile backers also include Sequoia Capital and Andreessen Horowitz, said on Thursday that its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base.\nThe company said...",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 14:00:10 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "China’s trade grip tightens in Europe as clock ticks towards October deadline",
+    "summary": "Midway through a three-month negotiating period with Beijing, new data shows the trade balances of 24 European Union member states are still moving in what Brussels considers to be the wrong direction.\nChina extended its trade surplus over all but three EU members in July compared to a year earlier, calculations based on new Chinese customs figures showed. In some instances, the monthly swing was dramatic.\nChina’s surplus with Sweden quadrupled, while for Malta it rose by 166.6 per cent. For...",
+    "url": "https://www.scmp.com/economy/china-economy/article/3364791/chinas-trade-grip-tightens-europe-clock-ticks-towards-october-deadline?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 14:00:06 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Prince Harry and others ordered to pay initial US$13 million in failed lawsuit",
+    "summary": "Prince Harry, Elton John ⁠and other high-profile claimants face paying ⁠millions of dollars out of their own pockets to cover the legal costs of the Daily Mail’s publisher after a judge ruled their failed privacy lawsuits were conducted in an unreasonable way.\nJudge Matthew Nicklin’s judgment on costs, ‌which was published on Friday, also ordered an interim payment from the claimants of £9.54 million (US$13 million), due by August 28, towards the legal costs of Associated Newspapers.\nLast month,...",
+    "url": "https://www.scmp.com/news/world/europe/article/3364881/prince-harry-and-others-ordered-pay-initial-us13-million-failed-lawsuit?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 13:39:25 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "China’s telecoms giants bet on ‘token factories’ as AI drives revenue growth",
+    "summary": "China’s three state-owned telecoms giants have made billable artificial intelligence tokens a key focus of their growth strategies, as AI adoption accelerates across the country and computing demand soars.\nChina Mobile, China Telecom and China Unicom all pointed to AI and computing operations as key growth drivers in their first-half financial disclosures released this month, presenting usage of tokens – the fundamental unit of data processed by AI models – as a central metric alongside others...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3364873/chinas-telecoms-giants-bet-token-factories-ai-drives-revenue-growth?utm_source=rss_feed",
+    "publishedAt": "Fri, 21 Aug 2026 13:30:10 +0000"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Xinhua News Features ARC Group: Advising China’s Mid-Market on Global Expansion - ARC Group",
+    "summary": "Xinhua News Features ARC Group: Advising China’s Mid-Market on Global Expansion  ARC Group",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVTZkb25Wd0o0cUQ1Y054eEFjMDMycVdQclJwTWRtV29KUmJueENMaGF3SV9adUY4Y0dqNmNrSldELWxjeEtPdUVsbFR1dHBwX0N6cG1Vd193MndHNElvb00zek5Ya2lvanhDR2xnMWRpQ0JjN3BQZ3lpa2N4cWl0VjJwVmd0eUZlNEN5WDNTcUVtZUVMSEhwcWp5aEVqazNUcVE?oc=5",
+    "publishedAt": "Fri, 21 Aug 2026 15:58:54 GMT"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Chinese company taking pilotless aircraft to international markets - China Daily",
+    "summary": "Chinese company taking pilotless aircraft to international markets  China Daily",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10OU5adUIxTVlONllsNXFITVUxV2dxWjIxM09zNUl5eEVicjNYV2xfRjZLY1VlWHpteDhqdnBmRFZ3cGFILVJVN3NLaUNpczBCOW80eHFHbGI2WWFaMzlnWml5U0dkY0U4aEtlN1Q2LU5WaUJjeVh4Wnd1TXdIZw?oc=5",
+    "publishedAt": "Fri, 21 Aug 2026 10:19:57 GMT"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan's Kubota to boost exports from India, seeks price edge in Europe, US",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/agriculture/japan-s-kubota-to-boost-exports-from-india-seeks-price-edge-in-europe-us",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Who bears environmental cost of push for rare earths beyond China?",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/environment/who-bears-environmental-cost-of-push-for-rare-earths-beyond-china",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Jakarta puts its own spin on Japan's listening bars",
+    "summary": "",
+    "url": "https://asia.nikkei.com/life-arts/life/jakarta-puts-its-own-spin-on-japan-s-listening-bars",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "China automakers' EV rush culminates in 'Crazy Thursday'",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/electric-cars-in-china/china-automakers-ev-rush-culminates-in-crazy-thursday",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "World-first virus therapy for esophageal cancer debuts in Japan",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/pharmaceuticals/world-first-virus-therapy-for-esophageal-cancer-debuts-in-japan",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan's Tokuyama to make key chip material in Vietnam, Malaysia",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-tokuyama-to-make-key-chip-material-in-vietnam-malaysia",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Singapore breeds mosquito 'studs' by the millions for war on dengue",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/big-in-asia/singapore-breeds-mosquito-studs-by-the-millions-for-war-on-dengue",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan to crack down on deceptive 'dark pattern' websites",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/technology/japan-to-crack-down-on-deceptive-dark-pattern-websites",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan faces $63bn fiscal shortfall for food tax cut, defense buildup",
+    "summary": "",
+    "url": "https://asia.nikkei.com/politics/japan-faces-63bn-fiscal-shortfall-for-food-tax-cut-defense-buildup",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan's busy PM had just one Saturday for personal errands: dentist visit",
+    "summary": "",
+    "url": "https://asia.nikkei.com/politics/japan-s-busy-pm-had-just-one-saturday-for-personal-errands-dentist-visit",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan muted on Putin's disputed-islands visit as US intentions remain murky",
+    "summary": "",
+    "url": "https://asia.nikkei.com/politics/international-relations/japan-muted-on-putin-s-disputed-islands-visit-as-us-intentions-remain-murky",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "YMTC parent seeks $4.9bn Shanghai IPO on AI memory boom",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/markets/ipo/ymtc-parent-seeks-4.9bn-shanghai-ipo-on-ai-memory-boom",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan greenlights new trading platform for unlisted shares",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/markets/equities/japan-greenlights-new-trading-platform-for-unlisted-shares",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Samsung's record $79bn shareholder return reflects AI boom pressure",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/samsung-s-record-79bn-shareholder-return-reflects-ai-boom-pressure",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "US probes China's EVE Energy after LG Energy alleges patent infringement",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/technology/us-probes-china-s-eve-energy-after-lg-energy-alleges-patent-infringement",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan to invest additional $940m in homegrown chipmaker Rapidus",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/tech/semiconductors/japan-to-invest-additional-940m-in-homegrown-chipmaker-rapidus",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Indonesia seeks expanded joint military exercises with China",
+    "summary": "",
+    "url": "https://asia.nikkei.com/politics/defense/indonesia-seeks-expanded-joint-military-exercises-with-china",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Hong Kong Tiananmen vigil organizers convicted of inciting subversion",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-tiananmen-vigil-organizers-convicted-of-inciting-subversion",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "China rejects Rubio's accusation it wrongfully detained US academic",
+    "summary": "",
+    "url": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-rejects-rubio-s-accusation-it-wrongfully-detained-us-academic",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Nissan bets on faster car development and fresh lineup for sales turnaround",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/automobiles/nissan-bets-on-faster-car-development-and-fresh-lineup-for-sales-turnaround",
+    "publishedAt": ""
+  }
+]

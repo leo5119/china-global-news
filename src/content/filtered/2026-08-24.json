@@ -1,0 +1,35 @@
+[
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Shein launches IPO at valuation of up to $27bn, far below past figure",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/markets/ipo/shein-launches-ipo-at-valuation-of-up-to-27bn-far-below-past-figure",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 9,
+    "reason": "Shein作为中国跨境电商平台，其IPO估值披露直接反映其海外市场表现及国际化动态，属于主题3和7高度相关。"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "年产500万辆，“三蹦子”蹦出海外，背后是一个县城在操盘",
+    "summary": "从田间地头到全球市场：“三蹦子”的出海密码。",
+    "url": "https://www.tmtpost.com/8113874.html",
+    "publishedAt": "Mon, 24 Aug 2026 09:53:40 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻聚焦中国三轮车（“三蹦子”）年产量500万辆并出口海外，由县城企业操盘，属于中国制造业产品进入海外市场的典型出海案例。"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Alibaba shares plunge after $10bn new share placement to fund AI spending",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/technology/alibaba-shares-plunge-after-10bn-new-share-placement-to-fund-ai-spending",
+    "publishedAt": "",
+    "relevant": true,
+    "score": 8,
+    "reason": "新闻涉及阿里巴巴（中国科技巨头）通过配股融资投入AI，属其国际化及技术布局相关动态，但未明确直接指向海外市场。"
+  }
+]

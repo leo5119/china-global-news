@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time",
+    "summary": "The company has begun rolling out ByteDance’s Doubao model inside its China vehicle software, a rare departure from its preference for in-house systems. The move addresses cabin experience and local requirements while core driving technology remains under Tesla’s own control.",
+    "url": "https://www.tmtpost.com/8115448.html",
+    "publishedAt": "Tue, 25 Aug 2026 07:24:03 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻涉及字节跳动（中国企业）的AI模型进入特斯拉中国车辆，体现中国科技产品在海外品牌本土化中的国际化合作，虽非直接出海但属于中国技术对外输出。"
+  },
+  "en": {
+    "source": "钛媒体",
+    "lang": "en",
+    "title": "Tesla Adds a Chinese Large Model to Its China Cars for the First Time",
+    "summary": "The company has begun rolling out ByteDance’s Doubao model inside its China vehicle software, a rare departure from its preference for in-house systems. The move addresses cabin experience and local requirements while core driving technology remains under Tesla’s own control.",
+    "url": "https://www.tmtpost.com/8115448.html",
+    "publishedAt": "Tue, 25 Aug 2026 07:24:03 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻涉及字节跳动（中国企业）的AI模型进入特斯拉中国车辆，体现中国科技产品在海外品牌本土化中的国际化合作，虽非直接出海但属于中国技术对外输出。"
+  },
+  "ja": {
+    "source": "钛媒体",
+    "lang": "ja",
+    "title": "テスラ、中国市場向け車両に初めて中国製大規模モデルを搭載",
+    "summary": "同社は、中国向け車両ソフトウェアにおいて、ByteDance（バイトダンス）のDoubao（豆包）モデルの搭載を開始した。これは、自社開発システムを優先する同社の方針からの異例の転換となる。この動きは、キャビン（車内）体験と現地の要件に対応するものであり、中核となる運転技術は引き続きTesla（テスラ）が自社で管理している。",
+    "url": "https://www.tmtpost.com/8115448.html",
+    "publishedAt": "Tue, 25 Aug 2026 07:24:03 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻涉及字节跳动（中国企业）的AI模型进入特斯拉中国车辆，体现中国科技产品在海外品牌本土化中的国际化合作，虽非直接出海但属于中国技术对外输出。"
+  },
+  "ar": {
+    "source": "钛媒体",
+    "lang": "ar",
+    "title": "تضيف تسلا لأول مرة نموذجًا صينيًا كبيرًا إلى سياراتها في الصين",
+    "summary": "بدأت الشركة في طرح نموذج Doubao من ByteDance داخل برمجيات سياراتها في الصين، وهي خطوة نادرة تخرج عن تفضيلها للأنظمة المطوّرة داخليًا. وتعالج هذه الخطوة تجربة المقصورة والمتطلبات المحلية، بينما تبقى تقنية القيادة الأساسية تحت سيطرة تسلا نفسها.",
+    "url": "https://www.tmtpost.com/8115448.html",
+    "publishedAt": "Tue, 25 Aug 2026 07:24:03 +0800",
+    "relevant": true,
+    "score": 8,
+    "reason": "该新闻涉及字节跳动（中国企业）的AI模型进入特斯拉中国车辆，体现中国科技产品在海外品牌本土化中的国际化合作，虽非直接出海但属于中国技术对外输出。"
+  }
+}

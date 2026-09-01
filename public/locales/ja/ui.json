@@ -3,17 +3,17 @@
   "lang.en": "English",
   "lang.ja": "日本語",
   "lang.ar": "العربية",
-  "nav.home": "出海情報",
+  "nav.home": "海外ニュース",
   "nav.back": "← リストに戻る",
   "section.featured": "今日の注目",
-  "section.latest": "最新情報",
+  "section.latest": "最新ニュース",
   "article.source": "出典",
-  "article.readmore": "記事を読む →",
+  "article.readmore": "原文を読む →",
   "article.featured_badge": "注目",
   "article.score_suffix": "点",
   "footer.tagline": "毎日自動更新",
-  "footer.source_note": "データは公開RSSフィードから取得しています",
+  "footer.source_note": "データは公開RSS購読に基づく",
   "status.loading": "読み込み中",
-  "status.no_articles": "記事はありません",
-  "status.count": "{count} 件の記事"
+  "status.no_articles": "ニュースはありません",
+  "status.count": "{count} 件のニュース"
 }

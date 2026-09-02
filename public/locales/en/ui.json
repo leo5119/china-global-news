@@ -5,15 +5,15 @@
   "lang.ar": "العربية",
   "nav.home": "Overseas News",
   "nav.back": "← Back to List",
-  "section.featured": "Today's Featured",
+  "section.featured": "Today's Picks",
   "section.latest": "Latest News",
   "article.source": "Source",
   "article.readmore": "Read Original →",
   "article.featured_badge": "Featured",
   "article.score_suffix": " points",
-  "footer.tagline": "Updated Daily",
+  "footer.tagline": "Updated daily",
   "footer.source_note": "Data from public RSS subscriptions",
   "status.loading": "Loading",
-  "status.no_articles": "No news available",
+  "status.no_articles": "No articles available",
   "status.count": "{count} articles"
 }

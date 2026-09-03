@@ -1,0 +1,514 @@
+[
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "外资零售开启在华“二次进化”",
+    "summary": "不同于早年大店扩张、全域铺货的粗放模式，本轮外资的集体入局不再是简单的业态复刻，而是一场模式轻量化、品类精细化、运营本土化的整体重构，也意味着外资零售品牌进入了深度本土化的全新发展周期。",
+    "url": "https://www.tmtpost.com/8125582.html",
+    "publishedAt": "Thu, 03 Sep 2026 14:31:48 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "医美上游最赚钱的逻辑，失效了",
+    "summary": "价格战、产能折旧和流量成本，正在改写医美行业的赚钱逻辑。",
+    "url": "https://www.tmtpost.com/8126803.html",
+    "publishedAt": "Thu, 03 Sep 2026 13:35:39 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "康诺亚冲刺回A：不缺钱的Biotech，为什么要换一张牌桌？",
+    "summary": "没有回A的能力，不足以语Biopharma。",
+    "url": "https://www.tmtpost.com/8126922.html",
+    "publishedAt": "Thu, 03 Sep 2026 13:35:28 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "Gemini 3.8 Flash：谷歌把价格战打进了token消耗层",
+    "summary": "单价没变，账单先涨四成。",
+    "url": "https://www.tmtpost.com/8126955.html",
+    "publishedAt": "Thu, 03 Sep 2026 13:35:22 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "Sam Altman最新长谈：过去一年走了弯路，将砍掉支线任务，打造超级大一统Agent",
+    "summary": "ChatGPT与Codex即将迎来的大一统融合。",
+    "url": "https://www.tmtpost.com/8127005.html",
+    "publishedAt": "Thu, 03 Sep 2026 13:35:02 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "上头AI裁员的老板里，超过一半都后悔了",
+    "summary": "AI裁员后遗症比想象中来得更快。",
+    "url": "https://www.tmtpost.com/8127002.html",
+    "publishedAt": "Thu, 03 Sep 2026 13:23:01 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "MiniMax、阿里同时布局视频Agent，拼完模型开始拼工作流？",
+    "summary": "当模型能力不再是稀缺资源，谁能掌握从生产到分发的完整链路，谁才能在下一阶段的内容工业变革中占据主动。",
+    "url": "https://www.tmtpost.com/8126960.html",
+    "publishedAt": "Thu, 03 Sep 2026 13:22:55 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "FDE火了，企业会把钥匙交给外人吗？",
+    "summary": "如果驻场队伍越来越大、合作期限越来越长、客户离开这批人就无法运行，那么FDE只是给传统外包换了一个更昂贵的名字。",
+    "url": "https://www.tmtpost.com/8126962.html",
+    "publishedAt": "Thu, 03 Sep 2026 13:22:50 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "降价也卖不动，近400万吨小龙虾，都去哪了？",
+    "summary": "养殖户亏钱、餐厅卖不动了，这些还在不断长出来的小龙虾，究竟去哪了？",
+    "url": "https://www.tmtpost.com/8126894.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:41:58 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "Claude把“回忆”砍到2毛5，OpenAI的万亿参数正在失去护城河",
+    "summary": "一场关于AI\"记性\"的定价战，暴露了Agent商业化的真正底牌。",
+    "url": "https://www.tmtpost.com/8126479.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:41:52 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "人形机器人的天花板不在算法，在热力学",
+    "summary": "端侧大模型推理35–40W、流畅控制需200W+，电池越重越费电，人形机器人卡死在\"能用-重量-散热\"的物理内环。工厂平面工位，可拆掉双足；换个环境，腿无可替代。",
+    "url": "https://www.tmtpost.com/8126785.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:41:35 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "从“喝到”到“吃到”，新茶饮第一口之争变了",
+    "summary": "顶料，正在从茶饮店里的配角变成主角。",
+    "url": "https://www.tmtpost.com/8126892.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:41:28 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "空调行业，再掀“变频大战”？",
+    "summary": "Hz越来越低，行业越来越卷。",
+    "url": "https://www.tmtpost.com/8126095.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:38:33 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "惠州首富资本大腾挪：PCB龙头划转240 亿，老板娘拿下近半股权",
+    "summary": "胜宏科技董事长转让大额股权。",
+    "url": "https://www.tmtpost.com/8126092.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:38:14 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "国产芯片的两场豪赌：寒武纪买确定性，摩尔线程买时间",
+    "summary": "以盈利为界，半年报讲述着同一个行业里两种出身、两种战略、两种面对极限挑战的对策。学术派的厚积与产业派的快攻，正在共同谱写国产AI芯片的未来。",
+    "url": "https://www.tmtpost.com/8126347.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:37:05 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "地平线换了种方式赚钱，高投入还在持续",
+    "summary": "地平线，想吃“车企价格战”的红利？",
+    "url": "https://www.tmtpost.com/8126784.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:27:33 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "最强模型Fable 5.1发布，Anthropic要用降价换IPO",
+    "summary": "最强模型不等于最好卖。",
+    "url": "https://www.tmtpost.com/8126540.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:27:27 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "消失的CD47们",
+    "summary": "静待转机出现。",
+    "url": "https://www.tmtpost.com/8126718.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:27:22 +0800"
+  },
+  {
+    "source": "钛媒体",
+    "lang": "zh",
+    "title": "基金市场概况与资产配置观点 （2026.08.24—2026.08.30）",
+    "summary": "债市震荡下行，利率债和信用债收益率多数上行，市场环境对债券型基金表现产生影响。您是否想知道如何在当前市场环境中优化您的投资组合？",
+    "url": "https://www.tmtpost.com/8126855.html",
+    "publishedAt": "Thu, 03 Sep 2026 11:10:23 +0800"
+  },
+  {
+    "source": "Rest of World",
+    "lang": "en",
+    "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
+    "summary": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+    "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "publishedAt": "Wed, 02 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "source": "Rest of World",
+    "lang": "en",
+    "title": "AI safety is designed in the West, and failing users everywhere",
+    "summary": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.",
+    "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "publishedAt": "Tue, 01 Sep 2026 10:00:00 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Xi Jinping’s call for Mideast to build own security framework is a message to US: expert",
+    "summary": "Xi Jinping has urged Middle Eastern nations to build a self-led security model, signalling a push to cut reliance on Washington following further US-Iran military clashes, although China’s president did not position Beijing as an alternative security guarantor.\nOn his first visit to Egypt in a decade, Xi made the proposal during talks with Egyptian President Abdel-Fattah el-Sisi at Cairo’s Ittihadiya Palace on Wednesday.\nAnalysts said the meeting reflected Egypt’s efforts to strengthen relations...",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366206/xi-jinpings-call-mideast-build-own-security-framework-message-us-expert?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 06:40:50 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Chinese chipmaker Enflame 4,073 times oversubscribed in Shanghai IPO amid Nvidia race",
+    "summary": "Enflame Technology, one of China’s leading AI chipmakers, has sparked a retail frenzy for its 6.12 billion yuan (US$910.9 million) initial public offering (IPO) in Shanghai’s tech-heavy Star Market, underscoring growing investor appetite for home-grown alternatives to Nvidia.\nThe Tencent Holdings-backed chipmaker saw the retail portion of its IPO oversubscribed by 4,073 times, with about 7 million online investors alone submitting orders for 42.1 billion shares, according to its filing to the...",
+    "url": "https://www.scmp.com/tech/big-tech/article/3366203/chinese-chipmaker-enflame-4073-times-oversubscribed-shanghai-ipo-amid-nvidia-race?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 06:17:41 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Iran targets US bases in Kuwait despite warnings from Trump",
+    "summary": "Iran attacked US military bases in Kuwait on Thursday, despite US President Donald Trump threatening further strikes in a fresh flare-up six months into the war.\nTrump said his military was prepared to attack Iran “any time we want” after extensive US bombardment of sites across the country left at least 19 Iranians dead.\nTehran retaliated by hitting US military targets across the Middle East, including in Kuwait, Jordan, the United Arab Emirates, Bahrain and Iraq’s autonomous Kurdistan...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366202/iran-targets-us-bases-kuwait-despite-warnings-trump?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 06:15:19 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Operators of over 60% of subdivided flats apply for 3-year grace period to meet rules",
+    "summary": "Operators of over 60 per cent of subdivided flats in Hong Kong have applied for a three-year grace period to give themselves more time to comply with a regulatory regime rolled out six months ago, the housing minister has said.\nSecretary for Housing Winnie Ho Wing-yin said on Thursday the applications involved more than 70,000 subdivided units from about 20,000 complete flats, as of Monday. This was more than double the 34,000 applications received as of August 10.\nMonday marked the deadline for...",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3366201/operators-over-60-subdivided-flats-apply-3-year-grace-period-meet-rules?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 06:14:09 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Luxury homes in Singapore’s largest money laundering case hit the auction block",
+    "summary": "Another 14 luxury condominium units and a grade A office at Suntec Tower One forfeited in connection with Singapore’s largest money laundering case will be put up for sale at auctions this month.\nThe properties, located in prime areas such as River Valley and Orchard, will be auctioned by real estate firms Edmund Tie & Company (ETC) and Knight Frank.\nAs of Thursday morning, a total of 25 properties have been listed for auction.\nETC will auction units at South Beach Residences, 8 Saint Thomas and...",
+    "url": "https://www.scmp.com/news/asia/southeast-asia/article/3366198/luxury-homes-singapores-largest-money-laundering-case-hit-auction-block?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 06:03:34 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Hong Kong considers DNA testing amid concerns over ‘fighting dog’ classification",
+    "summary": "Hong Kong authorities are considering genetic testing as a supplementary tool for identifying breeds, an official has said after enforcement action against suspected fighting dogs sparked public concern.\nThe Agriculture, Fisheries and Conservation Department (AFCD) also said on Thursday that owners could keep existing fighting dogs, provided they complied with statutory requirements, and urged owners not to abandon their pets.\nDr Michelle Yeung Lee, the department’s principal veterinary officer,...",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3366195/hong-kong-considers-dna-testing-amid-concerns-over-fighting-dog-classification?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 05:35:20 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Retired Cardinal Joseph Zen, 4 others lose appeal over failure to register defence fund",
+    "summary": "Retired Catholic leader Joseph Zen Ze-kiun and four other activists have lost an appeal against their convictions for failing to register their legal defence fund for those involved in the 2019 anti-government protests in Hong Kong.\nThe Court of Appeal on Thursday upheld a magistrate’s findings that the now-defunct 612 Humanitarian Relief Fund fell within the definition of a society under the Societies Ordinance and its members were required to register the group with police or ask for an...",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366194/retired-cardinal-joseph-zen-4-others-lose-appeal-over-failure-register-defence-fund?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 05:25:55 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "3 women charged with fighting in Hong Kong mall granted bail, banned from venue",
+    "summary": "A Hong Kong court has granted three women bail after they were charged with fighting in the children’s play area of a shopping centre and barred them from returning to the venue.\nLeung Lai-ha, 68, her 34-year-old daughter Ng Ka-wun and Xu Yang, 34, made their first appearance at Kwun Tong Court on Thursday to face charges after their altercation on August 26 at the atrium of APM shopping centre in Kwun Tong.\nTheir confrontation was captured in a video posted on social media, and the three...",
+    "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366190/3-women-charged-fighting-hong-kong-mall-granted-bail-banned-venue?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 05:05:35 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Beijing ramps up coastguard patrols and scientific surveys near Taiwan",
+    "summary": "Beijing said it conducted a routine patrol in waters east of Taiwan on Thursday, the latest in weeks of ramped-up activity by coastguard and other vessels that has alarmed the island.\nChina Coast Guard spokesman Jiang Lue said a formation led by the Putuoshan vessel carried out a “law enforcement” patrol “in accordance with the law”.\nHe said the formation had strengthened control over the waters since last month, safeguarding the rights and interests of Chinese citizens.\n“The China Coast Guard...",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366189/beijing-sends-coastguard-conduct-law-enforcement-patrol-near-taiwan?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 05:03:54 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Businessman acquitted in murder of Malta journalist that brought down government",
+    "summary": "A Maltese court on Wednesday acquitted tycoon Yorgen Fenech of orchestrating the car-bomb killing of investigative reporter Daphne Caruana Galizia, sparking outrage from her family and media freedom advocates.\nThe wealthy businessman had stood accused of masterminding the 2017 assassination of 53-year-old Caruana Galizia, which sparked unprecedented protests and brought down a government.\nCaruana Galizia’s family said in a statement that Fenech’s acquittal was “denying her the justice she...",
+    "url": "https://www.scmp.com/news/world/europe/article/3366185/businessman-acquitted-murder-malta-journalist-brought-down-government?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 04:31:39 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Meet the other OFWs offering humorous takes on ‘crazy’ life in Philippines’ Makati",
+    "summary": "Young professionals in Makati City are humorously redefining OFW as “overworked” or “on-site” Filipino workers, parodying the high costs and urban convenience of Metro Manila’s premier financial district.\nIn the Philippines, OFW generally refers to overseas Filipino workers who move abroad in search of better opportunities and pay.\nBut recently, the acronym has been given a new meaning by some Makati residents who post social media reels chronicling their expatriate-style lifestyle, complete...",
+    "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3366184/meet-other-ofws-offering-humorous-takes-crazy-life-philippines-makati?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 04:30:39 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Creative industry mourns Hong Kong advertising ‘queen’ Kitty Lun Kit-ying",
+    "summary": "The global advertising industry is mourning the death of Hong Kong-born Meta Greater China creative chief Kitty Lun Kit-ying, who drowned in a swimming pool at a residential complex earlier this week.\nA source close to the investigation confirmed on Thursday that Lun was identified as the 70-year-old woman who died after drowning in the pool of Ville De Cascade in Fo Tan on Monday.\nShe was seen swimming at about 5.20pm on Monday and was later pulled unconscious from the pool.\nResuscitation was...",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3366181/creative-industry-mourns-hong-kong-advertising-queen-kitty-lun-kit-ying?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 03:58:23 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Unstable Tibetan Plateau risks cascading disasters as glacier losses mount in Nepal, China",
+    "summary": "Glaciers on the Tibetan Plateau are likely to become more unstable, which may lead to more collapses and collateral disasters, a senior climate official warns as the death toll from last week’s catastrophic landslide and flood on the China-Nepal border continues to rise.\n“Over the past 60 years, the glacier area on the Tibetan Plateau has shrunk by around 24 per cent, with around 7,000 small glaciers disappearing completely,” Gao Rong, deputy director of China’s National Climate Centre, told a...",
+    "url": "https://www.scmp.com/news/china/article/3366180/unstable-tibetan-plateau-risks-cascading-disasters-glacier-losses-mount-nepal-china?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 03:56:19 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Venezuela’s Maduro seeks dismissal of US charges, citing immunity",
+    "summary": "Ousted Venezuelan president Nicolas Maduro urged a US judge on Wednesday to dismiss criminal drug trafficking charges against him, arguing he should be immune from prosecution as the head of a sovereign country.\nThe charges, filed in Manhattan federal court, formed the basis for the US military’s raid on Caracas and capture of Maduro on January 3. The Venezuelan leader, who has been held ‌in a Brooklyn federal jail since his seizure, has pleaded not guilty and is scheduled to go on trial on June...",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3366178/venezuelas-maduro-seeks-dismissal-us-charges-citing-immunity?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 03:45:24 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Mainland Chinese investors buy Hong Kong tech stocks in AI pivot, sell financials",
+    "summary": "Chinese mainland investors rotated into Hong Kong stocks tied to artificial intelligence and pulled out of companies in traditional industries in August, taking advantage of a market dip to boost bets on the world’s most cutting-edge technology.\nAI model developer MiniMax Group logged net buying of HK$10.1 billion (US$1.29 billion) last month, the most among the Hong Kong-listed companies available for China’s onshore investors through the Stock Connect programme, according to data compiled by...",
+    "url": "https://www.scmp.com/business/china-business/article/3366174/mainland-chinese-investors-buy-hong-kong-tech-stocks-ai-pivot-sell-financials?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 03:20:10 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Low jet flyover of packed Cape Town stadium sparks South Africa safety probe",
+    "summary": "A low-altitude flyover by two Airlink passenger jets before a rugby match at Cape Town’s DHL Stadium is being reviewed by South African aviation authorities after it drew safety concerns, officials said on Wednesday.\nThe South African Civil Aviation Authority (SACAA) said it had obtained flight data recordings and requested additional information from regional carrier Airlink as part of its assessment. A full report with recommendations would be issued once the review was complete.\n“It is...",
+    "url": "https://www.scmp.com/news/world/africa/article/3366172/low-jet-flyover-cape-town-stadium-sparks-south-africa-safety-probe?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 03:10:41 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "China rivalry ‘no excuse’: US Democrats allege corruption in Trump’s mining deals",
+    "summary": "US Democratic lawmakers on Wednesday accused the Donald Trump administration of using the critical minerals contest with China as an excuse for corruption – alleging billions of dollars in deals were enriching the president’s family and friends.\n“Competition with China is no excuse for abandoning safeguards that prevent taxpayer funds from being misused for private enrichment,” said Linda Sanchez, the Democratic lawmaker from California, at a Ways and Means Committee hearing titled “Strategic...",
+    "url": "https://www.scmp.com/news/china/diplomacy/article/3366169/china-rivalry-no-excuse-us-democrats-allege-corruption-trumps-mining-deals?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 02:18:45 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "In Iranian town, a wedding shattered by deadly strike during US air attack",
+    "summary": "A US missile hit a home in southern Iran where dozens were gathered to celebrate the wedding of a fisherman’s daughter, according to a rights group and Iranian media.\nIranian state media said four people – two women and two children – were killed and more than 60 were wounded. The rights group said one of the children, a teenager, was killed by another strike on a nearby communications tower.\nHeavy explosions shook the coastal town of Kuhestak on the Strait of Hormuz on Tuesday, and security...",
+    "url": "https://www.scmp.com/news/world/middle-east/article/3366168/iranian-town-wedding-party-was-shattered-deadly-strike-during-us-air-attack?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 02:11:38 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Hong Kong’s first high-end expo with yachts and supercars to launch in November",
+    "summary": "Hong Kong will roll out its first cross-industry exhibition for high-end products ranging from haute jewellery to supercars, yachts and private jets in November, as part of efforts to attract big spenders and cement the city as a global conference and event capital.\nThe South China Morning Post learned on Wednesday that the inaugural Festival of Connoisseurs will receive some of the HK$100 million (US$12.8 million) set aside in Hong Kong’s 2026-27 budget to attract large-scale international...",
+    "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3366155/hong-kongs-first-high-end-expo-yachts-and-supercars-launch-november?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 02:00:19 +0000"
+  },
+  {
+    "source": "SCMP Business",
+    "lang": "en",
+    "title": "Hong Kong culture chief pays tribute to late actor and dance pioneer Lau Siu-ming",
+    "summary": "Hong Kong’s culture chief has paid tribute to veteran actor and dancer Lau Siu-ming following his death on Wednesday at the age of 94, praising his outstanding artistic achievements and contributions to the cultural sector.\nLau, affectionately known as Ming Sir, died at about 6pm on Wednesday, according to media reports citing voice actor Ding Yue.\nAlthough the cause of death was not specified, Lau had reportedly been critically ill in recent years.\n“Ming Sir devoted his life to dance and the...",
+    "url": "https://www.scmp.com/news/hong-kong/society/article/3366166/hong-kong-actor-and-dance-pioneer-lau-siu-ming-dies-aged-94?utm_source=rss_feed",
+    "publishedAt": "Thu, 03 Sep 2026 01:44:39 +0000"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Guideline to steer auto industry's global expansion - China Daily",
+    "summary": "Guideline to steer auto industry's global expansion  China Daily",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IQ3Z0ZU8wSS1xd3JQOENCd3QwMDZrX0FxdGhXS2Q3SlBsWkFYeG85c2ZtRFNYVUlxdkJVT201VThRRkJqcDdNcEtRdkNSSXJpN1Z4LVNzRFpQMUc1UXctUmhBcjZiVlFrZGdVRVRVNDlUVnVuNTY3Z0d3YTR5dw?oc=5",
+    "publishedAt": "Wed, 02 Sep 2026 17:14:53 GMT"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "Accor accelerates its ambitions in China: a key driver for growth and innovation in tourism - Travel2Latam",
+    "summary": "Accor accelerates its ambitions in China: a key driver for growth and innovation in tourism  Travel2Latam",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWmFvWWZZZXpmR1dxT2pDTW5ya1RwOWxsYnA0Qm9JWjFVeWluN2M1ak1ZQ0xQZzhUbzVVYnZfdWhtNlBnS1Y2LXlBTFdURWRaS04tcUxrbFpSc3pGMTNZZWxvUWJmWDllREotbHByUlVKQWRIRFlnOWlhLUZxb3o2NExNQnZfU2tIckZOcGNiQnM0M1JvZXZYRHJzSUdTZXBLZXAzMm42WnlkZDFJdy10WVhMNHNEYVBSWGFjanVZUkdWdXd1N0VMR2ZKbmZ1SEY3?oc=5",
+    "publishedAt": "Wed, 02 Sep 2026 17:57:43 GMT"
+  },
+  {
+    "source": "Google News",
+    "lang": "en",
+    "title": "China Tightens Rules as Chinese Automakers Expand Overseas - chinaglobalsouth.com",
+    "summary": "China Tightens Rules as Chinese Automakers Expand Overseas  chinaglobalsouth.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOay13a0M3ajdtazRoRWVGZXZZX1FURlUyU3pGdHlTamdCNzgwT29zRkVEdlNBYVFLclJXbDQ3dTVPRVdaelVFcjhUYkUzbExFcXhpdmVzSzFTallRamZ6RU1UX0lYaXowcWJfeGJJdDJFcnVNQ2tTeFJuMUtZN3ZqUC1CNllXYkpmMm5ZQVkwVWplUQ?oc=5",
+    "publishedAt": "Tue, 01 Sep 2026 09:29:54 GMT"
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Solvay to double chip chemical output in Taiwan amid AI boom: CEO",
+    "summary": "",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/solvay-to-double-chip-chemical-output-in-taiwan-amid-ai-boom-ceo",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Very strong El Nino to run through February as Asia impacts build",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/environment/climate-change/very-strong-el-nino-to-run-through-february-as-asia-impacts-build",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Hong Kong's Cardinal Zen loses appeal over protest fund",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/hong-kong-security-law/hong-kong-s-cardinal-zen-loses-appeal-over-protest-fund",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Vietnam exports and imports soar to record levels on AI boom",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/vietnam-exports-and-imports-soar-to-record-levels-on-ai-boom",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Top British state school opens branch near Delhi and in Dubai",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/education/top-british-state-school-opens-branch-near-delhi-and-in-dubai",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Berkshire eyes bigger stakes in Japan trading houses: CEO Abel",
+    "summary": "",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/berkshire-eyes-bigger-stakes-in-japan-trading-houses-ceo-abel",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Malaysia draws global critical minerals interest as China curbs loom",
+    "summary": "",
+    "url": "https://asia.nikkei.com/spotlight/supply-chain/malaysia-draws-global-critical-minerals-interest-as-china-curbs-loom",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Stalled Thai airport rail project faces further uncertainty",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/transportation/stalled-thai-airport-rail-project-faces-further-uncertainty",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan Airlines CEO says aviation alliances taking on broader role",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/transportation/japan-airlines-ceo-says-aviation-alliances-taking-on-broader-role",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Uniqlo looks to rebuild brand image with pivot to flagship stores in Japan",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/retail/uniqlo-looks-to-rebuild-brand-image-with-pivot-to-flagship-stores-in-japan",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Fujitsu unlikely to keep making commodity-grade products, CFO says",
+    "summary": "",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/fujitsu-unlikely-to-keep-making-commodity-grade-products-cfo-says",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Blue Yonder still chasing profitability 5 years after Panasonic acquisition",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/companies/blue-yonder-still-chasing-profitability-5-years-after-panasonic-acquisition",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "SoftBank tests stratospheric aerial base station in Japan 1st",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/companies/softbank-tests-stratospheric-aerial-base-station-in-japan-1st",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "'Cyborg' rescue roaches take another leap forward with AI",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/technology/cyborg-rescue-roaches-take-another-leap-forward-with-ai",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Forget 2027. East Asia should brace for 2028",
+    "summary": "",
+    "url": "https://asia.nikkei.com/opinion/forget-2027.-east-asia-should-brace-for-2028",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Analysis: Xi Jinping purges his 'spy' in the military",
+    "summary": "",
+    "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-xi-jinping-purges-his-spy-in-the-military",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Yen surges to briefly touch low 158 level as intervention concerns linger",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/markets/currencies/yen-surges-to-briefly-touch-low-158-level-as-intervention-concerns-linger",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Japan's rising yields are impacting US market: senior Treasury official",
+    "summary": "",
+    "url": "https://asia.nikkei.com/editor-s-picks/interview/japan-s-rising-yields-are-impacting-us-market-senior-treasury-official",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "With opposition split, Japan's LDP eyes cooperation with ex-partner Komeito",
+    "summary": "",
+    "url": "https://asia.nikkei.com/politics/with-opposition-split-japan-s-ldp-eyes-cooperation-with-ex-partner-komeito",
+    "publishedAt": ""
+  },
+  {
+    "source": "Nikkei Asia",
+    "lang": "en",
+    "title": "Rising interest rates spur Japanese banks to rethink mortgages",
+    "summary": "",
+    "url": "https://asia.nikkei.com/business/finance/rising-interest-rates-spur-japanese-banks-to-rethink-mortgages",
+    "publishedAt": ""
+  }
+]
